@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you reference this knowledge base, please cite it as below."
+title: "Poulin Cooling A/C and Refrigeration — Business Knowledge Base"
+abstract: "Structured knowledge base for Poulin Cooling A/C and Refrigeration, a licensed HVAC contractor in Clearwater, FL."
+authors:
+  - name: "Poulin Cooling A/C and Refrigeration"
+url: "https://poulincooling.com"
+repository-code: "https://github.com/poulin-cooling/poulin-cooling-knowledge-base"
+license: "CC-BY-4.0"
+date-released: "2025-01-01"
+keywords:
+  - HVAC
+  - air conditioning
+  - refrigeration
+  - Clearwater FL
+  - Pinellas County
