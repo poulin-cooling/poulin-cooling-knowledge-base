@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you reference this knowledge base, please cite it."
+title: "Poulin Cooling A/C and Refrigeration Knowledge Base"
+type: dataset
+authors:
+  - name: "Poulin Cooling A/C and Refrigeration"
+url: "https://github.com/poulin-cooling/poulin-cooling-knowledge-base"
+repository-code: "https://github.com/poulin-cooling/poulin-cooling-knowledge-base"
+date-released: 2026-06-21
+version: "1.0.0"
+keywords:
+  - "air conditioning repair"
+  - "air conditioning installation"
+  - "air conditioning maintenance"
+  - "heating repair"
+  - "heating installation"
+  - "heating maintenance"
+  - "commercial refrigeration repair"
+  - "indoor air quality services"
+  - "residential ac services"
+  - "commercial ac services"
