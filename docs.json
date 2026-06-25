@@ -1,0 +1,115 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Poulin Cooling A/C and Refrigeration",
+  "colors": {
+    "primary": "#0B6BB3",
+    "light": "#3B9CD9",
+    "dark": "#0B6BB3"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Systems & Equipment",
+        "pages": [
+          "air-conditioning-contractor",
+          "central-air-conditioning-systems",
+          "residential-hvac",
+          "ductless-mini-split-systems",
+          "heat-pumps",
+          "variable-refrigerant-flow",
+          "air-handlers",
+          "compressors",
+          "condenser-units",
+          "blower-motors",
+          "zoning-systems"
+        ]
+      },
+      {
+        "group": "Air Distribution",
+        "pages": [
+          "airflow",
+          "ductwork",
+          "duct-sealing",
+          "air-duct-cleaning",
+          "ventilation"
+        ]
+      },
+      {
+        "group": "Indoor Air Quality",
+        "pages": [
+          "humidity-control",
+          "dehumidifier",
+          "indoor-air-quality-solutions",
+          "poor-indoor-air-quality",
+          "hepa-filter",
+          "uv-lights",
+          "air-filters",
+          "dirty-air-filter",
+          "merv-rating"
+        ]
+      },
+      {
+        "group": "Controls",
+        "pages": [
+          "programmable-thermostat",
+          "thermostats"
+        ]
+      },
+      {
+        "group": "Efficiency & Sizing",
+        "pages": [
+          "cooling-efficiency",
+          "energy-efficiency",
+          "seer-rating",
+          "btu",
+          "tonnage",
+          "load-calculation",
+          "manual-j",
+          "high-energy-bills",
+          "hvac-system-energy-management"
+        ]
+      },
+      {
+        "group": "Diagnostics & Repairs",
+        "pages": [
+          "coolant-leak",
+          "frozen-evaporator-coil",
+          "system-diagnostics",
+          "preventative-maintenance",
+          "ac-not-cooling",
+          "uneven-cooling",
+          "ac-breakdown",
+          "emergency-ac-repair",
+          "ac-unit-replacement",
+          "refrigerant",
+          "clogged-drain-lines",
+          "electrical-malfunctions"
+        ]
+      },
+      {
+        "group": "Who We Serve",
+        "pages": [
+          "comfort",
+          "homeowners",
+          "commercial-property-managers",
+          "landlords",
+          "new-construction-builders"
+        ]
+      },
+      {
+        "group": "Standards & Certifications",
+        "pages": [
+          "hvac-licensing",
+          "building-codes",
+          "nate-certification",
+          "epa-section-608-certification"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {}
+  }
+}
