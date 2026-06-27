@@ -1,0 +1,67 @@
+# BTU: A Poulin Cooling A/C and Refrigeration Reference Guide
+
+## BTU in Clearwater - Poulin Cooling A/C and Refrigeration
+
+BTU (British Thermal Unit) is the standard unit of heat energy used to measure the cooling and heating capacity of air conditioning systems. One BTU equals the energy required to raise one pound of water by one degree Fahrenheit. Residential and commercial AC systems in Clearwater are rated from 1,000 to over 100,000 BTUs depending on the space they serve. [Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/DLdT1amZejcZd7Kq6) uses BTU measurements to size, install, and service equipment across Clearwater properties.
+
+### What BTU is and how it works in air conditioning
+
+BTU is a unit of measurement that quantifies the amount of heat energy an air conditioning system removes from a space per hour. The full name is British Thermal Unit. One BTU represents the energy needed to change the temperature of one pound of water by one degree Fahrenheit. [An air conditioning contractor](air-conditioning-contractor.md) uses BTU ratings to match equipment capacity to the thermal load of a building.
+
+BTU ratings appear on every residential and commercial cooling unit. A standard window unit carries a rating between 5,000 and 12,000 BTUs. A central air system for a mid-sized home typically falls between 24,000 and 60,000 BTUs. The BTU value determines how much heat the system removes each hour of operation.
+
+BTU is a unit of energy, not a unit of efficiency. Efficiency is measured separately through the [SEER rating](seer-rating.md), which calculates how many BTUs of cooling a system delivers per watt of electricity consumed. A high BTU rating with a low SEER rating produces strong cooling at high energy cost.
+
+### Measurable attributes of BTU in HVAC systems
+
+BTU carries three primary measurable attributes in HVAC applications. The attributes are heat energy quantity, cooling or heating capacity, and temperature change per unit mass.
+
+- **Heat energy quantity:** Heat energy quantity is expressed in British Thermal Units, where one BTU equals approximately 1,055 joules. Residential systems operate across a range of 1,000 to over 100,000 BTUs depending on application.
+
+- **Cooling or heating capacity:** Cooling or heating capacity is rated in BTUs per hour (BTU/h). A 1-ton air conditioner delivers 12,000 BTU/h of cooling. [Tonnage](tonnage.md) is the direct conversion unit, where each ton equals 12,000 BTU/h.
+
+- **Temperature change per unit mass:** Temperature change per unit mass defines the base measurement: one BTU raises or lowers one pound of water by one degree Fahrenheit. This relationship anchors all HVAC sizing calculations.
+
+BTU/h is the most common form of the measurement in air conditioning specifications. Manufacturers list BTU/h on equipment nameplates, energy guides, and installation manuals. The technician reads this value to confirm the unit matches the calculated load for the space.
+
+### How BTU relates to cooling capacity and system sizing
+
+BTU determines the cooling capacity a system must deliver to maintain a target indoor temperature. Undersized systems run continuously without reaching the set temperature. Oversized systems short-cycle, shutting off before removing enough humidity from the air. Both conditions increase energy consumption and reduce equipment lifespan.
+
+A [load calculation](load-calculation.md) produces the exact BTU requirement for a structure. The calculation accounts for square footage, ceiling height, insulation values, window area, sun exposure, occupancy, and local climate data. Clearwater's high humidity and extended cooling season increase the BTU demand compared to drier or cooler climates.
+
+[Poulin Cooling A/C](https://sl.bing.net/hKN0Hwb3cHI) performs load calculations before recommending equipment. The result is a BTU target that guides unit selection. Installing a system without a load calculation produces a BTU mismatch that shortens compressor life and raises monthly utility costs.
+
+BTU is a product attribute that directly determines tonnage. A 2-ton system delivers 24,000 BTU/h. A 3-ton system delivers 36,000 BTU/h. A 5-ton system delivers 60,000 BTU/h. These values are fixed by the equipment and must align with the calculated load.
+
+### Common signs of a BTU mismatch in Clearwater homes
+
+BTU mismatch produces recognizable symptoms inside the conditioned space. The 4 most common signs are persistent humidity, uneven temperatures, short cycling, and continuous operation without reaching setpoint.
+
+- **Persistent humidity:** Persistent humidity above 60% relative humidity indoors indicates an oversized system. The unit cools the air temperature quickly but shuts off before completing a full dehumidification cycle.
+
+- **Uneven temperatures:** Uneven temperatures between rooms indicate an undersized system. The unit lacks the BTU capacity to distribute conditioned air evenly across the full square footage.
+
+- **Short cycling:** Short cycling occurs when the system reaches the thermostat setpoint in under 10 minutes and shuts off. Cycles shorter than 10 minutes signal excess BTU capacity for the space.
+
+- **Continuous operation without reaching setpoint:** Continuous operation without reaching the thermostat setpoint signals insufficient BTU capacity. The system runs at full output but cannot overcome the thermal load of the structure.
+
+BTU mismatch left unaddressed accelerates compressor wear. Compressor replacement costs range from $1,200 to $2,800 on residential systems. Correcting the BTU sizing at installation eliminates this failure mode entirely.
+
+### Where BTU applies across cooling and refrigeration equipment
+
+BTU applies across every category of cooling and refrigeration equipment [Poulin Cooling](https://share.google/NfZpcS3Cg4CVRGIiO) services in Clearwater. The measurement appears in residential central air systems, ductless mini-splits, commercial rooftop units, and refrigeration cases.
+
+BTU ratings for residential central air systems range from 18,000 to 60,000 BTU/h for homes between 900 and 3,000 square feet. Ductless mini-split systems carry ratings from 9,000 to 36,000 BTU/h per zone. Commercial rooftop units exceed 120,000 BTU/h for large retail or office spaces. Refrigeration cases in commercial kitchens and grocery environments use BTU ratings to define heat extraction from the refrigerated volume.
+
+BTU is a unit of energy that connects every piece of cooling equipment to a single measurable standard. The SEER rating converts BTU output into an efficiency ratio. Tonnage converts BTU/h into a capacity shorthand. Load calculation converts building characteristics into a BTU target. All four entities operate on the BTU foundation, making it the central attribute in any HVAC sizing or replacement decision.
+
+### Related entities
+
+- [seer rating](seer-rating.md) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+
+- [tonnage](tonnage.md) — sibling entity (same sub-cluster)
+
+- [load calculation](load-calculation.md) — sibling entity (same sub-cluster)

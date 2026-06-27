@@ -1,0 +1,43 @@
+# Heat Pumps: A Poulin Cooling A/C and Refrigeration Reference Guide
+
+## Heat pumps in Clearwater - Poulin Cooling A/C and Refrigeration
+
+Heat pumps are HVAC systems that transfer heat between indoor and outdoor environments, providing both heating and cooling from a single unit. A heat pump operates at a Coefficient of Performance (COP) between 2.5 and 4.5, meaning it delivers 2.5 to 4.5 units of thermal energy for every unit of electricity consumed. [Poulin Cooling AC Repair](https://maps.app.goo.gl/Rc3soX6zBc7d2B7u8) installs, repairs, and maintains heat pump systems for residential and commercial properties throughout Clearwater, FL.
+
+### What heat pumps are and how they work
+
+Heat pumps are reversible air conditioners that move thermal energy rather than generate it, making them a distinct product subtype within the broader HVAC equipment category. A heat pump extracts heat from outdoor air and transfers it indoors during winter, then reverses the cycle to expel indoor heat outside during summer. This single-system approach replaces the need for separate gas furnaces and cooling units. The core components of a heat pump are the **compressor**, the **evaporator coil**, and the **condenser coil**, each playing a defined role in the refrigerant cycle. The compressor pressurizes the refrigerant to initiate heat transfer. The evaporator coil absorbs heat from one environment. The condenser coil releases that heat into the target environment. Heat pump systems operate across an outdoor temperature range of -15°F to 100°F, covering the full climate range found in Clearwater. A heat pump is a direct contrast to gas furnaces and electric resistance heaters, both of which generate heat through combustion or electrical resistance rather than transferring it. For properties already served by [air handlers](air-handlers.md), a heat pump integrates directly as the outdoor unit in a split-system configuration.
+
+### Measurable attributes of heat pump systems
+
+Heat pump systems carry specific, verifiable performance attributes that determine suitability for a given property. The Coefficient of Performance ranges from 2.5 to 4.5 COP, a measurement that reflects thermal output per unit of electrical input. A COP of 3.0 means the system delivers 300% of the energy it consumes, a figure no electric resistance heater achieves. The operating temperature range spans -15°F to 100°F, which covers every seasonal condition in Clearwater, FL. Refrigerant capacity ranges from 1 ton to 60 tons, accommodating single-room applications up to large commercial buildings. The right heat pump for a given property matches COP rating to local climate, refrigerant capacity to the conditioned square footage, and operating range to the lowest expected outdoor temperature.
+
+Is a higher COP always better? Yes, a higher COP directly reduces electricity consumption for the same thermal output, lowering monthly utility costs without sacrificing comfort.
+
+### How heat pumps relate to the broader HVAC system
+
+Heat pumps are a product subtype of HVAC equipment, sitting within the larger category of heating and cooling appliances. A heat pump connects to [air handlers](air-handlers.md) indoors to distribute conditioned air through ductwork, forming a complete split system. In ductless configurations, a heat pump pairs with wall-mounted indoor units instead of a central air handler. [Ductless mini split systems](ductless-mini-split-systems.md) represent the most common ductless heat pump format, delivering zoned heating and cooling without requiring existing ductwork. The refrigerant line set connects the outdoor heat pump unit to the indoor air handler or mini split head, completing the thermal transfer loop. A licensed [air conditioning contractor](air-conditioning-contractor.md) sizes the refrigerant capacity, selects the correct COP rating, and ensures the system meets local building codes before installation begins. [Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/XjgrHsmodU) handles the full scope of heat pump integration, from equipment selection through final commissioning.
+
+### Common heat pump problems and signs of failure
+
+Heat pump problems fall into 3 primary categories: **refrigerant issues**, **compressor failures**, and **coil degradation**.
+
+- **Refrigerant issues:** Refrigerant issues include low charge, leaks at line set connections, and overcharge conditions. A heat pump running with low refrigerant delivers reduced COP, often dropping below 2.0, and struggles to maintain set temperatures in either heating or cooling mode.
+
+- **Compressor failures:** Compressor failures present as hard starts, loud grinding or clanking sounds, and complete loss of heating or cooling output. The compressor is the most expensive single component in a heat pump system, and failure typically requires full compressor replacement or unit replacement depending on system age.
+
+- **Coil degradation:** Coil degradation affects both the evaporator coil and condenser coil. Dirty or corroded coils restrict heat transfer, forcing the compressor to work harder and reducing COP measurably. In Clearwater's coastal environment, salt air accelerates condenser coil corrosion, making annual coil inspection a necessary maintenance step.
+
+A heat pump that runs continuously without reaching the thermostat setpoint, produces ice on the outdoor unit outside of defrost cycles, or trips the circuit breaker repeatedly requires immediate diagnostic service. Ignoring these signs extends compressor run time, increases electricity consumption, and shortens total system lifespan.
+
+### Where heat pumps apply in Clearwater properties
+
+Heat pumps apply across residential, light commercial, and refrigeration applications in Clearwater, FL. Single-family homes use split-system heat pumps paired with central air handlers to condition the entire structure through existing ductwork. Multi-room additions, garages, and converted spaces use ductless heat pump configurations where running new ductwork is impractical. Light commercial properties including retail spaces, offices, and server rooms use heat pumps sized from 3 tons to 20 tons to manage both occupant comfort and equipment cooling loads. Refrigeration applications use heat pump technology in the form of heat transfer units that maintain precise temperature ranges for food storage and cold chain logistics. Clearwater's climate, with outdoor temperatures consistently within the 40°F to 95°F operating band, allows heat pumps to run in high-efficiency mode year-round without the COP penalties seen in colder northern climates. [Poulin Cooling A/C](https://share.google/ZvbmBZwRtNFIAkD7I) serves all of these application types, matching refrigerant capacity and COP rating to the specific load requirements of each property.
+
+### Related entities
+
+- [ductless mini split systems](ductless-mini-split-systems.md) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+
+- [air handlers](air-handlers.md) — sibling entity (same sub-cluster)

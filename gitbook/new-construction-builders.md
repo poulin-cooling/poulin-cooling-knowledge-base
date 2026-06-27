@@ -1,0 +1,57 @@
+# New Construction Builders: A Poulin Cooling A/C and Refrigeration Reference Guide
+
+## New construction builders in Clearwater - Poulin Cooling A/C and Refrigeration
+
+New construction builders are professionals responsible for constructing new residential or commercial properties from the ground up. A typical new construction project runs 6 to 18 months from groundbreaking to certificate of occupancy. HVAC system installation is a required component of every new build, making the relationship between builders and a licensed [air conditioning contractor](air-conditioning-contractor.md) a structural dependency, not an optional add-on. [Poulin Cooling](https://maps.app.goo.gl/KW8mFxhPFhswLkqR8) works directly with new construction builders in Clearwater to size, install, and commission cooling systems before the first resident or tenant takes occupancy.
+
+### What new construction builders are in the construction industry
+
+New construction builders are a defined category of construction industry professionals who manage the full lifecycle of a new property build. The broader category that contains new construction builders is the construction industry professional class, which includes renovation contractors and retrofit specialists. New construction builders differ from renovation contractors in one measurable way: renovation contractors modify existing structures, while new construction builders start from a cleared or undeveloped site. The 3 core component parts of a new construction builder operation are project managers, construction crews, and subcontractor networks. [Landlords](landlords.md) who commission new multi-unit residential properties are the most common clients in the new construction builder category in Clearwater.
+
+New construction builders are known as building contractors, home builders, and construction developers. Each alternate name reflects a different scale of operation. Home builders typically operate at the single-family residential scale. Construction developers operate at the multi-unit or commercial scale. Building contractors span both.
+
+### Measurable attributes of new construction builders
+
+New construction builders carry 3 measurable attributes that define project scope and contractor requirements. The 3 attributes are project timeline, construction volume, and licensing status.
+
+- **Project timeline:** Project timeline for new construction runs 6 to 18 months depending on property type, permitting speed, and subcontractor scheduling. HVAC rough-in occurs at the framing stage, typically 2 to 4 months into the build. Commissioning and final inspection occur in the last 30 to 60 days before occupancy.
+
+- **Construction volume:** Construction volume defines whether a builder operates at the residential or commercial scale. Residential new construction typically involves single-family homes or small multi-unit buildings. Commercial new construction involves office buildings, retail centers, and industrial facilities, each requiring a different HVAC load calculation and equipment class.
+
+- **Licensing status:** Licensing status for new construction builders is state-certified in Florida. A state-certified builder must coordinate with state-licensed subcontractors, including HVAC contractors, to pass final inspection. Poulin Cooling A/C and Refrigeration holds the licensing required to operate as a subcontractor on state-certified new construction projects in Clearwater.
+
+### How new construction builders relate to HVAC systems and subcontractors
+
+New construction builders require HVAC system installation as a non-negotiable component of every permitted build. Florida building code mandates mechanical ventilation and cooling in all new residential and commercial structures. The relationship between a new construction builder and an HVAC subcontractor follows a defined sequence. The 4 stages are load calculation, equipment selection, rough-in installation, and commissioning.
+
+Load calculation determines the tonnage required for the structure based on square footage, ceiling height, insulation value, and window exposure. Equipment selection follows load calculation and must match the mechanical schedule submitted with the building permit. Rough-in installation places ductwork, refrigerant lines, and electrical connections inside the wall and ceiling cavities before drywall closes. Commissioning verifies airflow, refrigerant charge, thermostat calibration, and system performance before the certificate of occupancy is issued.
+
+New construction builders who coordinate HVAC subcontractors early in the project timeline reduce the risk of schedule delays at the rough-in and inspection stages. [Homeowners](homeowners.md) who purchase new construction properties inherit the HVAC system installed by the builder's subcontractor, making subcontractor selection a long-term quality decision. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/jxWOb9tkHTw) provides load calculations, equipment scheduling, and full installation services for new construction builders in Clearwater.
+
+### Common problems new construction builders face with HVAC coordination
+
+New construction builders encounter 4 recurring HVAC coordination problems that delay inspections and increase project costs. The 4 problems are undersized equipment, duct installation errors, late subcontractor scheduling, and failed commissioning inspections.
+
+- **Undersized equipment:** Undersized equipment results from a load calculation performed without accurate final plans. A system undersized by even half a ton fails to maintain the required indoor temperature differential, which triggers a failed mechanical inspection.
+
+- **Duct installation errors:** Duct installation errors include improper sealing, incorrect duct sizing, and unbalanced airflow distribution. Unsealed duct connections lose 20 to 30 percent of conditioned air before it reaches the living space, reducing system efficiency and increasing energy costs for the end occupant.
+
+- **Late subcontractor scheduling:** Late subcontractor scheduling forces HVAC rough-in to occur after drywall installation, requiring destructive access to wall cavities. This adds 3 to 10 days to the project timeline and increases labor costs.
+
+- **Failed commissioning inspections:** Failed commissioning inspections occur when refrigerant charge, airflow, or thermostat settings fall outside the parameters specified on the mechanical permit. A single failed inspection delays the certificate of occupancy by 5 to 15 business days in Clearwater.
+
+### Where new construction builders operate and who they work alongside
+
+New construction builders operate across residential subdivisions, commercial corridors, and mixed-use developments throughout Clearwater and the broader Tampa Bay region. The subcontractor network a builder assembles determines the quality and inspection pass rate of every project. [Commercial property managers](commercial-property-managers.md) who take ownership of newly constructed buildings depend on the mechanical systems installed during construction to perform reliably for 15 to 20 years without major capital replacement.
+
+New construction builders work alongside general contractors, electrical subcontractors, plumbing subcontractors, and HVAC subcontractors on every permitted build. The HVAC subcontractor is the only trade that touches the mechanical, electrical, and structural systems simultaneously, making early coordination with a licensed HVAC contractor the highest-impact scheduling decision a builder makes. [Poulin Cooling AC Repair](https://share.google/Az65kNyKN3z3CXwW6) serves new construction builders in Clearwater with load calculations, permit-ready mechanical schedules, rough-in installation, and final commissioning to deliver a system that passes inspection and performs for the life of the structure.
+
+### Related entities
+
+- [landlords](landlords.md) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+
+- [homeowners](homeowners.md) — sibling entity (same sub-cluster)
+
+- [commercial property managers](commercial-property-managers.md) — sibling entity (same sub-cluster)
