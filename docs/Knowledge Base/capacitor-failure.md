@@ -1,0 +1,58 @@
+---
+title: Capacitor Failure
+---
+## Capacitor failure in Clearwater - Poulin Cooling A/C and Refrigeration
+
+Capacitor failure is the degradation or complete loss of a run or start capacitor's ability to store and release an electrical charge, leaving the motors in your air conditioning system unable to start or run. A bad AC capacitor is one of the most common reasons a cooling system stops working on a hot Florida afternoon. Capacitor failure is a type of Electrical Component Failure, placing it in the same diagnostic category as [contactor failure](doc:contactor-failure) and other electrical malfunctions that interrupt normal system operation.
+
+### What capacitor failure is and how it differs from a healthy capacitor
+
+Capacitor failure is the condition in which a capacitor can no longer hold its rated capacitance, measured in microfarads (µF). A healthy capacitor reads within roughly five percent of its rated value on a capacitance meter. A weak capacitor drifts outside that tolerance, and a blown capacitor reads near zero or open on the same test. The contrast matters because a unit with a healthy capacitor starts its compressor and fan motors within seconds, while a unit with a failed one hums, trips, or refuses to start at all. Rated capacitance is the baseline every technician checks first during an [AC repair](doc:ac-repair) diagnosis.
+
+### Measurable attributes of capacitor failure
+
+Capacitor failure has three attributes that define its severity and guide the repair decision.
+
+- **Capacitance drift:** Capacitance drift is the percentage by which a capacitor's measured value has fallen from its rated value. A drift beyond five percent typically causes motor stress; a drift beyond twenty percent usually prevents starting entirely.
+
+- **Age at failure:** Age at failure for a run or start capacitor ranges from five to fifteen years, depending on heat exposure, voltage fluctuations, and duty cycle. Florida's year-round cooling season pushes capacitors toward the lower end of that range.
+
+- **Failure mode:** Failure mode describes how the capacitor gave out. The three modes are weak (reduced capacitance but still functional), open (circuit broken, no charge stored), and shorted (internal short that can damage connected motors).
+
+### AC capacitor failure symptoms to recognize
+
+Capacitor failure follows a recognizable pattern. Symptoms worsen as the component degrades further. The most common sign is a humming sound from the outdoor unit with no fan or compressor movement. A system that starts briefly then shuts off on a high-pressure fault often has a weak capacitor straining the compressor. Other symptoms include a fan blade that spins only when given a manual push, a unit that takes several attempts to start, and a noticeable drop in cooling output even when the thermostat is set low. A shorted capacitor sometimes produces a burning smell near the outdoor cabinet.
+
+- **Humming with no motor movement:** Humming with no motor movement means the motor is receiving voltage but lacks the phase-shifted current the capacitor normally supplies to create starting torque.
+
+- **Intermittent starting:** Intermittent starting points to a weak capacitor that occasionally delivers enough charge to start the motor but fails under thermal load.
+
+- **Fan spinning only with a push:** A fan that spins only with a manual push is a classic sign of a failed start capacitor on the condenser fan motor.
+
+- **Burning smell or visible bulging:** A burning smell or a casing that is visibly bulging or leaking dielectric fluid confirms the capacitor has shorted or vented internally.
+
+### How capacitor failure relates to compressors and the broader AC system
+
+Capacitor failure prevents compressors from starting because the compressor motor depends on the run capacitor to maintain the phase difference between its start and run windings during operation. Without that phase shift, the motor draws locked-rotor amperage, which is several times its normal running current, for as long as it tries to start. Sustained locked-rotor current overheats motor windings and accelerates insulation breakdown. A compressor that has been hard-starting against a weak capacitor for one or two seasons often shows winding resistance readings outside specification by the time a technician arrives. Replacing the bad AC capacitor early protects the compressor, which is the most expensive component in the outdoor unit.
+
+The dual capacitor, which is the most common type found in residential condensing units, serves both the compressor and the condenser fan motor from a single cylindrical housing. A failure in either section of a dual capacitor affects both loads, which is why a unit with a failed fan motor capacitor section stresses the compressor side. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/j2twwJiu3GdBfQpw6) diagnoses both sections during any capacitor test so a partial failure does not go undetected. An [air conditioning contractor](doc:air-conditioning-contractor) with the right meters can confirm which section has drifted and whether a full dual capacitor replacement is needed.
+
+### How to replace AC capacitor safely and what the repair involves
+
+Replacing an AC capacitor requires strict safety steps. A technician first disconnects power at the disconnect box and verifies zero voltage at the capacitor terminals with a meter, because capacitors store a lethal charge even after power is cut. The old capacitor is then discharged through a resistor before any leads are removed. The replacement unit must match the original's µF rating and voltage rating exactly. A capacitor rated for a lower voltage than the circuit supplies will fail prematurely; one with the wrong µF value will cause the motor to run hot or fail to start. After installation, the technician performs a capacitor test on the new component under load to confirm it holds rated capacitance within tolerance.
+
+The repair itself takes under an hour in most cases. Technicians commonly stock dual capacitor values on their service vehicles, so the replacement often happens during the same visit as the diagnosis, avoiding a second appointment during a Clearwater heat wave.
+
+### Where capacitor failure applies across AC equipment types
+
+Capacitor failure applies to any AC equipment using single-phase induction motors. That covers the vast majority of residential and light-commercial systems in Clearwater. Split systems, package units, mini-splits with single-phase outdoor units, and heat pumps all use run capacitors on their compressor and fan motors. Start capacitors appear on older or higher-torque compressors that need an extra boost to overcome starting inertia. Window units and portable air conditioners use smaller capacitors but fail by the same mechanisms. Three-phase commercial equipment is less susceptible. Three-phase motors generate their own starting torque without a capacitor, making failure less common in those systems. However, three-phase systems do use capacitors for power factor correction, and those components can fail as well.
+
+Equipment type determines where a technician looks first. Recognizing the system layout before opening the cabinet shortens diagnostic time and reduces the chance of missing a second failed component alongside the primary blown capacitor. A residential split system typically has one dual capacitor in the outdoor unit. A package unit may have separate run capacitors for the supply fan motor, condenser fan motor, and compressor. Knowing these distinctions allows the technician to locate the correct capacitor quickly and assess all relevant components in a single inspection. [Poulin Cooling AC Repair](https://sl.bing.net/qnPVWAlW8W) applies this inspection approach across residential and light commercial systems in Clearwater, FL.
+
+### Related entities
+
+- [AC repair](doc:ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [contactor failure](doc:contactor-failure) — sibling entity (same sub-cluster)
