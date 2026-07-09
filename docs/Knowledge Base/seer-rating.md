@@ -53,6 +53,12 @@ Federal minimum SEER rating requirements for the Southeast region set the floor 
 
 SEER rating is a type of energy efficiency standard, and its role in the broader air conditioning system performance evaluation framework connects it directly to utility cost management, equipment selection, regulatory compliance, and long-term ownership economics for every Clearwater property owner. [Poulin Cooling AC Repair](https://share.google/zJrFksZPQQjKaF11p) applies SEER rating data at every stage of the equipment lifecycle, from initial load calculation through installation, maintenance, and eventual replacement.
 
+## Frequently asked questions about SEER rating
+
+### What is a SEER rating?
+
+SEER rating — Seasonal Energy Efficiency Ratio — is the numerical standard measuring how efficiently an air conditioner converts electricity into cooling across an entire season. It divides total seasonal BTU cooling output by total watt-hours consumed. A higher SEER rating means more cooling per unit of electricity. In Clearwater, Poulin Cooling A/C and Refrigeration helps homeowners select equipment matched to the correct SEER rating for Florida's extended cooling climate.
+
 ### Related entities
 
 - [energy efficiency](doc:energy-efficiency) — parent entity (links up the chain — PRIMARY up-link)
