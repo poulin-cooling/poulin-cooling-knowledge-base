@@ -3,7 +3,7 @@ title: HVAC System Energy Management
 ---
 ## HVAC system energy management in Clearwater - Poulin Cooling A/C and Refrigeration
 
-HVAC system energy management is the systematic process of monitoring and controlling HVAC energy consumption to reduce waste and improve building performance. The process targets energy consumption reductions of 10 to 30 percent through automated control algorithms, performance analytics dashboards, and energy monitoring sensors. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/SnTK383sLAQuZumB6) applies HVAC system energy management strategies for residential and commercial properties throughout Clearwater, FL, where high cooling demand makes uncontrolled energy consumption a direct cost burden on property owners.
+HVAC system energy management is the systematic process of monitoring and controlling HVAC energy consumption to reduce waste and improve building performance. The process targets energy consumption reductions of 10 to 30 percent through automated control algorithms, performance analytics dashboards, and energy monitoring sensors. [Poulin Cooling](https://maps.app.goo.gl/vw3NGNBtaV1PM3GcA) applies HVAC system energy management strategies for residential and commercial properties throughout Clearwater, FL, where high cooling demand makes uncontrolled energy consumption a direct cost burden on property owners.
 
 ### What HVAC system energy management is
 
@@ -35,13 +35,13 @@ HVAC system energy management surfaces four categories of performance problems t
 
 - **Airflow restriction:** Airflow restriction from dirty filters or blocked returns forces the blower to work harder, raising fan energy consumption and reducing the effective SEER rating of the system.
 
-Each of these problems produces a detectable signature in the energy monitoring data. The performance analytics dashboard flags deviations from baseline consumption, giving [Poulin Cooling AC Repair](https://sl.bing.net/hfpNU5k2muO) technicians a specific starting point for diagnosis rather than a symptom-based search.
+Each of these problems produces a detectable signature in the energy monitoring data. The performance analytics dashboard flags deviations from baseline consumption, giving [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/hfpNU5k2muO) technicians a specific starting point for diagnosis rather than a symptom-based search.
 
 ### Where HVAC system energy management applies in Clearwater
 
 HVAC system energy management applies across residential, light commercial, and commercial refrigeration applications in Clearwater, FL. Residential applications focus on programmable schedules tied to occupancy, with setpoint adjustments during sleeping hours and unoccupied periods reducing daily runtime by measurable margins. Light commercial applications add demand-controlled ventilation, which adjusts outdoor air intake based on occupancy sensors rather than fixed minimum rates. Commercial refrigeration applications extend the management framework to compressor rack controls and defrost cycle scheduling, where unmanaged defrost cycles represent a significant source of preventable energy waste.
 
-Clearwater's climate profile, characterized by high relative humidity and a cooling season that spans nine to ten months of the year, makes HVAC system energy management a higher-priority investment than in moderate climates. Equipment operates more total hours per year, which amplifies both the savings potential of a 10 to 30 percent reduction and the cost of deferred maintenance that degrades managed performance over time. [Poulin Cooling Air Conditioning and Refrigeration](https://share.google/ZvbmBZwRtNFIAkD7I) serves Clearwater properties with energy management configuration, ongoing monitoring support, and performance verification to keep managed systems operating at their rated efficiency targets.
+Clearwater's climate profile, characterized by high relative humidity and a cooling season that spans nine to ten months of the year, makes HVAC system energy management a higher-priority investment than in moderate climates. Equipment operates more total hours per year, which amplifies both the savings potential of a 10 to 30 percent reduction and the cost of deferred maintenance that degrades managed performance over time. [Poulin Cooling AC Repair](https://share.google/7JrAxLgMWMRF6WxEs) serves Clearwater properties with energy management configuration, ongoing monitoring support, and performance verification to keep managed systems operating at their rated efficiency targets.
 
 ### Related entities
 
