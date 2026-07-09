@@ -3,7 +3,7 @@ title: New Construction Builders
 ---
 ## New construction builders in Clearwater - Poulin Cooling A/C and Refrigeration
 
-New construction builders are professionals responsible for constructing new residential or commercial properties from the ground up. A typical new construction project runs 6 to 18 months from groundbreaking to certificate of occupancy. HVAC system installation is a required component of every new build, making the relationship between builders and a licensed [air conditioning contractor](doc:air-conditioning-contractor) a structural dependency, not an optional add-on. [Poulin Cooling](https://maps.app.goo.gl/KW8mFxhPFhswLkqR8) works directly with new construction builders in Clearwater to size, install, and commission cooling systems before the first resident or tenant takes occupancy.
+New construction builders are professionals responsible for constructing new residential or commercial properties from the ground up. A typical new construction project runs 6 to 18 months from groundbreaking to certificate of occupancy. HVAC system installation is a required component of every new build, making the relationship between builders and a licensed [air conditioning contractor](doc:air-conditioning-contractor) a structural dependency, not an optional add-on. [Poulin Cooling A/C](https://maps.app.goo.gl/SnTK383sLAQuZumB6) works directly with new construction builders in Clearwater to size, install, and commission cooling systems before the first resident or tenant takes occupancy.
 
 ### What new construction builders are in the construction industry
 
@@ -27,7 +27,7 @@ New construction builders require HVAC system installation as a non-negotiable c
 
 Load calculation determines the tonnage required for the structure based on square footage, ceiling height, insulation value, and window exposure. Equipment selection follows load calculation and must match the mechanical schedule submitted with the building permit. Rough-in installation places ductwork, refrigerant lines, and electrical connections inside the wall and ceiling cavities before drywall closes. Commissioning verifies airflow, refrigerant charge, thermostat calibration, and system performance before the certificate of occupancy is issued.
 
-New construction builders who coordinate HVAC subcontractors early in the project timeline reduce the risk of schedule delays at the rough-in and inspection stages. [Homeowners](doc:homeowners) who purchase new construction properties inherit the HVAC system installed by the builder's subcontractor, making subcontractor selection a long-term quality decision. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/jxWOb9tkHTw) provides load calculations, equipment scheduling, and full installation services for new construction builders in Clearwater.
+New construction builders who coordinate HVAC subcontractors early in the project timeline reduce the risk of schedule delays at the rough-in and inspection stages. [Homeowners](doc:homeowners) who purchase new construction properties inherit the HVAC system installed by the builder's subcontractor, making subcontractor selection a long-term quality decision. [Poulin Cooling](https://sl.bing.net/jxWOb9tkHTw) provides load calculations, equipment scheduling, and full installation services for new construction builders in Clearwater.
 
 ### Common problems new construction builders face with HVAC coordination
 
@@ -45,7 +45,17 @@ New construction builders encounter 4 recurring HVAC coordination problems that 
 
 New construction builders operate across residential subdivisions, commercial corridors, and mixed-use developments throughout Clearwater and the broader Tampa Bay region. The subcontractor network a builder assembles determines the quality and inspection pass rate of every project. [Commercial property managers](doc:commercial-property-managers) who take ownership of newly constructed buildings depend on the mechanical systems installed during construction to perform reliably for 15 to 20 years without major capital replacement.
 
-New construction builders work alongside general contractors, electrical subcontractors, plumbing subcontractors, and HVAC subcontractors on every permitted build. The HVAC subcontractor is the only trade that touches the mechanical, electrical, and structural systems simultaneously, making early coordination with a licensed HVAC contractor the highest-impact scheduling decision a builder makes. [Poulin Cooling AC Repair](https://share.google/Az65kNyKN3z3CXwW6) serves new construction builders in Clearwater with load calculations, permit-ready mechanical schedules, rough-in installation, and final commissioning to deliver a system that passes inspection and performs for the life of the structure.
+New construction builders work alongside general contractors, electrical subcontractors, plumbing subcontractors, and HVAC subcontractors on every permitted build. The HVAC subcontractor is the only trade that touches the mechanical, electrical, and structural systems simultaneously, making early coordination with a licensed HVAC contractor the highest-impact scheduling decision a builder makes. [Poulin Cooling A/C and Refrigeration](https://share.google/tfI4v0AkztiVrSSOY) serves new construction builders in Clearwater with load calculations, permit-ready mechanical schedules, rough-in installation, and final commissioning to deliver a system that passes inspection and performs for the life of the structure.
+
+## Frequently asked questions about new construction builders
+
+### How much does new construction HVAC cost?
+
+Poulin Cooling A/C and Refrigeration does not publish pricing for new construction HVAC work, as costs vary by project scope, square footage, equipment selection, and load calculation results. Poulin Cooling serves new construction builders in Clearwater with load calculations, permit-ready mechanical schedules, rough-in installation, and final commissioning. Contact Poulin Cooling directly at (727) 424-2222 to discuss your specific new construction project.
+
+### What is new construction?
+
+New construction refers to building residential or commercial properties from the ground up, typically spanning 6 to 18 months from groundbreaking to occupancy. HVAC installation is a required component of every permitted new build in Florida. Poulin Cooling A/C and Refrigeration works with new construction builders in Clearwater, providing load calculations, equipment scheduling, rough-in installation, and final commissioning so new construction projects pass inspection and perform reliably.
 
 ### Related entities
 
