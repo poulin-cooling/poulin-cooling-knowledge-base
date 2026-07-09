@@ -3,7 +3,7 @@ title: Building Codes
 ---
 ## Building codes in Clearwater - Poulin Cooling A/C and Refrigeration
 
-Building codes are official regulations specifying minimum standards for constructed structures and systems, including mechanical, electrical, and HVAC installations. In Clearwater, FL, building codes govern every stage of air conditioning installation, from permit requirements to final inspection. [Poulin Cooling AC Repair](https://maps.app.goo.gl/WXzhHLVnYvXMSpax6) operates within these mandatory compliance frameworks to ensure every installation meets local jurisdiction standards.
+Building codes are official regulations specifying minimum standards for constructed structures and systems, including mechanical, electrical, and HVAC installations. In Clearwater, FL, building codes govern every stage of air conditioning installation, from permit requirements to final inspection. [Poulin Cooling AC Repair](https://maps.app.goo.gl/SnTK383sLAQuZumB6) operates within these mandatory compliance frameworks to ensure every installation meets local jurisdiction standards.
 
 ### What building codes are and how they apply to HVAC systems
 
@@ -43,7 +43,7 @@ Building codes contain 3 primary component parts relevant to HVAC and refrigerat
 
 - **Safety standards:** Safety standards address electrical disconnect sizing, refrigerant handling procedures, and structural support for rooftop or wall-mounted equipment. Safety standards protect occupants and technicians throughout the system's operational life.
 
-Building codes use alternate names in common usage. Construction codes and municipal regulations refer to the same mandatory framework. Homeowners searching for "local building codes" or "building codes compliance" are searching for the same enforceable standards that govern every [Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/dQi8K7rjZ9g) installation in Clearwater.
+Building codes use alternate names in common usage. Construction codes and municipal regulations refer to the same mandatory framework. Homeowners searching for "local building codes" or "building codes compliance" are searching for the same enforceable standards that govern every [Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/hAkcoEoVoJM) installation in Clearwater.
 
 ### Common building code violations in HVAC installations and their consequences
 
@@ -59,7 +59,7 @@ The 4 most common HVAC-related building code violations in Clearwater are unperm
 
 - **Missing refrigerant line insulation:** Missing refrigerant line insulation violates energy code requirements embedded within the Florida Building Code, reducing system efficiency and failing the energy compliance portion of the inspection.
 
-Building codes protect property owners from these failure modes when a licensed contractor pulls permits and completes inspections correctly. [Poulin Cooling A/C](https://share.google/EgZkLtD1ipx2su22E) manages the full permit and inspection process for every installation in Clearwater, ensuring no component part of the code is overlooked.
+Building codes protect property owners from these failure modes when a licensed contractor pulls permits and completes inspections correctly. [Poulin Cooling A/C](https://share.google/6A3tdCil4AUziDJtg) manages the full permit and inspection process for every installation in Clearwater, ensuring no component part of the code is overlooked.
 
 ### Related entities
 
