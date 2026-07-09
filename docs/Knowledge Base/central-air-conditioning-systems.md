@@ -43,6 +43,20 @@ Central air conditioning systems show 5 common failure patterns that signal the 
 
 Central air conditioning systems apply to any structure with existing ductwork or a layout that supports duct installation. Residential single-family homes in Clearwater, FL represent the most common application, where a single central air conditioning system conditions the entire living area from one outdoor condenser unit. Multi-family buildings, retail spaces, and light commercial offices use central air conditioning systems scaled to their square footage and occupancy load. Structures that lack ductwork or require room-by-room temperature control use ductless mini split systems instead of central air conditioning systems, since running new ductwork through finished walls adds significant installation time and cost. [Poulin Cooling](https://share.google/7JrAxLgMWMRF6WxEs) evaluates each property in Clearwater to determine whether a central air conditioning system or an alternative configuration matches the building's layout, cooling load, and budget.
 
+## Frequently asked questions about central air conditioning systems
+
+### How much air conditioning does a home or building need?
+
+Central air conditioning systems handled by Poulin Cooling A/C and Refrigeration range from 12,000 BTU per hour for smaller residential spaces up to 60,000+ BTU per hour for large homes and light commercial buildings. Energy efficiency ratings span 13 to 26 SEER, with Florida requiring a 14 SEER minimum for new residential installations. Poulin Cooling A/C and Refrigeration evaluates each Clearwater property to match cooling capacity to the building's specific load.
+
+### What is an air handling system?
+
+An air handling system, in the context of central air conditioning, is the indoor unit containing the evaporator coil and blower that absorbs heat from return air and distributes conditioned air through ductwork. Poulin Cooling A/C and Refrigeration installs, repairs, and maintains central air conditioning systems — including air handler components — throughout Clearwater, FL. Call (727) 424-2222 to schedule service.
+
+### Where can I find air conditioning services near me?
+
+Poulin Cooling A/C and Refrigeration provides air conditioning installation, repair, and maintenance services in Clearwater, FL. Located at 1237 South Lincoln Avenue, Ste B, Clearwater, FL 33756, Poulin Cooling serves both residential and light commercial properties throughout the Clearwater area. Call (727) 424-2222 to discuss your central air conditioning needs. Poulin Cooling holds a 5.0 Google rating across 410 reviews.
+
 ### Related entities
 
 - [air conditioning contractor](doc:air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
