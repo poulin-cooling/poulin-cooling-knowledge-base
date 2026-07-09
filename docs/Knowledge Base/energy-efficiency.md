@@ -69,6 +69,16 @@ Energy efficiency applies at the system integration level, where [indoor air qua
 
 [Poulin Cooling A/C](https://share.google/6VuUwSijDczEtVSrV) applies efficiency standards across residential, commercial, and refrigeration equipment categories, using SEER, EER, and COP benchmarks to verify that every system in Clearwater operates at or near its rated performance.
 
+## Frequently asked questions about energy efficiency
+
+### How is energy efficiency measured?
+
+Poulin Cooling A/C and Refrigeration measures energy efficiency using three standardized metrics: SEER (13–26 for residential split systems), EER (8–12 for packaged units), and COP (2.0–4.5 for heat pumps). In Clearwater, FL, where AC runs 8–10 months per year, a SEER 21 system consumes roughly 33% less electricity than a SEER 14 unit. Poulin Cooling evaluates all three ratings during every equipment assessment.
+
+### What does energy efficiency measure?
+
+Energy efficiency measures how much useful cooling or heating a system produces per unit of electricity consumed, expressed through SEER, EER, and COP ratings. Poulin Cooling A/C and Refrigeration evaluates these metrics during every assessment for Clearwater residential and commercial clients. Higher ratings—such as SEER 21 versus SEER 14—directly reduce monthly utility costs and equipment wear. Common efficiency losses include refrigerant undercharge, dirty coils, clogged filters, and duct leakage.
+
 ### Related entities
 
 - [cooling efficiency](doc:cooling-efficiency) — parent entity (links up the chain — PRIMARY up-link)
