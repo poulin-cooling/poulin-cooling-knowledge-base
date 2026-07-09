@@ -3,7 +3,7 @@ title: MERV Rating
 ---
 ## MERV rating in Clearwater - Poulin Cooling A/C and Refrigeration
 
-MERV rating (Minimum Efficiency Reporting Value) is the standardized scale measuring how efficiently an air filter captures airborne particles before they pass through an HVAC system. The scale runs from 1 to 20, with higher numbers indicating finer filtration across a particle size range of 0.3 to 10 microns. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/LeiBxBboXuuTxrjaA) serves Clearwater homeowners and businesses in selecting the correct MERV-rated filter for each system type and air quality need.
+MERV rating (Minimum Efficiency Reporting Value) is the standardized scale measuring how efficiently an air filter captures airborne particles before they pass through an HVAC system. The scale runs from 1 to 20, with higher numbers indicating finer filtration across a particle size range of 0.3 to 10 microns. [Poulin Cooling](https://share.google/lEcO52w2OrEcYSpy2) serves Clearwater homeowners and businesses in selecting the correct MERV-rated filter for each system type and air quality need.
 
 ### What MERV rating is and how the scale works
 
@@ -51,9 +51,19 @@ Reduced airflow, coil icing, high energy bills, and motor failure are the 4 cons
 
 MERV rating applies to four primary filter categories used in residential and commercial HVAC systems: fiberglass panel filters, pleated media filters, extended-surface filters, and electronic air cleaners rated on the MERV equivalent scale. Each filter type achieves its MERV rating through different physical mechanisms, including fiber density, pleat count per foot, and electrostatic charge.
 
-Residential settings in Clearwater typically use MERV 8 to MERV 13 pleated filters, which balance allergen capture with acceptable airflow resistance for standard residential air handlers. Commercial settings with dedicated filter banks and higher-capacity blowers accommodate MERV 14 to MERV 16 filters for environments requiring finer particulate control, such as medical offices and clean manufacturing spaces. [Poulin Cooling AC Repair](https://sl.bing.net/hTcL6BPDZK0) evaluates each installation's blower capacity, duct static pressure, and occupant air quality needs before specifying a MERV rating range.
+Residential settings in Clearwater typically use MERV 8 to MERV 13 pleated filters, which balance allergen capture with acceptable airflow resistance for standard residential air handlers. Commercial settings with dedicated filter banks and higher-capacity blowers accommodate MERV 14 to MERV 16 filters for environments requiring finer particulate control, such as medical offices and clean manufacturing spaces. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/hTcL6BPDZK0) evaluates each installation's blower capacity, duct static pressure, and occupant air quality needs before specifying a MERV rating range.
 
 MERV rating does not apply to unfiltered air returns, which carry no efficiency classification and allow all particle sizes from 0.3 to 10 microns to pass directly across the evaporator coil, accumulating debris on coil fins and reducing heat transfer efficiency within one to two cooling seasons.
+
+## Frequently asked questions about MERV rating
+
+### What is a better MERV rating?
+
+A better MERV rating depends on your specific system, not simply the highest number available. For most Clearwater homes, MERV 8 to MERV 13 pleated filters balance allergen capture with safe airflow resistance. Ratings above MERV 13 on residential systems can restrict airflow, cause coil icing, and accelerate motor failure. Poulin Cooling A/C and Refrigeration evaluates each system's blower capacity and air quality needs before recommending a MERV rating range.
+
+### What is a MERV rating?
+
+MERV rating (Minimum Efficiency Reporting Value) is a standardized scale from 1 to 20 that measures how efficiently an air filter captures airborne particles between 0.3 and 10 microns. Higher ratings capture finer particles but increase airflow resistance, which can strain residential systems not designed for dense filtration. Poulin Cooling A/C and Refrigeration helps Clearwater homeowners and businesses select the correct MERV-rated filter for their specific system and air quality needs.
 
 ### Related entities
 
