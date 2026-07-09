@@ -35,6 +35,20 @@ HEPA filter failure produces 4 recognizable signs that indicate the filter requi
 
 HEPA filters apply in 3 primary installation contexts: central HVAC systems, standalone air purification units, and dedicated filtration cabinets installed in series with existing ductwork. Central HVAC system installations require a filter housing sized to accept the pleated structure without compressing the media, which reduces the effective filter media area in square feet. Standalone air purification units use self-contained HEPA filter assemblies rated for a specific room volume measured in cubic feet. Dedicated filtration cabinets allow properties with existing HVAC systems to add HEPA-level filtration without replacing the air handler. Clearwater's coastal climate introduces salt particulates, pollen, and elevated biological particle counts that increase the demand on filter media and shorten replacement intervals compared to inland installations. [Poulin Cooling A/C](https://share.google/AzjzsjtohTkHt3vP5) evaluates the specific airflow requirements, duct configuration, and occupancy conditions of each property before specifying the correct HEPA filter assembly.
 
+## Frequently asked questions about HEPA filter
+
+### How much does a HEPA filter cost?
+
+Poulin Cooling A/C and Refrigeration does not publish HEPA filter pricing in available sources. What is known: Poulin Cooling selects the correct HEPA filter size and media area based on each property's specific airflow, duct configuration, and occupancy conditions. To get accurate pricing for HEPA filter installation or replacement in Clearwater, FL, contact Poulin Cooling directly at (727) 424-2222 during business hours, Monday–Friday, 8 AM–5 PM.
+
+### How long does a HEPA filter last?
+
+The context does not specify an exact lifespan for HEPA filters. However, Poulin Cooling A/C and Refrigeration notes that Clearwater's coastal climate — with salt particulates, pollen, and high biological particle counts — shortens HEPA filter replacement intervals compared to inland areas. Poulin Cooling A/C and Refrigeration inspects filter condition, measures airflow resistance, and replaces HEPA filters that no longer meet the 99.97% capture efficiency standard.
+
+### Why use a HEPA filter?
+
+HEPA filters capture particles as small as 0.3 microns at 99.97% efficiency, protecting Clearwater homes and businesses from airborne contaminants, allergens, and biological particles that standard filters miss. Poulin Cooling A/C and Refrigeration installs, inspects, and replaces HEPA filters sized to match each air handling unit's airflow requirements. In Clearwater's coastal climate, salt particulates and elevated pollen loads make HEPA filtration especially important for maintaining healthy indoor air quality.
+
 ### Related entities
 
 - [poor indoor air quality](doc:poor-indoor-air-quality) — parent entity (links up the chain — PRIMARY up-link)
