@@ -49,6 +49,12 @@ Airflow applies across every major component in the HVAC system, from the return
 
 Airflow applies to refrigeration equipment as well, where [Poulin Cooling](https://share.google/0c1HS3Pw5JqeK6bk2) services commercial coolers and refrigerated display cases. Refrigeration airflow follows the same fluid dynamics principles, with evaporator fan motors driving air across coils at design CFM values specified by the equipment manufacturer. Restricted airflow in a commercial cooler raises cabinet temperature above the safe food storage threshold of 41°F within 2 to 4 hours of fan motor failure.
 
+## Frequently asked questions about airflow
+
+### What is airflow in an HVAC system?
+
+Airflow is the movement of air through an HVAC system, characterized by volume (CFM), velocity (FPM), and pressure differential (in. WC). Poulin Cooling A/C and Refrigeration explains that airflow distributes conditioned air from the air handler through ductwork to every room. Without adequate airflow, evaporator coils can freeze, humidity rises, and equipment life shortens. Poulin Cooling A/C and Refrigeration diagnoses airflow issues using digital manometers, flow hoods, and anemometers.
+
 ### Related entities
 
 - [blower motors](doc:blower-motors) — parent entity (links up the chain — PRIMARY up-link)
