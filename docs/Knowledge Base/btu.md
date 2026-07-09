@@ -51,11 +51,25 @@ BTU mismatch left unaddressed accelerates compressor wear. Compressor replacemen
 
 ### Where BTU applies across cooling and refrigeration equipment
 
-BTU applies across every category of cooling and refrigeration equipment [Poulin Cooling](https://share.google/NfZpcS3Cg4CVRGIiO) services in Clearwater. The measurement appears in residential central air systems, ductless mini-splits, commercial rooftop units, and refrigeration cases.
+BTU applies across every category of cooling and refrigeration equipment Poulin Cooling A/C and Refrigeration services in Clearwater. The measurement appears in residential central air systems, ductless mini-splits, commercial rooftop units, and refrigeration cases.
 
 BTU ratings for residential central air systems range from 18,000 to 60,000 BTU/h for homes between 900 and 3,000 square feet. Ductless mini-split systems carry ratings from 9,000 to 36,000 BTU/h per zone. Commercial rooftop units exceed 120,000 BTU/h for large retail or office spaces. Refrigeration cases in commercial kitchens and grocery environments use BTU ratings to define heat extraction from the refrigerated volume.
 
 BTU is a unit of energy that connects every piece of cooling equipment to a single measurable standard. The SEER rating converts BTU output into an efficiency ratio. Tonnage converts BTU/h into a capacity shorthand. Load calculation converts building characteristics into a BTU target. All four entities operate on the BTU foundation, making it the central attribute in any HVAC sizing or replacement decision.
+
+## Frequently asked questions about BTU
+
+### Is a higher BTU better?
+
+Higher BTU is not automatically better — the right BTU matters more than a higher BTU. Poulin Cooling A/C and Refrigeration explains that oversized systems short-cycle and leave excess humidity, while undersized systems run continuously without reaching setpoint. Both conditions increase energy use and shorten equipment life. Poulin Cooling performs load calculations to identify the exact BTU target a Clearwater home or business needs before recommending any equipment.
+
+### How much is a BTU?
+
+A BTU (British Thermal Unit) is a unit of heat energy, not a price — it measures how much heat an air conditioning system removes per hour. One BTU equals the energy needed to change one pound of water by one degree Fahrenheit. Poulin Cooling A/C and Refrigeration in Clearwater uses BTU ratings to properly size and install cooling equipment for residential and commercial properties.
+
+### What is a BTU?
+
+BTU (British Thermal Unit) is the standard unit of heat energy used to measure how much heat an air conditioning system removes from a space per hour. One BTU equals the energy needed to change one pound of water by one degree Fahrenheit. Poulin Cooling A/C and Refrigeration in Clearwater uses BTU ratings to properly size, install, and service residential and commercial cooling equipment, ensuring systems match the calculated thermal load of each property.
 
 ### Related entities
 
