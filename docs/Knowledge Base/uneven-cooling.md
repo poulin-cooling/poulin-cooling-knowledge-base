@@ -3,7 +3,7 @@ title: Uneven Cooling
 ---
 ## Uneven cooling in Clearwater - Poulin Cooling A/C and Refrigeration
 
-Uneven cooling is a condition where indoor spaces experience inconsistent temperature distribution, producing measurable differentials greater than 3°F between rooms. Uneven cooling affects the performance of the entire air conditioning system and signals underlying air distribution problems that require diagnosis by a licensed contractor. [Poulin Cooling A/C](https://maps.app.goo.gl/UZ1cmaLmugf5Zo1X7) serves Clearwater homeowners experiencing hot spots, cold zones, and persistent temperature gradients that reduce comfort and increase energy consumption.
+Uneven cooling is a condition where indoor spaces experience inconsistent temperature distribution, producing measurable differentials greater than 3°F between rooms. Uneven cooling affects the performance of the entire air conditioning system and signals underlying air distribution problems that require diagnosis by a licensed contractor. [Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/Rc3soX6zBc7d2B7u8) serves Clearwater homeowners experiencing hot spots, cold zones, and persistent temperature gradients that reduce comfort and increase energy consumption.
 
 ### What uneven cooling is and how it differs from normal temperature variation
 
@@ -29,7 +29,7 @@ Uneven cooling is caused by air distribution problems within the broader air con
 
 A [dirty air filter](doc:dirty-air-filter) restricts total system airflow and amplifies existing distribution imbalances, making rooms that already receive less airflow fall further below the setpoint. Uneven cooling affects humidity distribution across the structure. Rooms that receive insufficient conditioned airflow retain higher moisture levels, which compounds the perceived temperature imbalance. [Humidity control](doc:humidity-control) failures and uneven cooling frequently occur together because both share the same root cause in airflow restriction or distribution loss.
 
-An [air conditioning contractor](doc:air-conditioning-contractor) addresses uneven cooling by performing a static pressure test, measuring supply and return airflow at each register, and identifying the specific distribution failure point. [Poulin Cooling](https://sl.bing.net/hrDw3z22dtk) technicians use these measurements to confirm whether the problem originates at the air handler, the ductwork, or the register level before recommending any repair.
+An [air conditioning contractor](doc:air-conditioning-contractor) addresses uneven cooling by performing a static pressure test, measuring supply and return airflow at each register, and identifying the specific distribution failure point. [Poulin Cooling A/C](https://sl.bing.net/hrDw3z22dtk) technicians use these measurements to confirm whether the problem originates at the air handler, the ductwork, or the register level before recommending any repair.
 
 ### Common signs of uneven cooling and the problems that produce them
 
@@ -49,7 +49,7 @@ Ignoring these signs allows the air conditioning system to run longer cycles att
 
 Uneven cooling applies to any structure served by a central air conditioning system with ducted air distribution. Single-story homes with long duct runs, two-story homes with a single air handler, and older Clearwater structures with original ductwork from the 1980s or earlier are the most affected building types. Structures with additions built after the original duct system was designed experience uneven cooling because the existing duct capacity was not sized to serve the expanded square footage.
 
-Uneven cooling in multi-zone structures requires zone-by-zone airflow measurement because a single thermostat reading does not capture the full distribution picture. [Poulin Cooling A/C and Refrigeration](https://share.google/YJCyvaUj7dFbe6YIl) technicians measure supply airflow at every register in the affected structure to build a complete distribution map before recommending duct modifications, damper adjustments, or equipment changes.
+Uneven cooling in multi-zone structures requires zone-by-zone airflow measurement because a single thermostat reading does not capture the full distribution picture. [Poulin Cooling](https://share.google/M20009BLcxJRzB2FL) technicians measure supply airflow at every register in the affected structure to build a complete distribution map before recommending duct modifications, damper adjustments, or equipment changes.
 
 ### Related entities
 
