@@ -1,0 +1,44 @@
+---
+title: Expansion Valve
+---
+## Expansion valve in Clearwater - Poulin Cooling A/C and Refrigeration
+
+The expansion valve, called a TXV or thermostatic expansion valve, is a refrigerant circuit component that meters the flow of refrigerant into the evaporator coil. It sits between the condenser and the evaporator, dropping refrigerant pressure sharply so the fluid can absorb heat from indoor air. Precise metering is critical. Without it, the evaporator either floods with liquid refrigerant or runs starved, and both conditions destroy efficiency and shorten compressor life.
+
+### What the expansion valve is and how it works
+
+The expansion valve is a type of refrigerant circuit component, specifically the metering device that governs how much refrigerant enters the evaporator at any moment. A sensing bulb attached to the evaporator outlet reads the refrigerant temperature and feeds that signal back through a diaphragm inside the valve body, opening or closing the orifice to match the load. The result is a controlled pressure drop. High-pressure liquid refrigerant on one side, low-pressure vapor on the other. [AC repair](doc:ac-repair) jobs that involve refrigerant circuit faults almost always include an inspection of this component.
+
+### Measurable attributes: superheat control and operating pressure differential
+
+Superheat is the number of degrees refrigerant vapor rises above its boiling point before leaving the evaporator. A correctly set TXV holds superheat within a target range. Typically 8 to 12 degrees Fahrenheit for most residential systems. Protecting the compressor from liquid slugging. Pressure differential is the second key attribute. The TXV requires a minimum pressure difference across it to open and close reliably, and that differential shifts with outdoor temperature and system load. A valve calibrated for one pressure range performs poorly outside it. Superheat target and pressure differential are the primary numbers a technician checks when diagnosing a metering device.
+
+### Valve types: TXV, EEV, and fixed orifice
+
+Expansion valves come in three main types, each suited to a different application. The thermostatic expansion valve (TXV) uses a mechanical sensing bulb and diaphragm to self-regulate. The electronic expansion valve (EEV) replaces the mechanical bulb with a stepper motor and a control board signal, allowing faster and finer adjustment. Standard on inverter-driven systems. The fixed orifice ( called a piston or restrictor) has no moving parts and passes a fixed refrigerant volume regardless of load, making it the simplest and least adaptive option. [Ductless mini split systems](doc:ductless-mini-split-systems) almost universally use EEVs because their variable-speed compressors demand continuous flow adjustment that a mechanical TXV cannot match.
+
+### Expansion valve failure: common signs and causes
+
+Expansion valve failure produces recognizable symptoms before the system stops cooling entirely. A valve frozen open floods the evaporator with liquid refrigerant. A condition called a flooded coil. Liquid entering the compressor causes slugging. Slugging damages or destroys the compressor. A valve stuck closed starves the evaporator, causing the coil to ice over and airflow to drop sharply. Debris in the refrigerant circuit is a common cause of valve failure; moisture in the system freezes at the valve orifice and blocks it. A failed sensing bulb loses its charge, can no longer signal the diaphragm, and leaves the valve defaulted to a fixed position. TXV replacement is the standard repair. Cleaning a clogged valve is rarely reliable long-term because orifice tolerances are tight. [Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/udaTgWX12TqUTWqZA) replaces failed TXVs rather than attempting cleanings for this reason.
+
+Unregulated flow, which happens when the metering device is absent or fully failed, is the direct antonym of proper TXV operation. Without metering, refrigerant floods the low side, suction pressure rises, and the compressor runs hot and overloaded. A flooded coil is the immediate consequence, and compressor failure follows if the condition persists. [Heat pumps](doc:heat-pumps) carry expansion valves on both the indoor and outdoor coils, so a failure in either position affects both heating and cooling modes.
+
+### Where the expansion valve applies across refrigerant systems
+
+The expansion valve appears in every vapor-compression refrigerant circuit. Residential split systems, commercial packaged units, heat pumps, and refrigeration equipment all rely on some form of metering device. In variable refrigerant flow systems, multiple EEVs serve individual indoor units simultaneously, each modulating independently based on zone demand. [Variable refrigerant flow](doc:variable-refrigerant-flow) architecture makes the expansion valve even more critical because a single failed valve affects only one zone while the rest of the system continues running, making diagnosis less obvious. Refrigerant work on any of these systems. Including valve replacement. Requires EPA 608-certified handling because the refrigerant circuit must be recovered before the valve is accessed.
+
+### Expansion valve service with Poulin Cooling A/C and Refrigeration
+
+Expansion valve diagnosis and TXV replacement are part of the refrigerant circuit service Poulin Cooling A/C and Refrigeration provides in Clearwater, FL. A technician checks superheat and subcooling readings at the service ports, confirms operating pressure differential against manufacturer specifications, and inspects the sensing bulb placement before condemning a valve. Replacing the metering device without flushing the circuit for debris leaves the root cause in place, so [Poulin Cooling A/C](https://sl.bing.net/hKN0Hwb3cHI) treats the full refrigerant circuit, not only the failed component. Homeowners and property managers looking for a qualified [air conditioning contractor](doc:air-conditioning-contractor) in Clearwater can contact Poulin Cooling for refrigerant circuit diagnostics and repair.
+
+### Related entities
+
+- [AC repair](doc:ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [ductless mini split systems](doc:ductless-mini-split-systems) — sibling entity (same sub-cluster)
+
+- [heat pumps](doc:heat-pumps) — sibling entity (same sub-cluster)
+
+- [variable refrigerant flow](doc:variable-refrigerant-flow) — sibling entity (same sub-cluster)
