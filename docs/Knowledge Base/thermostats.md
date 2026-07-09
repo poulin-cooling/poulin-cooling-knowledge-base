@@ -49,6 +49,12 @@ Thermostats fail in 4 primary ways that each produce a distinct symptom in syste
 
 A thermostat that produces short-cycling (system runs for under 5 minutes per cycle), fails to respond to setpoint changes within 3 minutes, or shows a blank display requires diagnostic inspection before the problem transfers load stress to the compressor or heat exchanger. [Poulin Cooling A/C](https://share.google/Nux3QQjsHMgZoTtLT) diagnoses thermostat faults as part of standard HVAC service calls in Clearwater, FL.
 
+## Frequently asked questions about thermostats
+
+### What is a thermostat?
+
+A thermostat is a temperature control device that automatically regulates HVAC systems by reading ambient air, comparing it to a user-set target, and signaling heating or cooling equipment to run or stop across a range of -10°F to 120°F. Poulin Cooling A/C and Refrigeration installs, services, and diagnoses thermostats for residential and commercial properties throughout Clearwater, FL, including selection, placement, and compatibility verification.
+
 ### Related entities
 
 - [programmable thermostat](doc:programmable-thermostat) — parent entity (links up the chain — PRIMARY up-link)
