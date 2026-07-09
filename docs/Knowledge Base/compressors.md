@@ -7,7 +7,7 @@ Compressors are the mechanical heart of every refrigeration and air conditioning
 
 ### What a compressor is in an HVAC system
 
-A compressor is a mechanical device that increases the pressure of a refrigerant gas inside an [air handling system](doc:air-handlers), enabling heat transfer between the indoor and outdoor environments. The compressor sits at the boundary between the low-pressure and high-pressure sides of the refrigerant circuit. Without the compressor, refrigerant cannot absorb heat indoors or release it outdoors, and the system produces no cooling effect.
+A compressor is a mechanical device that increases the pressure of a refrigerant gas inside an air handling system, enabling heat transfer between the indoor and outdoor environments. The compressor sits at the boundary between the low-pressure and high-pressure sides of the refrigerant circuit. Without the compressor, refrigerant cannot absorb heat indoors or release it outdoors, and the system produces no cooling effect.
 
 The compressor is a component of the broader HVAC system and works in direct sequence with the expansion valve and the evaporator coil. The expansion valve reduces refrigerant pressure after the compressor raises it. The evaporator coil absorbs indoor heat using the low-pressure refrigerant the expansion valve produces. These three components form the core pressure cycle that every air conditioning system depends on.
 
@@ -23,7 +23,7 @@ Displacement volume in CFM directly affects how quickly the system reaches the t
 
 ### How compressors relate to the broader refrigeration system
 
-Compressors are a part-of HVAC systems and compress the refrigerant that circulates through every component in the cooling loop. The compressor is the only component in the system that adds energy to the refrigerant. Every other component, including the condenser, the expansion valve, and the evaporator coil, transfers or reduces that energy.
+Compressors are a part-of HVAC systems and compress the refrigerant that circulates through every component in the cooling loop. The compressor is the only component in the system that adds energy to the refrigerant. Every other component, including the condenser, the expansion valve, and the evaporator coil inside the [air handling system](doc:air-handlers), transfers or reduces that energy.
 
 Heat pumps use the same compressor technology as standard AC systems but reverse the refrigerant flow direction to provide both heating and cooling. [Heat pump compressors](doc:heat-pumps) operate across a wider pressure range because they must handle both heating-mode and cooling-mode refrigerant pressures within the same refrigerant circuit. A failed compressor in a heat pump eliminates both heating and cooling capacity simultaneously.
 
@@ -50,6 +50,16 @@ Compressors apply across every system type that moves heat using a refrigerant c
 Refrigeration systems in commercial settings operate compressors at higher continuous duty cycles than residential AC systems. A commercial refrigeration compressor runs 16 to 24 hours per day to maintain case temperatures, compared to a residential AC compressor that cycles on and off based on thermostat demand. Higher duty cycles accelerate wear on the motor windings and piston assembly, which shortens the service interval between compressor inspections.
 
 Compressor replacement in Clearwater requires matching the replacement unit to the existing refrigerant type, the system's pressure capacity range, and the electrical supply available at the disconnect. [Poulin Cooling AC Repair](https://share.google/ypSGBM7263n6xyRZ6) stocks and installs compressors rated from 1 HP to 50 HP to cover residential through light commercial applications across Clearwater, FL.
+
+## Frequently asked questions about compressors
+
+### How long do compressors last?
+
+The vetted information for Poulin Cooling A/C and Refrigeration does not specify an exact lifespan for compressors. What is known is that higher duty cycles — such as commercial refrigeration compressors running 16 to 24 hours daily — accelerate motor and piston wear, shortening inspection intervals compared to residential units. Poulin Cooling A/C and Refrigeration in Clearwater, FL diagnoses and replaces compressors across residential and commercial systems to keep cooling performance within rated operating ranges.
+
+### What is a compressor?
+
+A compressor is the mechanical heart of every air conditioning and refrigeration system, increasing refrigerant gas pressure from the low-pressure suction side to the high-pressure discharge side to drive the entire cooling cycle. Compressors operate between 50 and 500 PSI and range from 1 to 50 HP. Poulin Cooling A/C and Refrigeration diagnoses, repairs, and replaces compressors across residential and commercial systems throughout Clearwater, FL.
 
 ### Related entities
 
