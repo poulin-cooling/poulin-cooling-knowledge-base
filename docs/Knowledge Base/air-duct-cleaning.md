@@ -45,6 +45,16 @@ Air duct cleaning applies to every property type that uses a ducted HVAC system,
 
 Air duct cleaning in Clearwater is particularly relevant for properties built before 1990, where original ductwork can contain fiberglass liner that degrades over time and sheds particles into the airstream. [Poulin Cooling AC Repair](https://share.google/vW5B5qcQnfHFKnSn8) serves Clearwater and the surrounding Pinellas County area, providing air duct cleaning for both standard sheet-metal systems and older flex-duct installations common in Florida residential construction.
 
+## Frequently asked questions about air duct cleaning
+
+### How much does air duct cleaning cost?
+
+Poulin Cooling A/C and Refrigeration does not publish air duct cleaning pricing in the available information. For an accurate quote, contact Poulin Cooling directly at (727) 424-2222. Service scope includes full HVAC ductwork inspection, debris extraction, and sanitization for residential and commercial properties throughout Clearwater, FL. Pricing will vary based on system size, property age, and contamination level.
+
+### What is air duct cleaning?
+
+Air duct cleaning is the mechanical removal of dust, debris, and contaminants from an HVAC ductwork system. Poulin Cooling A/C and Refrigeration performs air duct cleaning for residential and commercial properties in Clearwater, FL using a three-stage process: duct inspection, debris extraction with HEPA-filtered vacuum equipment, and EPA-registered antimicrobial sanitization. The service covers the complete HVAC network in a single visit and is recommended every 3 to 5 years under normal conditions.
+
 ### Related entities
 
 - [duct sealing](doc:duct-sealing) — parent entity (links up the chain — PRIMARY up-link)
