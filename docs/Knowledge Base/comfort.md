@@ -3,7 +3,7 @@ title: Comfort
 ---
 ## Comfort in Clearwater - Poulin Cooling A/C and Refrigeration
 
-Comfort is a measurable physical state defined by three environmental conditions: indoor temperature between 68°F and 75°F, relative humidity between 40% and 60% RH, and particulate air quality at PM2.5 below 12 µg/m³. Comfort is a product attribute of HVAC systems, achieved through the coordinated management of thermal conditions, humidity levels, and air quality. [Poulin Cooling A/C](https://maps.app.goo.gl/DGsqR8en7QL9TwxK7) serves Clearwater, FL homeowners and businesses by maintaining all three measurable comfort conditions through licensed HVAC service and repair.
+Comfort is a measurable physical state defined by three environmental conditions: indoor temperature between 68°F and 75°F, relative humidity between 40% and 60% RH, and particulate air quality at PM2.5 below 12 µg/m³. Comfort is a product attribute of HVAC systems, achieved through the coordinated management of thermal conditions, humidity levels, and air quality. [Poulin Cooling A/C](https://maps.app.goo.gl/NM6dKbGcA5bTKouS7) serves Clearwater, FL homeowners and businesses by maintaining all three measurable comfort conditions through licensed HVAC service and repair.
 
 ### What comfort is in indoor environments
 
@@ -43,7 +43,7 @@ Comfort failures present as specific, measurable deviations from the defined att
 
 Comfort applies as a measurable product attribute across residential, commercial, and refrigeration environments. The target ranges for temperature (68°F to 75°F), humidity (40% to 60% RH), and air quality (PM2.5 below 12 µg/m³) apply universally, though the mechanical systems and load calculations differ by building type and occupancy.
 
-Comfort in residential settings is governed by the capacity of the central air conditioning system relative to the home's square footage, insulation rating, and window exposure. Comfort in commercial settings adds occupancy load, ventilation requirements, and zoning complexity to the same three measurable attributes. Comfort in refrigeration environments applies a modified temperature target, where food safety and preservation require temperatures well below the human comfort range, but the same principles of humidity and air quality management apply to the surrounding facility. [Poulin Cooling](https://sl.bing.net/e8QiOAwHvs4) addresses comfort conditions across all three building categories in Clearwater, FL through HVAC installation, repair, and maintenance services.
+Comfort in residential settings is governed by the capacity of the central air conditioning system relative to the home's square footage, insulation rating, and window exposure. Comfort in commercial settings adds occupancy load, ventilation requirements, and zoning complexity to the same three measurable attributes. Comfort in refrigeration environments applies a modified temperature target, where food safety and preservation require temperatures well below the human comfort range, but the same principles of humidity and air quality management apply to the surrounding facility. [Poulin Cooling](https://sl.bing.net/jQHH5fFkrC0) addresses comfort conditions across all three building categories in Clearwater, FL through HVAC installation, repair, and maintenance services.
 
 ## Frequently asked questions about comfort
 
