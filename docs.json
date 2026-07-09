@@ -23,7 +23,9 @@
           "compressors",
           "condenser-units",
           "blower-motors",
-          "zoning-systems"
+          "zoning-systems",
+          "condenser-fan-motor",
+          "compressor-replacement"
         ]
       },
       {
@@ -74,8 +76,6 @@
       {
         "group": "Diagnostics & Repairs",
         "pages": [
-          "coolant-leak",
-          "frozen-evaporator-coil",
           "system-diagnostics",
           "preventative-maintenance",
           "ac-not-cooling",
@@ -83,9 +83,12 @@
           "ac-breakdown",
           "emergency-ac-repair",
           "ac-unit-replacement",
+          "coolant-leak",
           "refrigerant",
+          "frozen-evaporator-coil",
           "clogged-drain-lines",
-          "electrical-malfunctions"
+          "electrical-malfunctions",
+          "refrigerant-recharge"
         ]
       },
       {
@@ -101,10 +104,23 @@
       {
         "group": "Standards & Certifications",
         "pages": [
-          "hvac-licensing",
           "building-codes",
           "nate-certification",
-          "epa-section-608-certification"
+          "epa-section-608-certification",
+          "hvac-licensing"
+        ]
+      },
+      {
+        "group": "AC Repair",
+        "pages": [
+          "ac-repair",
+          "capacitor-failure",
+          "contactor-failure",
+          "ac-short-cycling",
+          "ac-not-turning-on",
+          "unusual-ac-noises",
+          "ac-odors",
+          "expansion-valve"
         ]
       }
     ]

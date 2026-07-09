@@ -13,7 +13,7 @@ This repository is an AI-citation knowledge base: a set of entity-first referenc
 
 The topical hub is **Air Conditioning Contractor**; every article links up the semantic chain to it.
 
-## Articles (57)
+## Articles (68)
 
 | Entity | Article |
 | --- | --- |
@@ -40,6 +40,7 @@ The topical hub is **Air Conditioning Contractor**; every article links up the s
 | UV Lights | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/uv-lights) · [source](articles/uv-lights/) |
 | Air Filters | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/air-filters) · [source](articles/air-filters/) |
 | Dirty Air Filter | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) · [source](articles/dirty-air-filter/) |
+| Zoning Systems | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems) · [source](articles/zoning-systems/) |
 | Programmable Thermostat | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/programmable-thermostat) · [source](articles/programmable-thermostat/) |
 | Thermostats | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) · [source](articles/thermostats/) |
 | Cooling Efficiency | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency) · [source](articles/cooling-efficiency/) |
@@ -49,15 +50,6 @@ The topical hub is **Air Conditioning Contractor**; every article links up the s
 | Tonnage | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) · [source](articles/tonnage/) |
 | Load Calculation | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation) · [source](articles/load-calculation/) |
 | Manual J | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/manual-j) · [source](articles/manual-j/) |
-| Coolant Leak | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak) · [source](articles/coolant-leak/) |
-| Frozen Evaporator Coil | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil) · [source](articles/frozen-evaporator-coil/) |
-| High Energy Bills | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/high-energy-bills) · [source](articles/high-energy-bills/) |
-| Comfort | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/comfort) · [source](articles/comfort/) |
-| Homeowners | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/homeowners) · [source](articles/homeowners/) |
-| Commercial Property Managers | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers) · [source](articles/commercial-property-managers/) |
-| HVAC Licensing | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing) · [source](articles/hvac-licensing/) |
-| MERV Rating | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/merv-rating) · [source](articles/merv-rating/) |
-| Zoning Systems | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems) · [source](articles/zoning-systems/) |
 | System Diagnostics | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics) · [source](articles/system-diagnostics/) |
 | Preventative Maintenance | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/preventative-maintenance) · [source](articles/preventative-maintenance/) |
 | AC Not Cooling | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) · [source](articles/ac-not-cooling/) |
@@ -65,15 +57,34 @@ The topical hub is **Air Conditioning Contractor**; every article links up the s
 | AC Breakdown | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-breakdown) · [source](articles/ac-breakdown/) |
 | Emergency AC Repair | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/emergency-ac-repair) · [source](articles/emergency-ac-repair/) |
 | AC Unit Replacement | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-unit-replacement) · [source](articles/ac-unit-replacement/) |
+| Coolant Leak | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak) · [source](articles/coolant-leak/) |
 | Refrigerant | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant) · [source](articles/refrigerant/) |
+| Frozen Evaporator Coil | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil) · [source](articles/frozen-evaporator-coil/) |
 | Clogged Drain Lines | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines) · [source](articles/clogged-drain-lines/) |
 | Electrical Malfunctions | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/electrical-malfunctions) · [source](articles/electrical-malfunctions/) |
+| High Energy Bills | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/high-energy-bills) · [source](articles/high-energy-bills/) |
+| Comfort | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/comfort) · [source](articles/comfort/) |
+| Homeowners | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/homeowners) · [source](articles/homeowners/) |
+| Commercial Property Managers | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers) · [source](articles/commercial-property-managers/) |
 | Landlords | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/landlords) · [source](articles/landlords/) |
 | New Construction Builders | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders) · [source](articles/new-construction-builders/) |
 | Building Codes | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/building-codes) · [source](articles/building-codes/) |
 | HVAC System Energy Management | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management) · [source](articles/hvac-system-energy-management/) |
 | NATE Certification | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification) · [source](articles/nate-certification/) |
 | EPA Section 608 Certification | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/epa-section-608-certification) · [source](articles/epa-section-608-certification/) |
+| HVAC Licensing | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing) · [source](articles/hvac-licensing/) |
+| MERV Rating | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/merv-rating) · [source](articles/merv-rating/) |
+| AC Repair | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) · [source](articles/ac-repair/) |
+| Capacitor Failure | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/capacitor-failure) · [source](articles/capacitor-failure/) |
+| Contactor Failure | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/contactor-failure) · [source](articles/contactor-failure/) |
+| AC Short Cycling | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-short-cycling) · [source](articles/ac-short-cycling/) |
+| AC Not Turning On | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-turning-on) · [source](articles/ac-not-turning-on/) |
+| Unusual AC Noises | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/unusual-ac-noises) · [source](articles/unusual-ac-noises/) |
+| AC Odors | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-odors) · [source](articles/ac-odors/) |
+| Expansion Valve | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/expansion-valve) · [source](articles/expansion-valve/) |
+| Condenser Fan Motor | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/condenser-fan-motor) · [source](articles/condenser-fan-motor/) |
+| Compressor Replacement | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/compressor-replacement) · [source](articles/compressor-replacement/) |
+| Refrigerant Recharge | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant-recharge) · [source](articles/refrigerant-recharge/) |
 
 ## Files
 
