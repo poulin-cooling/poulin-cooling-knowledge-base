@@ -1,0 +1,65 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Poulin Cooling A/C and Refrigeration",
+    "identifier": "did:web:poulincooling.com"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:poulincooling.com:kb:okf-bundle",
+      "displayName": "Poulin Cooling A/C and Refrigeration knowledge bundle (OKF, single fetch)",
+      "type": "application/okf-bundle+gzip",
+      "mediaType": "application/okf-bundle+gzip",
+      "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/okf.tar.gz",
+      "description": "Complete OKF concept bundle: the entity, 10 offerings, 57 topics, 52 grounded FAQs.",
+      "updatedAt": "2026-07-08",
+      "representativeQueries": [
+        "why is ac not cooling",
+        "how much unit does ac consume",
+        "how much air duct cleaning",
+        "how much is a btu"
+      ]
+    },
+    {
+      "identifier": "urn:air:poulincooling.com:kb:okf-index",
+      "displayName": "OKF bundle index (browsable Markdown tree)",
+      "type": "text/markdown",
+      "mediaType": "text/markdown",
+      "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/okf/index.md",
+      "description": "Entry point to the same bundle as a tree of one-idea-per-file Markdown concept pages.",
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "identifier": "urn:air:poulincooling.com:kb:llms-txt",
+      "displayName": "llms.txt",
+      "type": "text/markdown",
+      "mediaType": "text/markdown",
+      "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/llms.txt",
+      "description": "Curated map of the knowledge base for AI crawlers.",
+      "updatedAt": "2026-07-08"
+    }
+  ],
+  "name": "Poulin Cooling A/C and Refrigeration",
+  "description": "Poulin Cooling A/C and Refrigeration is a licensed HVAC contractor serving Clearwater and Pinellas County, FL. We specialize in residential and commercial air conditioning repair, AC installation, heating repair, heating installation, commercial refrigeration, and indoor air quality services.",
+  "url": "https://poulincooling.com",
+  "knowledgeBase": "https://poulincoolingacandrefrigeration.mintlify.app",
+  "counts": {
+    "topics": 57,
+    "offerings": 10,
+    "faqs": 52
+  },
+  "sameAs": [
+    "https://www.google.com/maps?cid=4057692242347042129",
+    "https://www.yelp.com/biz/poulin-cooling-a-c-and-refrigeration-clearwater",
+    "https://www.bbb.org/us/fl/clearwater/profile/air-conditioning-contractor/poulin-cooling-air-conditioning-refrigeration-llc-0653-90361253",
+    "https://www.facebook.com/poulincooling",
+    "https://www.angi.com/companylist/us/fl/clearwater/poulin-cooling-ac-and-refrigeration-llc-reviews-9823262.htm",
+    "https://www.houzz.com/professionals/heating-and-cooling-sales-and-repair/poulin-cooling-a-c-and-refrigeration-pfvwus-pf~760479801",
+    "https://www.bing.com/maps?q=Poulin%20Cooling%20A%2FC%20and%20Refrigeration%20Clearwater%20FL",
+    "https://www.wikidata.org/wiki/Q140144180",
+    "https://github.com/poulin-cooling/poulin-cooling-knowledge-base",
+    "https://poulincoolingacandrefrigeration.mintlify.app/",
+    "https://poulin-cooling.readme.io/"
+  ],
+  "lastBuilt": "2026-07-08"
+}

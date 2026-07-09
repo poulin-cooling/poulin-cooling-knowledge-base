@@ -66,3 +66,13 @@ Knowledge base: https://poulincoolingacandrefrigeration.mintlify.app
 - [HVAC System Energy Management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management): HVAC system energy management is the systematic process of monitoring and controlling HVAC energy consumption to reduce waste and improve building performance.
 - [NATE Certification](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification): NATE certification is a nationally recognized credential that validates the technical competency of HVACR technicians across up to 9 specialty areas.
 - [EPA Section 608 Certification](https://poulincoolingacandrefrigeration.mintlify.app/epa-section-608-certification): EPA Section 608 Certification is the federal credential required for any technician who purchases, handles, or recovers refrigerants in HVAC and refrigeration systems.
+
+<!-- okf-bundle:start -->
+## Knowledge bundle (OKF)
+
+- /okf/entity.md — the business, its facts and attributes
+- /okf/offerings/ — 10 services
+- /okf/faqs/ — 52 grounded answers to real questions
+- /okf.tar.gz — the whole bundle in one fetch
+- /.well-known/ai-catalog.json — ARD catalog (machine-readable)
+<!-- okf-bundle:end -->
