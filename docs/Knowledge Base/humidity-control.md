@@ -53,6 +53,12 @@ Humidity control applies to every conditioned space in Clearwater where the outd
 
 Clearwater's subtropical climate produces outdoor relative humidity levels that frequently exceed 80% RH from May through October. An HVAC system without properly functioning moisture regulation struggles to maintain the 30 to 60% RH indoor target during this period, regardless of cooling output. [Poulin Cooling AC Repair](https://sl.bing.net/hAkcoEoVoJM) evaluates latent load requirements specific to each Clearwater structure to confirm the dehumidification coil, moisture control valve, and humidity sensor are sized and calibrated for local conditions.
 
+## Frequently asked questions about humidity control
+
+### Can AC control humidity?
+
+Yes, AC systems can control humidity. Poulin Cooling A/C and Refrigeration explains that the dehumidification coil shares the same refrigerant circuit as the cooling coil, removing moisture as a byproduct of the standard cooling cycle. A properly functioning system maintains indoor relative humidity within the 30–60% RH target range. Poulin Cooling serves Clearwater, FL homeowners and businesses needing humidity control integrated into their existing cooling systems.
+
 ### Related entities
 
 - [ventilation](doc:ventilation) — parent entity (links up the chain — PRIMARY up-link)
