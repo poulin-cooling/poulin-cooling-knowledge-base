@@ -1,0 +1,66 @@
+---
+title: Contactor Failure
+---
+## Contactor failure in Clearwater - Poulin Cooling A/C and Refrigeration
+
+Contactor failure is the wear or burnout of the electrical relay that switches high-voltage power to an air conditioner's outdoor unit, called a bad AC contactor. It is a type of **Electrical Component Failure**, placing it in the same diagnostic category as blown capacitors and failed run relays. When the contactor stops working, the outdoor condenser unit loses power entirely, even if the thermostat and air handler inside the home are functioning normally.
+
+### What contactor failure is and how it works
+
+Contactor failure affects the contactor, an electromechanical switch inside the outdoor condenser cabinet. The control board sends 24 volts through the contactor's coil, generating a magnetic field that pulls the contact points together and completes the high-voltage circuit to the compressor and condenser fan motor. Contactor failure means that circuit either cannot close, closes permanently, or closes with so much resistance that the system runs poorly. A stuck contactor keeps the compressor running even after the thermostat calls for shutdown. Over time, that condition burns out the compressor.
+
+[Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/7avRF2ZVVjxutbqW7) diagnoses contactor problems as part of [AC repair](doc:ac-repair) in Clearwater, using a multimeter to measure coil voltage response and contact resistance before recommending replacement.
+
+### Measurable attributes of a failing contactor
+
+Contactor failure has three measurable attributes that a technician checks during diagnosis.
+
+- **Contact resistance:** Contact resistance rises above specification when the contact points pit, corrode, or weld together. Healthy contacts read near zero ohms; a failed set reads measurably higher, causing voltage drop and heat buildup at the connection.
+
+- **Coil voltage response:** Coil voltage response confirms whether the 24V control signal from the thermostat is actually reaching the contactor coil. A coil that reads 24V at the terminals but fails to pull the contacts in points to a burned or open coil winding inside the contactor body.
+
+- **Failure mode:** Failure mode describes the physical state of the contactor: pitted contacts that arc on every cycle, welded contacts that fuse shut under load, or an open coil that prevents the contactor from pulling in at all. Each mode produces a different symptom at the outdoor unit.
+
+These three readings together give a complete picture of the contactor's condition. A technician who checks only one risks misdiagnosing the problem as a capacitor issue or a compressor fault. [Capacitor failure](doc:capacitor-failure) and contactor failure often appear together because a weak capacitor forces the compressor to draw higher startup current, which accelerates contact pitting.
+
+### How contactor failure relates to the broader cooling system
+
+Contactor failure interrupts power to the condenser unit. Both the compressor and condenser fan motor stop receiving voltage. The air handler indoors may continue running, circulating warm air through the home while the outdoor section sits idle. This is one of the clearest signs that the problem is electrical rather than refrigerant-related: the indoor blower runs, the outdoor unit does not, and the supply air gradually warms to room temperature.
+
+The contactor sits downstream of the disconnect box and upstream of the compressor and fan motor. A burned contactor affects every component that depends on that high-voltage circuit. Refrigerant charge, coil condition, and airflow are all irrelevant until the contactor closes properly and restores power to the outdoor section. The part is inexpensive. The test is fast. Contactor replacement is therefore typically one of the first steps a technician takes when the outdoor unit fails to start.
+
+For homeowners in Clearwater who want to understand the full scope of outdoor-unit diagnostics, a licensed [air conditioning contractor](doc:air-conditioning-contractor) can walk through the sequence from disconnect to compressor and identify exactly where the circuit breaks down.
+
+### Stuck contactor symptoms and signs of AC contactor failure
+
+Stuck contactor symptoms are distinct from those of an open contactor, and recognizing the difference helps a homeowner describe the problem accurately before a technician arrives.
+
+- **Outdoor unit does not start:** The outdoor unit does not start when the thermostat calls for cooling, even though the air handler runs. This points to an open contactor or a burned coil that cannot pull the contacts in.
+
+- **Outdoor unit runs continuously:** The outdoor unit runs continuously after the thermostat reaches setpoint. This is the stuck contactor pattern: the welded contacts hold the circuit closed regardless of the control signal.
+
+- **Chattering or buzzing at the outdoor cabinet:** Chattering or buzzing at the outdoor cabinet indicates the contactor is pulling in and releasing rapidly, often because the coil is receiving intermittent voltage or the contact spring tension is weakened.
+
+- **Visible pitting or burn marks:** Visible pitting or burn marks on the contact faces are a direct sign of AC contactor failure. A technician who opens the contactor housing and sees blackened, cratered contact points replaces the part immediately.
+
+- **Tripped breaker after short run:** A tripped breaker after a short run cycle can indicate welded contacts that prevented the compressor from unloading properly at shutdown, causing an overcurrent condition.
+
+### What opposes contactor failure: clean contact closure and proper switching
+
+Clean contact closure is the normal operating state a contactor is designed to maintain. In a healthy contactor, the contact points meet flush, resistance stays near zero ohms, and the full line voltage reaches the compressor and fan motor without measurable drop. Proper switching matters. The contactor pulls in cleanly upon receiving the 24V coil signal and releases when the signal stops. These two conditions together protect the compressor from the voltage spikes and heat that pitted or welded contacts produce.
+
+A contactor in good condition shows no visible arcing marks on the contact faces. It pulls in with an audible but clean click rather than a buzz or chatter. Technicians use this contrast during inspection: a contactor that clicks cleanly and reads near-zero resistance across the contacts is functioning correctly, while one that buzzes, reads elevated resistance, or shows physical damage needs replacement. Replacement restores clean contact closure. It removes the risk of compressor damage from sustained voltage irregularities.
+
+### Where contactor failure applies and who diagnoses it
+
+Contactor failure applies to virtually every split-system and package-unit air conditioner, because all of them use a contactor to switch high-voltage power to the outdoor section. Heat pumps use the same component and experience the same failure modes. Line voltage at the contactor terminals reaches 240 volts in most residential systems. The contactor is located inside the outdoor condenser cabinet, behind the electrical access panel. Only a licensed technician should inspect or replace it. Refrigerant work on the same unit requires EPA 608-certified handling, so a licensed technician should perform any service that involves opening the refrigerant circuit alongside contactor replacement.
+
+[Poulin Cooling A/C](https://sl.bing.net/iKYOCqYGUaO) serves Clearwater and the surrounding area, diagnosing contactor problems alongside related electrical faults such as failed capacitors and faulty disconnect fuses. A burned contactor found during a routine tune-up is replaced before it strands the system on a hot day.
+
+### Related entities
+
+- [AC repair](doc:ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [capacitor failure](doc:capacitor-failure) — sibling entity (same sub-cluster)
