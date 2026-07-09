@@ -3,7 +3,7 @@ title: Coolant Leak
 ---
 ## Coolant leak in Clearwater - Poulin Cooling A/C and Refrigeration
 
-A coolant leak is the unintended escape of refrigerant from an air conditioning system. Coolant leaks range in severity from minor seepage measured in drops per minute to a continuous stream caused by a major rupture. [Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/LbpxR8FbKkgvRFjR7) diagnoses and repairs coolant leaks at connection points, coils, and refrigerant lines throughout Clearwater, FL. Left unaddressed, a coolant leak causes reduced cooling performance, compressor damage, and complete system failure.
+A coolant leak is the unintended escape of refrigerant from an air conditioning system. Coolant leaks range in severity from minor seepage measured in drops per minute to a continuous stream caused by a major rupture. [Poulin Cooling AC Repair](https://maps.app.goo.gl/r16w55MAiL3RMFda6) diagnoses and repairs coolant leaks at connection points, coils, and refrigerant lines throughout Clearwater, FL. Left unaddressed, a coolant leak causes reduced cooling performance, compressor damage, and complete system failure.
 
 ### What a coolant leak is in an AC system
 
@@ -11,7 +11,7 @@ A coolant leak is a condition in which refrigerant fluid escapes through an unin
 
 ### Measurable attributes of a coolant leak
 
-Coolant leak severity is measured across three primary attributes: flow rate, location, and severity classification. Flow rate ranges from drops per minute in minor seepage to a continuous stream in a major rupture. Location defines where refrigerant escapes, with the 3 most common sites being connection points, evaporator coils, and refrigerant lines. Severity classification spans from minor seepage at one end to major rupture at the other. A [frozen evaporator coil](doc:frozen-evaporator-coil) is a direct downstream consequence of low refrigerant caused by a leak at the coil surface. [Poulin Cooling A/C](https://sl.bing.net/cEkWiaOWNwq) measures each of these attributes during a diagnostic inspection to determine the correct repair scope.
+Coolant leak severity is measured across three primary attributes: flow rate, location, and severity classification. Flow rate ranges from drops per minute in minor seepage to a continuous stream in a major rupture. Location defines where refrigerant escapes, with the 3 most common sites being connection points, evaporator coils, and refrigerant lines. Severity classification spans from minor seepage at one end to major rupture at the other. A [frozen evaporator coil](doc:frozen-evaporator-coil) is a direct downstream consequence of low refrigerant caused by a leak at the coil surface. [Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/cEkWiaOWNwq) measures each of these attributes during a diagnostic inspection to determine the correct repair scope.
 
 ### How a coolant leak relates to the broader HVAC system
 
@@ -39,7 +39,17 @@ Coolant leaks occur at 3 primary locations within an air conditioning system. Th
 
 - **Refrigerant lines:** Refrigerant lines sustain physical damage from rubbing against structural surfaces, pest activity, or improper installation, producing escape pathways along the line length.
 
-[Poulin Cooling](https://share.google/EZOjFnqwqgI0gO24f) inspects all 3 locations during a coolant leak diagnostic in Clearwater to identify every active and potential escape pathway before completing the repair.
+[Poulin Cooling A/C](https://share.google/311cTU5tVeCucr2nM) inspects all 3 locations during a coolant leak diagnostic in Clearwater to identify every active and potential escape pathway before completing the repair.
+
+## Frequently asked questions about coolant leak
+
+### How serious can a coolant leak be?
+
+Coolant leak severity at Poulin Cooling A/C and Refrigeration ranges from minor seepage measured in drops per minute to a continuous stream caused by a major rupture. The three most common leak locations are connection points, evaporator coils, and refrigerant lines. Poulin Cooling A/C and Refrigeration inspects all three locations during a coolant leak diagnostic in Clearwater, FL, to identify every active and potential escape pathway before completing the repair.
+
+### Can coolant leak from an AC system?
+
+Yes, coolant leaks can occur in AC systems when refrigerant escapes through connection points, evaporator coils, or refrigerant lines. Poulin Cooling A/C and Refrigeration diagnoses and repairs coolant leaks throughout Clearwater, FL. Signs include warm air from vents, ice buildup on coils, hissing sounds, and higher energy bills. Left unaddressed, a coolant leak causes compressor damage and complete system failure.
 
 ### Related entities
 
