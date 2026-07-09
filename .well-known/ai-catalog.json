@@ -12,7 +12,7 @@
       "mediaType": "application/okf-bundle+gzip",
       "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/okf.tar.gz",
       "description": "Complete OKF concept bundle: the entity, 10 offerings, 57 topics, 52 grounded FAQs.",
-      "updatedAt": "2026-07-08",
+      "updatedAt": "2026-07-09",
       "representativeQueries": [
         "why is ac not cooling",
         "how much unit does ac consume",
@@ -27,7 +27,7 @@
       "mediaType": "text/markdown",
       "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/okf/index.md",
       "description": "Entry point to the same bundle as a tree of one-idea-per-file Markdown concept pages.",
-      "updatedAt": "2026-07-08"
+      "updatedAt": "2026-07-09"
     },
     {
       "identifier": "urn:air:poulincooling.com:kb:llms-txt",
@@ -36,7 +36,7 @@
       "mediaType": "text/markdown",
       "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/llms.txt",
       "description": "Curated map of the knowledge base for AI crawlers.",
-      "updatedAt": "2026-07-08"
+      "updatedAt": "2026-07-09"
     }
   ],
   "name": "Poulin Cooling A/C and Refrigeration",
@@ -61,5 +61,5 @@
     "https://poulincoolingacandrefrigeration.mintlify.app/",
     "https://poulin-cooling.readme.io/"
   ],
-  "lastBuilt": "2026-07-08"
+  "lastBuilt": "2026-07-09"
 }
