@@ -3,7 +3,7 @@ title: System Diagnostics
 ---
 ## System diagnostics in Clearwater - Poulin Cooling A/C and Refrigeration
 
-System diagnostics is the process of identifying faults within an AC system by measuring performance data, inspecting components, and analyzing results. The process covers refrigerant pressure, airflow volume, electrical continuity, and thermostat calibration across a defined set of parameters. [Poulin Cooling](https://maps.app.goo.gl/cZBnDeiuXiDPNVZbA) performs system diagnostics in Clearwater, FL, for residential and commercial HVAC equipment to isolate faults before they escalate into full system failures.
+System diagnostics is the process of identifying faults within an AC system by measuring performance data, inspecting components, and analyzing results. The process covers refrigerant pressure, airflow volume, electrical continuity, and thermostat calibration across a defined set of parameters. [Poulin Cooling A/C](https://maps.app.goo.gl/UZ1cmaLmugf5Zo1X7) performs system diagnostics in Clearwater, FL, for residential and commercial HVAC equipment to isolate faults before they escalate into full system failures.
 
 ### What system diagnostics is and how it works
 
@@ -19,7 +19,7 @@ System diagnostics produces three primary measurable outputs that define the qua
 
 Higher data point counts increase diagnostic accuracy because more parameters reduce the number of possible fault sources. A diagnostic evaluation that measures only supply air temperature identifies far fewer fault sources than one that simultaneously measures suction pressure, discharge pressure, superheat, subcooling, amperage draw, and voltage at the disconnect. [Cooling efficiency](doc:cooling-efficiency) readings, including the system's actual sensible heat ratio versus its rated value, are among the most informative data points collected during a full diagnostic pass.
 
-Completion time varies with system complexity. A single-zone residential split system requires less time to evaluate than a multi-zone commercial system with variable refrigerant flow. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/eXSqzkJANae) technicians document each measured value in a written report so the property owner has a permanent record of the system's condition at the time of the diagnostic.
+Completion time varies with system complexity. A single-zone residential split system requires less time to evaluate than a multi-zone commercial system with variable refrigerant flow. [Poulin Cooling](https://sl.bing.net/eXSqzkJANae) technicians document each measured value in a written report so the property owner has a permanent record of the system's condition at the time of the diagnostic.
 
 ### How system diagnostics relates to the broader HVAC process
 
@@ -47,7 +47,7 @@ System diagnostics applies to any AC system operating in Clearwater's climate, w
 
 Clearwater's average summer ambient temperature exceeds 90 degrees Fahrenheit on a significant number of days each year, which pushes condensing pressures toward the upper end of the operating range for R-410A and R-32 systems. A system operating near its high-side pressure limit has a reduced fault tolerance. A component that operates within specification at 75 degrees ambient fails at 95 degrees ambient. System diagnostics performed during peak season captures the system's actual operating condition under maximum load, which is the most informative time to collect the data.
 
-[Poulin Cooling AC Repair](https://share.google/Uzwygsz1dVaWYX3TX) serves Clearwater and the surrounding area with diagnostic evaluations that produce a documented set of measured values for each system inspected. The written diagnostic report identifies the confirmed fault, the measured deviation from specification, and the recommended corrective action based on the data collected.
+[Poulin Cooling A/C and Refrigeration](https://share.google/ErIMgHoyYT6T3u52I) serves Clearwater and the surrounding area with diagnostic evaluations that produce a documented set of measured values for each system inspected. The written diagnostic report identifies the confirmed fault, the measured deviation from specification, and the recommended corrective action based on the data collected.
 
 ### Related entities
 
