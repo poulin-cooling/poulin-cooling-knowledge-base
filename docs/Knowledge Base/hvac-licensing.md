@@ -3,7 +3,7 @@ title: HVAC Licensing
 ---
 ## HVAC licensing in Clearwater - Poulin Cooling A/C and Refrigeration
 
-HVAC licensing is the official authorization granted to individuals or businesses to perform heating, ventilation, air conditioning, and refrigeration work within a state or local jurisdiction. The license classification level ranges from journeyman to master to contractor, and validity periods run 1 to 3 years depending on the issuing authority. [Poulin Cooling AC Repair](https://maps.app.goo.gl/FS2xrKsqy3VQditEA) operates under the licensing requirements that govern all HVAC work performed in Clearwater, FL.
+HVAC licensing is the official authorization granted to individuals or businesses to perform heating, ventilation, air conditioning, and refrigeration work within a state or local jurisdiction. The license classification level ranges from journeyman to master to contractor, and validity periods run 1 to 3 years depending on the issuing authority. [Poulin Cooling A/C](https://maps.app.goo.gl/GTHjZWtdYmXVCjsp7) operates under the licensing requirements that govern all HVAC work performed in Clearwater, FL.
 
 ### What HVAC licensing is and how it works
 
@@ -43,7 +43,7 @@ HVAC licensing is earned through 3 component parts: a written examination, a pra
 
 - **Continuing education requirements:** Continuing education requirements must be completed within each 1 to 3 year validity period. Topics typically include updated refrigerant regulations, new equipment standards, and code changes relevant to the licensed jurisdiction.
 
-[Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/2m0Syc7Ebc) technicians in Clearwater meet all 3 component requirements as a condition of active licensure. The written examination and practical assessment establish baseline authorization. Continuing education requirements keep that authorization current as codes and refrigerant standards evolve.
+[Poulin Cooling](https://sl.bing.net/jXZYHm7PpBs) technicians in Clearwater meet all 3 component requirements as a condition of active licensure. The written examination and practical assessment establish baseline authorization. Continuing education requirements keep that authorization current as codes and refrigerant standards evolve.
 
 ### Consequences of unlicensed HVAC operation in Clearwater
 
@@ -51,7 +51,7 @@ Unlicensed HVAC operation exposes property owners and technicians to 4 direct co
 
 HVAC systems installed or repaired by an unlicensed technician fail permit inspections. A failed permit inspection prevents a property from passing a real estate transaction inspection. Homeowners insurance policies frequently deny claims for damage traced to unlicensed HVAC work. The financial exposure from a single unlicensed repair exceeds the cost of hiring a licensed contractor by a significant margin in most cases.
 
-The licensed contractor holds the legal accountability for work performed on a property. [Poulin Cooling A/C](https://share.google/EZOjFnqwqgI0gO24f) carries active HVAC licensing for Clearwater and the surrounding jurisdiction, ensuring every installation and repair meets Florida mechanical code and passes permit inspection without issue.
+The licensed contractor holds the legal accountability for work performed on a property. [Poulin Cooling A/C and Refrigeration](https://share.google/Az65kNyKN3z3CXwW6) carries active HVAC licensing for Clearwater and the surrounding jurisdiction, ensuring every installation and repair meets Florida mechanical code and passes permit inspection without issue.
 
 ### Related entities
 
