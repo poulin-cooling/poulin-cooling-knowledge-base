@@ -3,7 +3,7 @@ title: Load Calculation
 ---
 ## Load calculation in Clearwater - Poulin Cooling A/C and Refrigeration
 
-Load calculation is the mathematical process of determining the exact cooling and heating capacity a building requires to maintain comfort. The calculation measures heat gain and heat loss through walls, windows, roofs, floors, and air infiltration points. [Poulin Cooling Air Conditioning and Refrigeration](https://share.google/NKk2hbtqd0nPSooQk) performs load calculations for residential and commercial properties in Clearwater, FL before any system design or equipment selection begins.
+Load calculation is the mathematical process of determining the exact cooling and heating capacity a building requires to maintain comfort. The calculation measures heat gain and heat loss through walls, windows, roofs, floors, and air infiltration points. [Poulin Cooling AC Repair](https://maps.app.goo.gl/LbpxR8FbKkgvRFjR7) performs load calculations for residential and commercial properties in Clearwater, FL before any system design or equipment selection begins.
 
 Load calculation is a type of engineering analysis and belongs to the broader HVAC design process. The calculation produces two primary outputs: required cooling capacity in BTU/hr and required heating capacity in BTU/hr. These outputs determine the correct [AC system tonnage](doc:tonnage) for the structure. Without a verified load calculation, equipment selection relies on guesswork rather than measured building data.
 
@@ -45,7 +45,7 @@ Load calculation errors and omissions produce 4 measurable system problems: shor
 
 - **Elevated energy bills:** Elevated energy bills result from both oversized and undersized systems. An oversized system draws high startup amperage repeatedly. An undersized system runs continuously at full capacity without satisfying the load, consuming maximum energy without achieving setpoint.
 
-[Poulin Cooling A/C](https://sl.bing.net/jvuQoi6qOKi) performs load calculations before equipment selection on every new installation and replacement project in Clearwater. The calculation eliminates the guesswork that produces these 4 failure modes and ensures the installed system matches the verified BTU/hr requirement of the structure.
+[Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/jvuQoi6qOKi) performs load calculations before equipment selection on every new installation and replacement project in Clearwater. The calculation eliminates the guesswork that produces these 4 failure modes and ensures the installed system matches the verified BTU/hr requirement of the structure.
 
 ### Where load calculation applies in Clearwater, FL
 
@@ -56,6 +56,12 @@ New residential construction in Clearwater requires a load calculation before pe
 Residential system replacement is the most common application for load calculation in existing Clearwater homes. Many homes in Clearwater carry systems installed without a proper load calculation, resulting in oversized equipment. A load calculation at replacement time corrects historical sizing errors and specifies the right tonnage for the next 15 to 20 years of operation.
 
 Light commercial buildings, including retail spaces, offices, and restaurants, require load calculations that account for higher internal heat gains from equipment, lighting, and occupancy density. Commercial load calculations follow ACCA Manual N methodology rather than Manual J, but both methods produce BTU/hr outputs that map to equipment tonnage using the same 12,000 BTU/hr per ton conversion.
+
+## Frequently asked questions about load calculation
+
+### What is a load calculation and why does it matter?
+
+Poulin Cooling A/C and Refrigeration performs load calculations for residential and commercial properties in Clearwater, FL before any system design or equipment selection begins. Using Manual J methodology, Poulin Cooling measures heat gain, heat loss, and air infiltration to determine the exact BTU/hr and tonnage a building requires. This ensures properly sized equipment, avoiding short-cycling, high humidity, premature compressor failure, and elevated energy bills common with rule-of-thumb sizing.
 
 ### Related entities
 
