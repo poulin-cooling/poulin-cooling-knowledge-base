@@ -1,0 +1,56 @@
+---
+title: Residential HVAC
+---
+## Residential HVAC in Clearwater - Poulin Cooling A/C and Refrigeration
+
+Residential HVAC is the integrated system of equipment and ductwork that controls heating, ventilation, and air conditioning inside a home. A complete residential HVAC system delivers cooling capacity between 1.5 and 5 tons, heating capacity between 40,000 and 120,000 BTU per hour, and energy efficiency ratings from SEER 13 to SEER 22. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/qW4Z2ZYfx3xFbVVz8) installs, maintains, and repairs residential HVAC systems throughout Clearwater, FL.
+
+### What residential HVAC is and how it works
+
+Residential HVAC is a category of climate control equipment designed specifically for single-family homes, townhomes, and multi-unit residential buildings. The system is composed of three primary components: the air conditioning unit, the heating system, and the ductwork that distributes conditioned air through every room. Residential HVAC belongs to the broader category of [central air conditioning systems](doc:central-air-conditioning-systems), which serve as the parent entity for all ducted, whole-home climate control equipment.
+
+The ventilation function moves stale indoor air out and draws fresh air in, which directly affects [indoor air quality](doc:indoor-air-quality-solutions) throughout the home. The heating system operates independently of the cooling unit but shares the same ductwork, allowing a single thermostat to manage both functions. Residential HVAC contrasts with commercial HVAC and industrial HVAC, which are engineered for larger square footage, higher occupancy loads, and different regulatory standards.
+
+### Measurable attributes of residential HVAC systems
+
+Residential HVAC systems carry three primary measurable attributes that determine performance and suitability for a given home. Cooling capacity, heating capacity, and energy efficiency rating are the 3 attributes every homeowner and contractor evaluates before selecting or replacing a system.
+
+- **Cooling capacity:** Cooling capacity is measured in tons, with residential systems ranging from 1.5 tons for smaller homes to 5 tons for larger properties. One ton of cooling equals 12,000 BTU per hour of heat removal. Undersizing the cooling capacity causes the system to run continuously without reaching the set temperature, while oversizing causes short cycling that leaves humidity uncontrolled.
+
+- **Heating capacity:** Heating capacity is measured in BTU per hour, with residential systems rated between 40,000 and 120,000 BTU per hour. The correct heating capacity depends on the home's square footage, insulation rating, and local climate. A system rated below the required BTU per hour fails to maintain comfortable temperatures during cold periods.
+
+- **Energy efficiency rating (SEER):** The Seasonal Energy Efficiency Ratio (SEER) measures how much cooling a system delivers per unit of electricity consumed. Residential HVAC systems carry SEER ratings from 13 to 22, with higher numbers indicating lower monthly energy costs. A system upgraded from SEER 13 to SEER 22 delivers a measurable reduction in electricity consumption over the same cooling season. Proper [energy efficiency](doc:energy-efficiency) ratings directly affect long-term operating costs for Clearwater homeowners.
+
+### How residential HVAC relates to the broader system
+
+Residential HVAC is a type of HVAC system, which is the broader category covering all heating, ventilation, and air conditioning equipment regardless of application. The licensed contractor who installs and services residential HVAC equipment is classified as an [air conditioning contractor](doc:air-conditioning-contractor), a designation that requires state licensure and manufacturer certification in Florida. [Poulin Cooling AC Repair](https://sl.bing.net/2m0Syc7Ebc) operates as a licensed air conditioning contractor serving the Clearwater residential market.
+
+The thermostat is the primary control interface for the entire residential HVAC system. A properly calibrated [thermostat](doc:thermostats) communicates set-point temperatures to both the cooling and heating equipment, coordinating run cycles to maintain consistent indoor conditions. Smart thermostats with programmable schedules reduce unnecessary run time and extend the service life of the air conditioning unit and heating system. Ductwork connects every component, and a breach or blockage in the duct network reduces system output regardless of equipment capacity or SEER rating.
+
+### Common problems and signs of residential HVAC failure
+
+Residential HVAC failure presents through four primary signs that indicate specific component problems. Identifying each sign early prevents minor repairs from escalating into full system replacement.
+
+- **Insufficient cooling or heating:** Insufficient cooling or heating indicates low refrigerant charge, a failing compressor, or a heat exchanger operating below rated BTU output. A system losing refrigerant drops below its rated cooling capacity within one to two seasons without a recharge and leak repair.
+
+- **Elevated energy bills:** Elevated energy bills signal a drop in effective SEER performance caused by dirty coils, clogged filters, or a compressor drawing excess amperage. A system operating with a clogged air filter works harder to move the same volume of air, increasing electricity consumption without improving comfort.
+
+- **Unusual noise from the air conditioning unit:** Unusual noise from the air conditioning unit (grinding, squealing, or banging) points to mechanical problems including failing bearings, a loose blower wheel, or refrigerant slugging in the compressor. Ignoring mechanical noise accelerates component wear and shortens the system's service life.
+
+- **Poor airflow through ductwork:** Poor airflow through ductwork results from collapsed ducts, disconnected joints, or blocked return vents. A duct system with significant leakage loses conditioned air into unconditioned spaces such as attics and crawl spaces, reducing delivered capacity below the rated tonnage of the air conditioning unit.
+
+### Where residential HVAC applies in Clearwater, FL
+
+Residential HVAC applies to single-family homes, condominiums, townhomes, and small multi-unit residential buildings throughout Clearwater. Florida's climate places residential HVAC systems under sustained cooling demand for eight to ten months per year, which accelerates wear on compressors, capacitors, and refrigerant lines compared to systems in cooler climates. A system in Clearwater accumulates significantly more annual run hours than the same unit installed in a northern state, making annual maintenance and timely repairs essential to reaching the rated service life of the equipment. [Poulin Cooling Air Conditioning and Refrigeration](https://share.google/Az65kNyKN3z3CXwW6) services all residential property types across Clearwater, addressing cooling capacity sizing, SEER-rated equipment upgrades, ductwork integrity, and heating system performance for the full range of home configurations in the area.
+
+### Related entities
+
+- [central air conditioning systems](doc:central-air-conditioning-systems) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [indoor air quality solutions](doc:indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+
+- [thermostats](doc:thermostats) — sibling entity (same sub-cluster)
+
+- [energy efficiency](doc:energy-efficiency) — sibling entity (same sub-cluster)
