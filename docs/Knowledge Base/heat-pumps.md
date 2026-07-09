@@ -35,6 +35,16 @@ A heat pump that runs continuously without reaching the thermostat setpoint, pro
 
 Heat pumps apply across residential, light commercial, and refrigeration applications in Clearwater, FL. Single-family homes use split-system heat pumps paired with central air handlers to condition the entire structure through existing ductwork. Multi-room additions, garages, and converted spaces use ductless heat pump configurations where running new ductwork is impractical. Light commercial properties including retail spaces, offices, and server rooms use heat pumps sized from 3 tons to 20 tons to manage both occupant comfort and equipment cooling loads. Refrigeration applications use heat pump technology in the form of heat transfer units that maintain precise temperature ranges for food storage and cold chain logistics. Clearwater's climate, with outdoor temperatures consistently within the 40°F to 95°F operating band, allows heat pumps to run in high-efficiency mode year-round without the COP penalties seen in colder northern climates. [Poulin Cooling A/C](https://share.google/ZvbmBZwRtNFIAkD7I) serves all of these application types, matching refrigerant capacity and COP rating to the specific load requirements of each property.
 
+## Frequently asked questions about heat pumps
+
+### How much do heat pumps cost?
+
+Poulin Cooling A/C and Refrigeration does not publish heat pump pricing online. Heat pump systems range from 1 ton to 60 tons in refrigerant capacity, and cost varies by size, COP rating, and installation scope. For an accurate quote on a heat pump installation, repair, or maintenance in Clearwater, FL, contact Poulin Cooling A/C and Refrigeration directly at (727) 424-2222.
+
+### What are heat pumps?
+
+Heat pumps are HVAC systems that transfer heat between indoor and outdoor environments rather than generating it, providing both heating and cooling from a single unit. Operating at a Coefficient of Performance between 2.5 and 4.5, heat pumps deliver up to 4.5 units of thermal energy per unit of electricity consumed. Poulin Cooling A/C and Refrigeration installs, repairs, and maintains heat pump systems for residential and commercial properties throughout Clearwater, FL.
+
 ### Related entities
 
 - [ductless mini split systems](doc:ductless-mini-split-systems) — parent entity (links up the chain — PRIMARY up-link)
