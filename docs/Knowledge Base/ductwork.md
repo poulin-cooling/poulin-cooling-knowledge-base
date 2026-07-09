@@ -45,6 +45,16 @@ Ductwork applies in any building that uses a central air conditioning or heating
 
 Flexible ductwork is the standard choice for residential branch runs because the 4 to 12 inch diameter range fits between joists and around structural framing. Galvanized steel ductwork handles main trunk lines in both residential and commercial settings where straight, high-volume runs require rigid conduit rated for higher static pressure. Sealed ductwork design is the baseline standard for any new installation or replacement in Clearwater, where high ambient humidity accelerates condensation and mold growth inside unsealed joints.
 
+## Frequently asked questions about ductwork
+
+### Is ductwork expensive?
+
+Ductwork cost varies based on scope — the context does not include specific pricing. What Poulin Cooling A/C and Refrigeration can confirm is that leaking or collapsed ductwork raises energy bills and forces your HVAC system to overwork, making timely duct inspection and sealing a factor in long-term efficiency. Poulin Cooling serves Clearwater, FL and can assess your duct system's condition during a scheduled visit.
+
+### What is ductwork?
+
+Ductwork is a system of conduits that delivers and removes conditioned air throughout a building, connecting the HVAC unit to every room via supply ducts (pushing treated air out) and return ducts (pulling stale air back). Poulin Cooling A/C and Refrigeration services residential and commercial ductwork in Clearwater, FL, addressing design, sealing, and replacement to maintain airflow efficiency and indoor comfort.
+
 ### Related entities
 
 - [airflow](doc:airflow) — parent entity (links up the chain — PRIMARY up-link)
