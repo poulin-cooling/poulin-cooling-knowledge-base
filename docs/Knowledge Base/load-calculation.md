@@ -3,7 +3,7 @@ title: Load Calculation
 ---
 ## Load calculation in Clearwater - Poulin Cooling A/C and Refrigeration
 
-Load calculation is the mathematical process of determining the exact cooling and heating capacity a building requires to maintain comfort. The calculation measures heat gain and heat loss through walls, windows, roofs, floors, and air infiltration points. [Poulin Cooling AC Repair](https://maps.app.goo.gl/LbpxR8FbKkgvRFjR7) performs load calculations for residential and commercial properties in Clearwater, FL before any system design or equipment selection begins.
+Load calculation is the mathematical process of determining the exact cooling and heating capacity a building requires to maintain comfort. The calculation measures heat gain and heat loss through walls, windows, roofs, floors, and air infiltration points. [Poulin Cooling A/C](https://maps.app.goo.gl/f9mBTXFtCGAocBgZA) performs load calculations for residential and commercial properties in Clearwater, FL before any system design or equipment selection begins.
 
 Load calculation is a type of engineering analysis and belongs to the broader HVAC design process. The calculation produces two primary outputs: required cooling capacity in BTU/hr and required heating capacity in BTU/hr. These outputs determine the correct [AC system tonnage](doc:tonnage) for the structure. Without a verified load calculation, equipment selection relies on guesswork rather than measured building data.
 
@@ -45,7 +45,7 @@ Load calculation errors and omissions produce 4 measurable system problems: shor
 
 - **Elevated energy bills:** Elevated energy bills result from both oversized and undersized systems. An oversized system draws high startup amperage repeatedly. An undersized system runs continuously at full capacity without satisfying the load, consuming maximum energy without achieving setpoint.
 
-[Poulin Cooling Air Conditioning and Refrigeration](https://sl.bing.net/jvuQoi6qOKi) performs load calculations before equipment selection on every new installation and replacement project in Clearwater. The calculation eliminates the guesswork that produces these 4 failure modes and ensures the installed system matches the verified BTU/hr requirement of the structure.
+[Poulin Cooling](https://sl.bing.net/vrrCMGIAO4) performs load calculations before equipment selection on every new installation and replacement project in Clearwater. The calculation eliminates the guesswork that produces these 4 failure modes and ensures the installed system matches the verified BTU/hr requirement of the structure.
 
 ### Where load calculation applies in Clearwater, FL
 
