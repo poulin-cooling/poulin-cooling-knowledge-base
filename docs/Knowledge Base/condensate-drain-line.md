@@ -1,0 +1,66 @@
+---
+title: Condensate Drain Line
+---
+## Condensate drain line in Clearwater - Poulin Cooling A/C and Refrigeration
+
+A condensate drain line is both a drainage component and an HVAC component. It carries condensed water away from the indoor evaporator coil's drain pan to an approved discharge point outside the home or building. Every central air conditioning system produces moisture as warm indoor air passes over the cold coil. That moisture collects in the drain pan below the coil. The condensate line removes it before it overflows. Without a functioning AC drain pipe, water backs up into the air handler, damages ceilings, and promotes mold growth.
+
+[Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/r16w55MAiL3RMFda6) serves Clearwater homeowners who need condensate system inspections, cleanings, and repairs. This work forms part of a broader [air conditioning contractor](doc:air-conditioning-contractor) service.
+
+### What a condensate drain line is and how it works
+
+A condensate drain line is a passive gravity-fed pipe that routes liquid water from the evaporator coil drain pan to a floor drain, utility sink, or exterior discharge point. The line is not pressurized. That distinction matters: a supply line carries refrigerant or water under pressure, while the condensate pipe relies entirely on slope and gravity to move water. Pressurized pipes use fittings rated for psi loads; the condensate line uses standard slip-fit PVC joints sized for low-flow drainage.
+
+The system includes three main components: the drain pan that catches dripping condensate, a trap that blocks air from being drawn back through the line, and the pipe run itself that leads to the discharge point. A float switch mounts in the pan or secondary drain port and cuts power to the air handler when water rises above a safe level, preventing an AC drain pan overflow before it reaches finished surfaces.
+
+### Measurable attributes of a condensate drain line
+
+Condensate drain line specifications follow established HVAC standards, and each attribute has a specific value that affects drainage performance.
+
+- **Pipe diameter:** Pipe diameter for a residential condensate line is 3/4 inch PVC in the vast majority of installations. Larger commercial air handlers sometimes step up to 1 inch or 1-1/4 inch to handle higher condensate volumes.
+
+- **Slope:** Slope must be at least 1/8 inch per foot of horizontal run so gravity moves water toward the discharge point without pooling inside the pipe.
+
+- **Trap depth:** Trap depth is sized to the static pressure of the air handler. A unit with higher negative static pressure requires a deeper trap so the water seal is not pulled through and unconditioned air cannot bypass the coil.
+
+These three values work together. A correctly sized 3/4 inch pipe with a 1/8-inch-per-foot slope and a properly sized trap drains reliably through a Florida summer, when a single-stage residential system can shed a gallon or more of condensate per hour during peak humidity.
+
+### How the condensate drain line connects to the broader HVAC system
+
+The condensate line removes moisture from the air handler, positioning it downstream of the evaporator coil in the refrigeration cycle. The coil is the cold surface where heat transfer occurs. Condensation is a byproduct of that process, not a malfunction. Proper drainage keeps the coil surface dry enough to maintain airflow and heat-exchange efficiency.
+
+The condensate pipe connects directly to the evaporator coil drain pan, making it a meronym of the air handler assembly. During [AC installation](doc:ac-installation), the installer sets the slope, installs the trap, and routes the primary and secondary drain lines before the system is commissioned. A secondary line provides a backup path if the primary clogs, and its discharge point is placed where a homeowner will notice dripping, typically over a window or door, so it serves as an early warning.
+
+Ductless systems handle condensate differently. [Ductless mini split systems](doc:ductless-mini-split-systems) use a condensate pump inside the wall-mounted head unit when gravity drainage is not possible, pushing water through a small-diameter line to a drain. The same slope and trap principles apply wherever gravity drainage is used. [Heat pumps](doc:heat-pumps) produce condensate in both cooling mode and, in some climates, during heating mode when the outdoor coil defrosts, so their drain lines handle year-round flow. [Variable refrigerant flow](doc:variable-refrigerant-flow) systems serving multiple zones can generate significant condensate volumes across several indoor units simultaneously, requiring careful drain routing during design.
+
+### Common problems and signs of a failing condensate drain line
+
+Condensate drain line failures fall into a small number of recurring categories, most of them caused by biological growth inside the pipe.
+
+- **Algae and mold blockages:** Algae and mold thrive in the dark, moist interior of a PVC condensate line. A partial blockage slows drainage; a full blockage triggers the float switch or causes an AC drain pan overflow onto the ceiling or floor below.
+
+- **Disconnected joints:** Disconnected joints occur when vibration or improper installation loosens a slip-fit PVC connection, allowing water to drip inside the air handler cabinet or wall cavity.
+
+- **Missing or dry trap:** A missing trap, or a trap that has dried out during a long shutdown, lets conditioned air pull back through the line, reducing system efficiency and sometimes creating a gurgling noise at the drain pan.
+
+- **Improper slope:** Improper slope leaves standing water in the pipe, accelerating biological growth and eventually causing a backup even when the pipe is otherwise clear.
+
+Visible signs include water stains on ceilings near the air handler, standing water in the drain pan, the system short-cycling because the float switch tripped, and musty odors from the supply registers. Condensate drain cleaning flushes the line with a wet-dry vacuum at the exterior discharge point or treats it with a diluted cleaning solution, clearing most algae blockages before they cause water damage.
+
+### Where condensate drain lines apply in Clearwater
+
+The AC condensate drain line is present in split-system air conditioners, heat pumps, and packaged units installed in Clearwater. Florida's climate demands more. High ambient humidity means the evaporator coil pulls large amounts of moisture from indoor air throughout a cooling season that runs roughly nine months of the year. A residential system in Clearwater can produce several gallons of condensate daily during summer. That output places sustained stress on the drain line, the pan, and the trap that sits between them. [Poulin Cooling A/C](https://sl.bing.net/e8QiOAwHvs4) has served Clearwater and the surrounding Pinellas County communities since 2019, and condensate systems are a routine part of that work.
+
+Commercial applications add complexity. A multi-zone office building or retail space uses multiple air handlers, each with its own condensate pipe, often routed through ceiling plenums where a slow leak goes undetected for weeks. Proper slope verification and float-switch installation at each unit reduce that risk. [Poulin Cooling](https://share.google/ypSGBM7263n6xyRZ6) inspects and services condensate systems across residential and light-commercial properties in Clearwater, treating condensate drain cleaning as a standard part of preventive maintenance rather than an emergency repair.
+
+### Related entities
+
+- [AC installation](doc:ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [ductless mini split systems](doc:ductless-mini-split-systems) — sibling entity (same sub-cluster)
+
+- [heat pumps](doc:heat-pumps) — sibling entity (same sub-cluster)
+
+- [variable refrigerant flow](doc:variable-refrigerant-flow) — sibling entity (same sub-cluster)
