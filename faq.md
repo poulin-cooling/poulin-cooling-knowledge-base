@@ -271,3 +271,43 @@ Compressor replacement, called AC compressor replacement, is the removal of a fa
 ## What is refrigerant recharge?
 
 Refrigerant recharge, called an AC recharge or freon recharge, is the process of restoring an air conditioning system's refrigerant to the manufacturer-specified charge level after a confirmed leak has been repaired. It is a type of HVAC repair procedure, not a standalone maintenance task. A refrigerant refill without first finding and sealing the leak is a temporary fix. The charge will drop again, and the underlying damage continues.
+
+## What is AC installation?
+
+AC installation is the professional service of sizing and fitting a new air conditioning system for a home or building, encompassing the full design process. A new AC install covers everything from load calculation and equipment selection through refrigerant line routing, electrical connections, and final commissioning. Poulin Cooling A/C and Refrigeration handles both full system change-outs and new-construction cooling system setup for residential properties in Clearwater, FL.
+
+## What is evaporator coil?
+
+The evaporator coil, known as the indoor coil or A-coil, is the heat exchanger inside the air handler or furnace cabinet where refrigerant absorbs heat and moisture from the airstream passing through it. It is the indoor half of a split cooling system. Without a functioning coil, refrigerant has nowhere to evaporate. The system then moves warm air instead of cool air, making the coil a core HVAC component.
+
+## What is a line set?
+
+A line set is the paired copper suction and liquid lines that carry refrigerant between an outdoor condenser and an indoor evaporator coil. No line set means no refrigerant movement. Without refrigerant movement, no cooling happens. Refrigerant lines are a core HVAC component and a type of refrigerant piping. Every split-system air conditioner in Clearwater depends on a correctly sized, properly insulated copper line set to transfer heat out of the building.
+
+## What is a condensate drain line?
+
+A condensate drain line is both a drainage component and an HVAC component. It carries condensed water away from the indoor evaporator coil's drain pan to an approved discharge point outside the home or building. Every central air conditioning system produces moisture as warm indoor air passes over the cold coil. That moisture collects in the drain pan below the coil. The condensate line removes it before it overflows. Without a functioning AC drain pipe, water backs up into the air handler, damages ceilings, and promotes mold growth.
+
+## What is an AC disconnect box?
+
+An AC disconnect box is a type of electrical safety device and HVAC component mounted outdoors near the condenser unit that cuts all power to the system so a technician can service it safely. Without a working disconnect, a live line stays energized at the unit during service, creating a serious shock and arc-flash hazard.
+
+## What is ductwork installation?
+
+Ductwork installation is the process of designing and installing new duct runs to distribute conditioned air throughout a building. It is a type of HVAC installation procedure. The work falls under the broader category of air distribution work. A new ductwork install covers trunk lines, branch runs, and register boots, sized and routed to match the specific airflow demands of each room. Duct installation is performed during a new AC system build-out or when an existing air distribution layout no longer fits the structure.
+
+## What is system commissioning?
+
+System commissioning, called startup and checkout, is the post-installation verification process that confirms a newly installed or replaced HVAC system operates within manufacturer specifications before the technician leaves the job site. It is not a repair call or a routine tune-up. Commissioning is a structured quality verification step that covers refrigerant charge, airflow, electrical draw, and thermostat operation as a single sequence. A system that skips this step may cool a space on day one and fail within a season.
+
+## What are HVAC permits?
+
+HVAC permits, called mechanical permits or AC permits, are the municipal and county authorizations required before and after air conditioning installation work begins on a property. They are not optional formalities. Clearwater properties fall under Pinellas County jurisdiction, which means both a mechanical permit and an electrical permit typically apply to a full system replacement or new installation. Skipping either creates legal and financial exposure that outlasts the equipment itself.
+
+## What is SEER2 rating?
+
+SEER2 Rating is the 2023 Department of Energy cooling efficiency metric. It replaced the older SEER standard. The rating measures how much cooling output a system delivers per unit of electrical energy consumed across an entire season. SEER2 efficiency is calculated by dividing total seasonal cooling output in British thermal units by total seasonal energy input in watt-hours. The result is a single score that reflects how efficiently a system runs over a full cooling season, not only at peak conditions.
+
+## What is an AHRI matched system?
+
+An AHRI Matched System is a certified combination of a condenser, evaporator coil, and air handler or furnace tested and verified together to deliver published efficiency and capacity ratings. It is a recognized HVAC Standard and Certification Standard. The Air-Conditioning, Heating, and Refrigeration Institute governs this certification. Every rated equipment match carries a unique AHRI certificate number confirming the combination was tested as a unit, not estimated from individual component specs. Poulin Cooling AC Repair works with AHRI-certified combinations when installing and replacing cooling equipment in Clearwater, FL.

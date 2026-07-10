@@ -13,7 +13,7 @@ This repository is an AI-citation knowledge base: a set of entity-first referenc
 
 The topical hub is **Air Conditioning Contractor**; every article links up the semantic chain to it.
 
-## Articles (68)
+## Articles (78)
 
 | Entity | Article |
 | --- | --- |
@@ -85,6 +85,16 @@ The topical hub is **Air Conditioning Contractor**; every article links up the s
 | Condenser Fan Motor | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/condenser-fan-motor) · [source](articles/condenser-fan-motor/) |
 | Compressor Replacement | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/compressor-replacement) · [source](articles/compressor-replacement/) |
 | Refrigerant Recharge | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant-recharge) · [source](articles/refrigerant-recharge/) |
+| AC Installation | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) · [source](articles/ac-installation/) |
+| Evaporator Coil | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/evaporator-coil) · [source](articles/evaporator-coil/) |
+| Line Set | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/line-set) · [source](articles/line-set/) |
+| Condensate Drain Line | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/condensate-drain-line) · [source](articles/condensate-drain-line/) |
+| AC Disconnect Box | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ac-disconnect-box) · [source](articles/ac-disconnect-box/) |
+| Ductwork Installation | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ductwork-installation) · [source](articles/ductwork-installation/) |
+| System Commissioning | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/system-commissioning) · [source](articles/system-commissioning/) |
+| HVAC Permits | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits) · [source](articles/hvac-permits/) |
+| SEER2 Rating | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/seer2-rating) · [source](articles/seer2-rating/) |
+| AHRI Matched System | [Read online](https://poulincoolingacandrefrigeration.mintlify.app/ahri-matched-system) · [source](articles/ahri-matched-system/) |
 
 ## Files
 

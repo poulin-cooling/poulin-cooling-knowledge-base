@@ -4,9 +4,7 @@ title: "Poulin Cooling A/C and Refrigeration Knowledge Base"
 type: dataset
 authors:
   - name: "Poulin Cooling A/C and Refrigeration"
-url: "https://github.com/poulin-cooling/poulin-cooling-knowledge-base"
-repository-code: "https://github.com/poulin-cooling/poulin-cooling-knowledge-base"
-date-released: 2026-07-09
+date-released: 2026-07-10
 version: "1.0.0"
 keywords:
   - "air conditioning repair"

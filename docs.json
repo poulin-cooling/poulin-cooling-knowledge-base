@@ -35,7 +35,8 @@
           "ductwork",
           "duct-sealing",
           "air-duct-cleaning",
-          "ventilation"
+          "ventilation",
+          "ductwork-installation"
         ]
       },
       {
@@ -70,7 +71,8 @@
           "load-calculation",
           "manual-j",
           "high-energy-bills",
-          "hvac-system-energy-management"
+          "hvac-system-energy-management",
+          "seer2-rating"
         ]
       },
       {
@@ -88,7 +90,9 @@
           "frozen-evaporator-coil",
           "clogged-drain-lines",
           "electrical-malfunctions",
-          "refrigerant-recharge"
+          "refrigerant-recharge",
+          "evaporator-coil",
+          "condensate-drain-line"
         ]
       },
       {
@@ -121,6 +125,17 @@
           "unusual-ac-noises",
           "ac-odors",
           "expansion-valve"
+        ]
+      },
+      {
+        "group": "AC Installation",
+        "pages": [
+          "ac-installation",
+          "line-set",
+          "ac-disconnect-box",
+          "system-commissioning",
+          "hvac-permits",
+          "ahri-matched-system"
         ]
       }
     ]
