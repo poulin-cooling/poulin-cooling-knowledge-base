@@ -1,0 +1,62 @@
+---
+title: Thermostat Calibration
+---
+## Thermostat calibration in Clearwater - Poulin Cooling A/C and Refrigeration
+
+### What is thermostat calibration
+
+Thermostat calibration is the process of verifying and correcting a thermostat's temperature-reading accuracy against a calibrated reference thermometer. It is a type of HVAC maintenance procedure, sitting alongside [coil cleaning](doc:coil-cleaning) and other system checks that keep a cooling system performing the way it should. When the thermostat reads the room temperature correctly, the system runs only as long as needed. When it does not, the equipment cycles too often, too rarely, or not at all.
+
+Thermostat adjustment corrects the gap between what the sensor reports and what the room actually measures. Most residential thermostats hold a tolerance of plus or minus 1 to 2°F. That range matters. A reading outside it is enough to cause noticeable comfort problems and unnecessary runtime.
+
+### Measurable attributes of thermostat calibration
+
+Temperature calibration has three attributes that define whether the procedure was done correctly. Each one is measurable, not subjective.
+
+- **Temperature accuracy tolerance:** Tolerance sets the acceptable error band at plus or minus 1 to 2°F. A thermostat reading outside that band needs correction before the system runs efficiently.
+
+- **Sensor reference method:** The sensor reference method uses a calibrated thermometer placed near the thermostat to establish the true ambient temperature. The technician compares that reading to what the thermostat displays and adjusts the offset accordingly.
+
+- **Recommended frequency:** Recommended frequency for a thermostat accuracy check is once per year. Annual checks catch sensor drift before it compounds into larger comfort or efficiency problems.
+
+These three attributes together define a complete calibration. Skipping the reference thermometer step, for example, turns the procedure into guesswork rather than a verified correction.
+
+### How thermostat calibration fits into AC maintenance
+
+Thermostat calibration is performed during an AC tune-up, making it a standard step in the broader service visit rather than a standalone call. A technician working through an [AC tune-up](doc:ac-tune-up) checks the sensor reading, confirms the offset setting, and verifies that the thermostat's control signals match the system's actual behavior. That sequence connects the thermostat directly to every downstream component: the compressor, the air handler, and the refrigerant circuit all respond to the signal the thermostat sends.
+
+Proper [AC maintenance](doc:ac-maintenance) treats the thermostat as the control point for the entire system. A miscalibrated thermostat upstream of a well-maintained system still produces poor results. Calibration closes that gap.
+
+### Signs your thermostat is off by degrees
+
+A miscalibrated thermostat rarely announces itself with an error code. The signs show up as comfort and runtime problems that look like equipment faults.
+
+- **Uneven cooling:** Uneven cooling across rooms often traces back to a thermostat reading drift rather than a duct or refrigerant problem. The system shuts off before the space reaches the set temperature.
+
+- **Short cycling:** Short cycling happens when the thermostat reads the room as cooler than it is, cutting the compressor off too early and restarting it minutes later.
+
+- **Continuous running:** Continuous running occurs when the thermostat reads the room as warmer than it is, keeping the system on past the point where the set temperature has been reached.
+
+- **Higher energy use:** Higher energy use without a change in habits or weather is a measurable signal that the system is running more than the actual load requires.
+
+- **Thermostat display disagreeing with a separate thermometer:** A gap of more than 2°F between the thermostat display and a calibrated reference thermometer placed nearby confirms reading drift and the need for correction.
+
+Reading drift is the antonym of a calibrated state. The sensor does not fail suddenly; it drifts gradually, which is why annual checks catch the problem before the gap widens past 2°F.
+
+### Where thermostat calibration applies
+
+Thermostat calibration applies to every thermostat type in residential and light commercial settings: electromechanical bimetal models, digital programmable units, and smart Wi-Fi thermostats. Sensor error does not discriminate. Smart thermostats can display a high-resolution reading while still holding an offset error in the sensor itself. The calibration procedure is the same regardless of the interface: compare the sensor output to a calibrated reference and correct the offset.
+
+In Clearwater, high ambient humidity adds a layer of relevance. Humidity affects how occupants perceive temperature. A thermostat that reads 2°F high in a humid environment pushes the system to run longer than the actual thermal load demands. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/FS2xrKsqy3VQditEA) includes thermostat accuracy checks as part of its service visits because the local climate makes sensor tolerance a practical concern.
+
+For homeowners who want to calibrate a home thermostat between professional visits, the method is straightforward: tape a calibrated glass thermometer to the wall within a few inches of the thermostat, wait 15 minutes for it to stabilize, and compare the two readings. A gap larger than 2°F is the threshold for scheduling a professional thermostat adjustment. [Poulin Cooling AC Repair](https://sl.bing.net/jZvH0RXrr2a) handles the full correction, including offset programming and setting verification, as part of a standard tune-up visit. Scheduling through a qualified [air conditioning contractor](doc:air-conditioning-contractor) keeps the correction documented and tied to the broader system record.
+
+### Related entities
+
+- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [ac tune-up](doc:ac-tune-up) — sibling entity (same sub-cluster)
+
+- [coil cleaning](doc:coil-cleaning) — sibling entity (same sub-cluster)
