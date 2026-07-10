@@ -1,0 +1,58 @@
+---
+title: Line Set
+---
+## Line set in Clearwater - Poulin Cooling A/C and Refrigeration
+
+A line set is the paired copper suction and liquid lines that carry refrigerant between an outdoor condenser and an indoor evaporator coil. No line set means no refrigerant movement. Without refrigerant movement, no cooling happens. Refrigerant lines are a core HVAC component and a type of refrigerant piping. Every split-system air conditioner in Clearwater depends on a correctly sized, properly insulated copper line set to transfer heat out of the building.
+
+### What a line set is and how it works
+
+A line set is two copper tubes running in parallel: a larger suction line that carries low-pressure refrigerant vapor back to the compressor, and a smaller liquid line that carries high-pressure liquid refrigerant to the evaporator coil. The suction line is insulated to prevent condensation and heat gain; the liquid line typically runs bare or with thinner wrap. Together, the AC line set forms the closed refrigerant circuit that makes the heat-exchange cycle possible. [AC installation](doc:ac-installation) always includes sizing and running the line set as a primary step, because an undersized or oversized line degrades system efficiency before the unit ever starts.
+
+### Measurable attributes of a refrigerant line set
+
+A refrigerant line set has three attributes that determine whether it matches the equipment it serves. Installers select diameter, insulation thickness, and run length based on the unit's tonnage and the physical layout of the building.
+
+- **Line diameter:** Line diameter ranges from 3/8 inch to 7/8 inch depending on system capacity. A mismatch between line diameter and compressor output raises head pressure and reduces efficiency.
+
+- **Insulation thickness:** Insulation thickness on the suction line runs from 1/2 inch to 3/4 inch. Thicker insulation matters most in Florida's humid climate, where an uninsulated suction line sweats heavily and loses cooling capacity before refrigerant reaches the coil.
+
+- **Run length:** Run length typically falls between 15 and 50 feet for residential installations. Longer runs require a refrigerant charge adjustment, because the additional volume changes the pressure balance the manufacturer calibrated the system for.
+
+[Poulin Cooling A/C and Refrigeration](https://share.google/a0VmQcNhw0pthD1pg) verifies all three attributes against the equipment specifications before any line set is connected. [Working with a qualified air conditioning contractor](doc:air-conditioning-contractor) means those specs are checked against the actual unit, not estimated.
+
+### How the line set connects to the broader HVAC system
+
+A line set connects the condenser unit outdoors to the evaporator coil indoors, and refrigerant flows continuously between them during operation. On a standard split system, the suction line terminates at the compressor's low-side service port and the liquid line at the expansion valve or metering device upstream of the coil. The line set does not move air. That distinction separates it from ductwork and airways, which handle airflow rather than refrigerant. A copper line set carries only refrigerant; ductwork carries only conditioned air. The two systems never overlap.
+
+The same refrigerant piping principle applies across several system types. [Ductless mini split systems](doc:ductless-mini-split-systems) use a line set of the same construction but route it through a small wall penetration instead of a mechanical room. [Heat pumps](doc:heat-pumps) use the identical copper line set but reverse refrigerant direction seasonally, so the suction and liquid roles swap depending on heating or cooling mode. [Variable refrigerant flow](doc:variable-refrigerant-flow) systems extend the concept further, branching a single line set to serve multiple indoor units at different capacities simultaneously.
+
+### Common line set problems and signs of failure
+
+Line set problems fall into three categories: refrigerant leaks, insulation failure, and improper sizing. Each produces a distinct symptom that a technician can trace back to the copper line set specifically.
+
+- **Refrigerant leaks:** Refrigerant leaks develop at brazed joints, flare fittings, or points where the copper has been kinked or abraded. The system loses charge gradually, and the evaporator coil begins to ice over as suction pressure drops below the design range.
+
+- **Insulation failure:** Insulation failure on the suction line shows up as condensation dripping from the line or wet spots on the wall where the line penetrates. In Clearwater's humidity, degraded foam insulation can allow enough heat gain to raise suction-line temperature by several degrees, measurably reducing capacity.
+
+- **Improper sizing:** An undersized suction line increases refrigerant velocity past the design limit, raising compressor discharge temperature and accelerating wear. An oversized line reduces velocity enough that oil fails to return to the compressor, causing lubrication loss over time.
+
+A technician diagnosing a low-charge or high-head-pressure condition inspects the AC line set for leaks and insulation condition before attributing the fault to the compressor or coil. Many apparent equipment failures trace back to a line set issue that is faster and less expensive to correct.
+
+### AC line set replacement and when it applies
+
+AC line set replacement is necessary when existing copper lines are corroded, kinked, improperly sized for a new unit, or contaminated with compressor oil from a burnout. Reusing an old, undersized line set is a common error. It limits new equipment performance from day one. Refrigerant type matters: systems converting from R-22 to R-410A or R-32 require lines rated for the higher operating pressures those refrigerants produce, and older copper that has been in service for decades may not meet that standard.
+
+Clearwater's UV exposure and salt air accelerate insulation degradation on exterior line set runs. Damage accumulates fast. [Poulin Cooling AC Repair](https://sl.bing.net/e8BNCVYoRem) inspects the full line set length during any equipment replacement and recommends new copper when existing lines show corrosion pitting, cracked insulation, or a diameter mismatch with the replacement unit. A correctly sized and freshly insulated refrigerant line set protects the new equipment's warranty and keeps the system operating at rated efficiency from the first cooling season.
+
+### Related entities
+
+- [AC installation](doc:ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [ductless mini split systems](doc:ductless-mini-split-systems) — sibling entity (same sub-cluster)
+
+- [heat pumps](doc:heat-pumps) — sibling entity (same sub-cluster)
+
+- [variable refrigerant flow](doc:variable-refrigerant-flow) — sibling entity (same sub-cluster)
