@@ -57,7 +57,8 @@
         "group": "Controls",
         "pages": [
           "programmable-thermostat",
-          "thermostats"
+          "thermostats",
+          "thermostat-calibration"
         ]
       },
       {
@@ -136,6 +137,19 @@
           "system-commissioning",
           "hvac-permits",
           "ahri-matched-system"
+        ]
+      },
+      {
+        "group": "AC Maintenance",
+        "pages": [
+          "ac-maintenance",
+          "ac-tune-up",
+          "coil-cleaning",
+          "static-pressure-testing",
+          "ac-leak-detection",
+          "air-conditioner-lifespan",
+          "hvac-maintenance-plans",
+          "manufacturer-warranty-requirements"
         ]
       }
     ]

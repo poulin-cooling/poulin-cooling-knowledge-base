@@ -311,3 +311,39 @@ SEER2 Rating is the 2023 Department of Energy cooling efficiency metric. It repl
 ## What is an AHRI matched system?
 
 An AHRI Matched System is a certified combination of a condenser, evaporator coil, and air handler or furnace tested and verified together to deliver published efficiency and capacity ratings. It is a recognized HVAC Standard and Certification Standard. The Air-Conditioning, Heating, and Refrigeration Institute governs this certification. Every rated equipment match carries a unique AHRI certificate number confirming the combination was tested as a unit, not estimated from individual component specs. Poulin Cooling AC Repair works with AHRI-certified combinations when installing and replacing cooling equipment in Clearwater, FL.
+
+## What is AC maintenance?
+
+AC maintenance is the professional, scheduled upkeep of an air conditioning system to preserve efficiency and prevent breakdowns. It is a type of HVAC service, distinct from reactive repair, and performed by a licensed air conditioning contractor. Most residential systems need this service once or twice a year. Skipping it does not only risk a breakdown. It erodes the rated efficiency the system was designed to deliver.
+
+## What is AC tune-up?
+
+AC tune-up is a seasonal service visit that inspects, cleans, and tests the components of a cooling system, checking refrigerant level, electrical connections, and mechanical parts in a single appointment. A cooling system tune-up is a type of HVAC Maintenance Procedure, sitting within the broader discipline of AC maintenance as its most common recurring task. Most technicians work through 20 to 40 individual inspection points during a visit. The appointment typically runs one to two hours.
+
+## What is coil cleaning?
+
+Coil cleaning is the process of removing dirt, dust, and biological debris from an air conditioning system's evaporator and condenser coils to restore their heat-transfer capacity. AC coil cleaning is a type of HVAC Maintenance Procedure, sitting alongside tasks like filter replacement and thermostat calibration within a full AC maintenance visit. Coils transfer heat between refrigerant and air, so a layer of grime on the fins acts as insulation and forces the system to work harder to reach the same output. Left unaddressed, that extra load shortens compressor life and raises energy consumption.
+
+## What is thermostat calibration?
+
+Thermostat calibration is the process of verifying and correcting a thermostat's temperature-reading accuracy against a calibrated reference thermometer. It is a type of HVAC maintenance procedure, sitting alongside coil cleaning and other system checks that keep a cooling system performing the way it should. When the thermostat reads the room temperature correctly, the system runs only as long as needed. When it does not, the equipment cycles too often, too rarely, or not at all.
+
+## What is static pressure testing?
+
+Static pressure testing is an HVAC diagnostic procedure that measures the total resistance to airflow inside a duct system using a manometer. Readings are taken in inches of water column (in. W.c.) at two points, one on the supply side and one on the return side, then added together to produce the total external static pressure (TESP). That single number tells a technician whether the duct system is moving air the way it was designed to, or fighting against restrictions that quietly degrade comfort and efficiency.
+
+## What is AC leak detection?
+
+AC leak detection is the diagnostic process of locating refrigerant leaks in a sealed cooling system before they cause compressor failure or complete system shutdown. Refrigerant leak detection is a type of HVAC Diagnostic Procedure, placing it in the same category as static pressure testing and other sealed-system evaluations. A slow leak rarely announces itself with a dramatic failure. Instead, the system gradually loses capacity, runs longer cycles, and draws more power until the refrigerant charge drops below the threshold the compressor needs to survive.
+
+## What is air conditioner lifespan?
+
+Air conditioner lifespan, called AC service life, is the expected number of years a cooling system remains serviceable before replacement becomes the more practical choice. It is a type of Equipment Durability Metric. This places it in the same category as compressor service life and coil service life, rather than a performance rating like efficiency or output. Nationally, a well-maintained central air conditioner lasts 15 to 20 years. In coastal Florida, that window narrows to 10 to 15 years because salt air, humidity, and year-round runtime accelerate wear on every major component.
+
+## What are HVAC maintenance plans?
+
+HVAC maintenance plans are structured service agreements that bundle scheduled maintenance visits, priority scheduling, and documented service history into a single ongoing program. They are a type of HVAC service agreement, the broader category of contracts that formalize the relationship between a homeowner and a licensed cooling contractor. Rather than calling for service only after something breaks, a planned service program keeps the system inspected and adjusted on a fixed schedule throughout the year.
+
+## What are manufacturer warranty requirements?
+
+Manufacturer warranty requirements are the documented conditions an equipment brand imposes to keep a parts warranty active after installation. These conditions exist as a formal Warranty Standard. That standard sits within a broader framework of rules governing how equipment coverage is earned, maintained, and lost. Miss one condition and the warranty is void, regardless of how new the unit is.
