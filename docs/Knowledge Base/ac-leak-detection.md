@@ -1,0 +1,54 @@
+---
+title: AC Leak Detection
+---
+## AC leak detection in Clearwater - Poulin Cooling A/C and Refrigeration
+
+AC leak detection is the diagnostic process of locating refrigerant leaks in a sealed cooling system before they cause compressor failure or complete system shutdown. Refrigerant leak detection is a type of HVAC Diagnostic Procedure, placing it in the same category as [static pressure testing](doc:static-pressure-testing) and other sealed-system evaluations. A slow leak rarely announces itself with a dramatic failure. Instead, the system gradually loses capacity, runs longer cycles, and draws more power until the refrigerant charge drops below the threshold the compressor needs to survive.
+
+### What AC leak detection is
+
+AC leak detection is the structured identification of the exact point where refrigerant escapes a sealed circuit, using one or more of three proven methods: an electronic sniff test, a UV dye leak test, or a nitrogen pressure hold. Each method targets a different leak size and location type. Electronic detectors sense refrigerant vapor at concentrations too small to smell, UV dye traces the refrigerant path and glows under a black light at the breach point, and a nitrogen pressure test AC technicians perform holds the system at a set pressure to confirm whether the circuit holds or bleeds down over time. A licensed [air conditioning contractor](doc:air-conditioning-contractor) selects the method based on system age, refrigerant type, and how quickly the charge has been dropping.
+
+### Measurable attributes of refrigerant leak detection
+
+Refrigerant leak detection has three attributes that determine which method a technician applies and how confident the result is.
+
+- **Detection method:** Detection method sets the tool used, whether an electronic detector, a UV dye trace, or a nitrogen pressure hold, and each one suits a different leak profile. Electronic detectors work fastest on active leaks; UV dye works on intermittent leaks that only weep under operating pressure; nitrogen pressure testing confirms a leak exists even when the system is off and the refrigerant has already been recovered.
+
+- **Minimum detectable rate:** Minimum detectable rate describes how small a leak each method can find, measured in ounces lost per year. Electronic detectors can register leaks as small as a fraction of an ounce annually. UV dye requires the dye to accumulate visibly at the breach, so it suits leaks large enough to move dye through the circuit within a few operating hours. Nitrogen pressure holds catch any leak that causes measurable pressure drop over the test window, regardless of refrigerant type.
+
+- **Test pressure basis:** Test pressure basis is the nitrogen pressure, in psig, applied during a pressure hold test. The value is set to match or slightly exceed the system's normal operating pressure for the refrigerant in use, so the test stresses the circuit the way real operation does without introducing live refrigerant into an open system.
+
+### How AC leak detection relates to the broader cooling system
+
+AC leak detection is performed on the refrigerant circuit, the closed loop of copper tubing, coils, and fittings that carries refrigerant between the indoor evaporator and the outdoor condenser. It is performed during AC repair when a technician finds the system undercharged, and it is a standard step in [AC maintenance](doc:ac-maintenance) visits for systems with a history of refrigerant loss. The sealed-system leak test connects directly to coolant leak diagnosis: without pinpointing the breach, adding refrigerant is a guesswork recharge that delays the real repair and risks overcharging the system on the next visit. Refrigerant work requires EPA 608-certified handling, so a licensed technician must perform recovery, testing, and recharge, not a general handyman.
+
+### Signs that a sealed-system leak test is needed
+
+Refrigerant leak detection, sometimes called a freon leak search, becomes necessary when the system shows a pattern of symptoms that point to refrigerant loss rather than a mechanical or electrical fault. The signs below are the most reliable indicators.
+
+- **Warm air from supply vents:** Warm air from supply vents despite the thermostat calling for cooling points to a refrigerant charge too low to absorb heat at the evaporator coil.
+
+- **Ice on the evaporator coil or refrigerant lines:** Ice on the evaporator coil or refrigerant lines forms when low refrigerant pressure drops the coil temperature below freezing, causing moisture in the airstream to freeze on contact.
+
+- **Short cycling:** Short cycling, the system turning on and off in rapid succession, happens when low refrigerant causes the low-pressure safety switch to trip before the thermostat is satisfied.
+
+- **Hissing or bubbling sounds:** Hissing or bubbling sounds near the indoor or outdoor unit often indicate refrigerant escaping through a pinhole or cracked fitting under operating pressure.
+
+- **Rising energy use with falling comfort:** Rising energy use with falling comfort means the compressor is running longer to move less heat, a pattern consistent with a slow, undiagnosed leak that has been present for weeks or months.
+
+### What AC refrigerant leak detection is not
+
+Leak detection is not a refrigerant recharge. Adding refrigerant without locating the breach is guesswork: the charge returns to spec temporarily, but the leak continues until the system is undercharged again within weeks or months. An undiagnosed leak starves the compressor of the lubrication refrigerant carries. This leads to compressor failure, the most expensive single repair on a residential cooling system. Leak detection is not a pressure test performed with refrigerant still in the circuit. Nitrogen is the correct test gas. It is inert and safe to vent if the system must be opened. Using refrigerant as a test gas violates EPA venting prohibitions and produces an unreliable result, since refrigerant pressure shifts with ambient temperature throughout the hold period. [Poulin Cooling A/C and Refrigeration](https://share.google/1jyhsuUvXIIDxXu8X) holds a 5.0-star Google rating across more than 410 reviews from Clearwater-area customers.
+
+### Where AC leak detection applies in Clearwater
+
+Clearwater's climate accelerates the conditions that cause refrigerant leaks. High ambient temperatures push condensing pressures higher, stressing brazed joints and flare fittings on the outdoor unit. Salt air from the Gulf corrodes copper tubing and aluminum fins, creating pinhole leaks that develop slowly over one to three cooling seasons. Systems that run ten or more months per year cycle through more pressure swings than systems in cooler climates, fatiguing the refrigerant circuit faster. [Poulin Cooling AC Repair](https://sl.bing.net/ig5qW82ZhkW) performs AC leak detection across Clearwater residential and light-commercial systems, applying electronic detection, UV dye tracing, and nitrogen pressure holds depending on what the system's history and symptoms call for. A confirmed leak location means the repair addresses the actual failure point, not a symptom.
+
+### Related entities
+
+- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [static pressure testing](doc:static-pressure-testing) — sibling entity (same sub-cluster)
