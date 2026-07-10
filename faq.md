@@ -347,3 +347,39 @@ HVAC maintenance plans are structured service agreements that bundle scheduled m
 ## What are manufacturer warranty requirements?
 
 Manufacturer warranty requirements are the documented conditions an equipment brand imposes to keep a parts warranty active after installation. These conditions exist as a formal Warranty Standard. That standard sits within a broader framework of rules governing how equipment coverage is earned, maintained, and lost. Miss one condition and the warranty is void, regardless of how new the unit is.
+
+## What is commercial refrigeration repair?
+
+Commercial refrigeration repair is the professional diagnosis and repair of refrigeration equipment used in restaurants, grocery stores, and other commercial settings to keep perishable inventory safe and operations running. It covers walk-in coolers, reach-in units, display cases, and ice machines. This is not residential appliance repair. Commercial refrigeration service addresses equipment that runs continuously under heavy load, where a single failure can mean thousands of dollars in lost product within hours. Poulin Cooling has served Clearwater and the surrounding Pinellas County communities since 2019.
+
+## What is a walk-in cooler?
+
+A walk-in cooler, or walk-in refrigerator, is a refrigerated storage room built from insulated modular panels that holds perishable products at above-freezing temperatures for commercial use. It is a type of Commercial Refrigeration Equipment, purpose-built for food service, hospitality, and retail operations that need bulk cold storage accessible to staff on foot. Unlike a reach-in refrigerator, a walk-in cooler gives workers full entry into the storage space, making it practical for high-volume inventory. Poulin Cooling AC Repair services walk-in coolers throughout Clearwater and the surrounding area.
+
+## What is a walk-in freezer?
+
+A walk-in freezer is a type of commercial refrigeration equipment engineered to hold products at sub-freezing temperatures inside a fully insulated, walk-in room. Unlike a standard reach-in unit, a commercial freezer room is sized for bulk storage and built with heavier insulation, electric defrost heaters, and a pressure-relief vent in the floor. Restaurants, grocery stores, food distributors, and medical facilities rely on this equipment to keep perishables safe for extended periods. Poulin Cooling services walk-in freezers across Clearwater and the surrounding area.
+
+## What is a reach-in refrigerator?
+
+A reach-in refrigerator is an upright self-contained commercial refrigerator accessed from the front through one to three doors, used for quick-access chilled storage in foodservice and retail environments. It is a type of Commercial Refrigeration Equipment, the broader category that includes walk-in coolers, chest freezers, and ice machines. Unlike a walk-in cooler, a reach-in unit is compact enough to sit on a kitchen line or behind a counter, keeping product within arm's reach. The self-contained condensing unit mounts above or below the cabinet, so no remote refrigeration system is required. Poulin Cooling Air Conditioning and Refrigeration services these units throughout Clearwater, FL.
+
+## What is an ice machine?
+
+An ice machine (called a commercial ice maker) is a type of commercial refrigeration equipment that freezes water and dispenses it in cube, flake, or nugget form on a continuous cycle. Unlike a residential ice tray or manual ice method, a commercial ice maker runs autonomously, producing hundreds of pounds of ice per day to meet the demands of restaurants, bars, healthcare facilities, and food service operations. Regular cleaning and water filtration keep the unit producing clean, correctly formed ice.
+
+## What is a defrost system?
+
+A defrost system, called a defrost control system, is the set of refrigeration components that periodically clears frost from evaporator coils so the equipment maintains proper airflow and temperature. Without it, frost accumulates on the coil surface until airflow drops to near zero and the refrigerated space warms. The defrost cycle assembly is a type of refrigeration component, sitting alongside compressors, condensers, and expansion devices as a functional part of the refrigeration circuit. Poulin Cooling Air Conditioning and Refrigeration services these systems throughout Clearwater and the surrounding area as part of its commercial refrigeration repair work.
+
+## What are food safety temperature requirements?
+
+Food safety temperature requirements are the regulatory thresholds that govern how cold, frozen, and hot food must be held to prevent bacterial growth in commercial food operations. These rules are a type of Food Safety Standard and Regulatory Standard, codified in the FDA Food Code and adopted by state and local health authorities. Cold holding requirements set the upper limit for refrigerated potentially hazardous food at 41°F (5°C) or below. Frozen storage must stay at 0°F (-18°C) or below. Every food service operation in Clearwater subject to health inspection must meet these thresholds continuously, not only at the moment of inspection.
+
+## What is emergency refrigeration repair?
+
+Emergency refrigeration repair is the urgent diagnosis and restoration of commercial refrigeration equipment when a failure puts perishable inventory at immediate risk of spoilage. It is a type of Emergency Refrigeration Service. This service is distinct from scheduled maintenance or routine inspections. A walk-in cooler failing during a dinner rush, or a reach-in unit going down overnight, represents exactly the situations this service exists to resolve.
+
+## What is HFC phasedown?
+
+HFC Phasedown (called HFC drawdown) is an environmental regulation and refrigerant standard. It mandates a scheduled reduction in the production and consumption of high-global-warming-potential hydrofluorocarbon refrigerants across the United States. The AIM Act of 2020 established the regulatory basis, directing the EPA to cut HFC production and consumption by 85% from baseline levels by 2036. Legacy fluids like R-404A were once standard in commercial refrigeration. They are now the primary targets of this phaseout schedule.

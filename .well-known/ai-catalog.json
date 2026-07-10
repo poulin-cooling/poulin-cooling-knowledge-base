@@ -11,7 +11,7 @@
       "type": "application/okf-bundle+gzip",
       "mediaType": "application/okf-bundle+gzip",
       "url": "https://raw.githubusercontent.com/poulin-cooling/poulin-cooling-knowledge-base/main/okf.tar.gz",
-      "description": "Complete OKF concept bundle: the entity, 10 offerings, 87 topics, 52 grounded FAQs.",
+      "description": "Complete OKF concept bundle: the entity, 10 offerings, 96 topics, 52 grounded FAQs.",
       "updatedAt": "2026-07-10",
       "representativeQueries": [
         "why is ac not cooling",
@@ -44,7 +44,7 @@
   "url": "https://poulincooling.com",
   "knowledgeBase": "https://poulincoolingacandrefrigeration.mintlify.app",
   "counts": {
-    "topics": 87,
+    "topics": 96,
     "offerings": 10,
     "faqs": 52
   },

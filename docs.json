@@ -151,6 +151,20 @@
           "hvac-maintenance-plans",
           "manufacturer-warranty-requirements"
         ]
+      },
+      {
+        "group": "Commercial Refrigeration",
+        "pages": [
+          "commercial-refrigeration-repair",
+          "walk-in-cooler",
+          "walk-in-freezer",
+          "reach-in-refrigerator",
+          "ice-machine",
+          "defrost-system",
+          "food-safety-temperature-requirements",
+          "emergency-refrigeration-repair",
+          "hfc-phasedown"
+        ]
       }
     ]
   },
