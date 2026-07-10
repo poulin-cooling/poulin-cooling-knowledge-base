@@ -1,0 +1,54 @@
+---
+title: System Commissioning
+---
+## System commissioning in Clearwater - Poulin Cooling A/C and Refrigeration
+
+System commissioning, called startup and checkout, is the post-installation verification process that confirms a newly installed or replaced HVAC system operates within manufacturer specifications before the technician leaves the job site. It is not a repair call or a routine tune-up. Commissioning is a structured quality verification step that covers refrigerant charge, airflow, electrical draw, and thermostat operation as a single sequence. A system that skips this step may cool a space on day one and fail within a season.
+
+### What system commissioning measures and verifies
+
+System commissioning measures the four variables that determine whether an AC system will perform reliably: refrigerant charge, airflow in cubic feet per minute, electrical draw in amps, and controls operation. Each variable has a manufacturer-specified target, and the technician records actual readings against those targets. Commissioning is performed during [AC installation](doc:ac-installation) as the final quality gate before the system is handed to the homeowner. A reading outside spec on any one variable is corrected before the job closes.
+
+- **Superheat and subcooling:** Superheat and subcooling readings confirm the refrigerant charge is correct for the system type. Fixed-orifice systems use superheat; TXV systems use subcooling. Target values are expressed in degrees Fahrenheit and vary by outdoor temperature and indoor wet-bulb conditions, so the technician measures both at the time of startup.
+
+- **Airflow verification:** Airflow verification confirms the air handler moves the correct volume of air, typically near 400 CFM per ton of cooling capacity. Low airflow causes coil freeze-up and compressor stress; high airflow reduces dehumidification. The reading is taken at the unit and compared against the equipment schedule.
+
+- **Electrical draw check:** Electrical draw is measured in amps at the compressor and the air handler motor, then compared to the rated load on the nameplate. A draw above rated amps signals a wiring fault, a failing capacitor, or a refrigerant overcharge before those conditions damage the compressor.
+
+- **Controls checkout:** Controls checkout steps through every thermostat mode, verifying that heating, cooling, fan-only, and emergency heat stages energize the correct equipment in the correct sequence.
+
+### How system commissioning relates to the broader HVAC installation process
+
+HVAC system commissioning sits at the end of the installation sequence, after the equipment is set, the refrigerant lines are brazed and pressure-tested, and the electrical connections are landed. It validates the work that came before it. Install verification connects directly to duct performance: a system commissioned to correct airflow on a duct system with significant leakage will read low CFM at the registers even when the air handler output is correct. [Duct sealing](doc:duct-sealing) is often identified as a corrective action during commissioning when register airflow does not match calculated load. Similarly, indoor humidity readings taken at startup can reveal whether a [dehumidifier](doc:dehumidifier) is needed to keep relative humidity in the 45 to 55 percent range that protects air quality and building materials in Clearwater's climate.
+
+AC startup checkout validates duct cleanliness. Debris left in ductwork from a renovation or a previous system can restrict airflow and contaminate the new equipment from day one. [Air duct cleaning](doc:air-duct-cleaning) before or immediately after commissioning removes that risk. A licensed [air conditioning contractor](doc:air-conditioning-contractor) coordinates these steps so commissioning readings reflect the system's true operating baseline, not a baseline distorted by duct problems.
+
+### What an uncommissioned system looks like in practice
+
+An uncommissioned system is one where equipment was installed and powered on without a structured verification sequence. The distinction matters. A system can appear to work while running outside its design parameters. Refrigerant overcharge, for example, raises head pressure and compressor discharge temperature without producing an obvious symptom at the thermostat. The homeowner feels cool air while the compressor accumulates damage over months. A skipped checkout removes the only opportunity to catch that condition before it becomes a compressor replacement.
+
+Common signs that commissioning was skipped or incomplete include uneven cooling between rooms, short cycling where the compressor turns on and off more than three times per hour, indoor humidity that stays above 60 percent even when the thermostat is satisfied, and electrical breakers that trip within the first season. Each symptom maps to a measurable variable that commissioning catches: airflow, charge, controls sequencing, and electrical draw respectively.
+
+### Where system commissioning applies in Clearwater
+
+System commissioning applies to every new equipment installation in Clearwater, including split systems, packaged rooftop units, and mini-split multi-zone systems. Florida's climate adds specific commissioning demands. These demands differ from those in cooler regions. Outdoor ambient temperatures during a Clearwater summer regularly exceed 90 degrees Fahrenheit, which shifts the target superheat and subcooling windows compared to a 70-degree startup day. A technician who uses static reference charts without adjusting for actual ambient and wet-bulb conditions at the time of startup produces charge readings that are accurate for a different day, not the day the system runs.
+
+High humidity means the latent load, the energy the system uses to remove moisture rather than lower temperature, is a larger share of total cooling demand than in drier climates. Airflow verification during commissioning accounts for this: lower airflow increases latent capacity at the cost of sensible cooling, and the correct balance depends on the specific equipment and the Manual S equipment selection that preceded installation. [Poulin Cooling A/C and Refrigeration](https://share.google/0c1HS3Pw5JqeK6bk2) performs system commissioning as a standard step on every installation in Clearwater, recording the measured values so the homeowner has a documented baseline for future service calls.
+
+### System commissioning standards and documentation
+
+HVAC install verification produces a commissioning report that records the date, outdoor conditions, measured superheat or subcooling, CFM reading, amp draw at each motor, and thermostat checkout results. That document serves as the performance baseline for the equipment's service life. A technician diagnosing a problem two years after installation can compare current readings to the commissioning report and identify drift rather than guessing at what the system should be doing. Serving Clearwater and the surrounding Pinellas County communities since 2019, [Poulin Cooling AC Repair](https://sl.bing.net/2m0Syc7Ebc) files this baseline with each installation it completes. Without that record, every future diagnostic starts from zero.
+
+Federal regulations prohibit the venting of refrigerants during charging or recovery, requiring EPA Section 608-certified technicians for all refrigerant handling during commissioning. Airflow measurement methods vary by contractor. Flow hoods, anemometers, and static pressure readings are each suited to different duct configurations. Electrical measurements follow standard practice for the equipment class, with clamp-meter readings taken at the disconnect and at the unit terminals. The combination of these measurements, taken together at startup, is what separates a commissioned system from one that was simply turned on.
+
+### Related entities
+
+- [AC installation](doc:ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+
+- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+
+- [duct sealing](doc:duct-sealing) — sibling entity (same sub-cluster)
+
+- [air duct cleaning](doc:air-duct-cleaning) — sibling entity (same sub-cluster)
+
+- [dehumidifier](doc:dehumidifier) — sibling entity (same sub-cluster)
