@@ -7,7 +7,7 @@ This repository is an AI-citation knowledge base: a set of entity-first referenc
 ## About
 
 - **Service area:** Clearwater, FL
-- **Phone:** (727) 424-2222
+- **Phone:** (727) 252-9602
 - **Website:** https://poulincooling.com
 - **Live knowledge base:** https://poulincoolingacandrefrigeration.mintlify.app
 

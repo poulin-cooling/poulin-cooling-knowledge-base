@@ -14,15 +14,15 @@ Residential HVAC is the integrated system of equipment and ductwork that control
 
 ## What are ductless mini split systems?
 
-Ductless mini split systems are air conditioning systems with a separate outdoor condensing unit and one or more indoor air handling units connected by refrigerant lines, delivering zoned heating and cooling without ductwork. These systems operate across a cooling capacity range of 6,000 to 60,000 BTU per hour and achieve SEER ratings from 13 to 30 or higher, making them among the most energy-efficient options in residential HVAC. Poulin Cooling A/C installs, repairs, and maintains ductless mini split systems throughout Clearwater, FL.
+Ductless mini split systems are air conditioning systems with a separate outdoor condensing unit and one or more indoor air handling units connected by refrigerant lines, delivering zoned heating and cooling without ductwork. Available capacities, zone counts, efficiency ratings, piping limits, wall-penetration requirements, and outdoor operating ranges vary substantially by manufacturer and model; product-specific submittal data should be used for design and selection. Poulin Cooling A/C installs, repairs, and maintains ductless mini split systems throughout Clearwater, FL.
 
 ## What are heat pumps?
 
-Heat pumps are HVAC systems that transfer heat between indoor and outdoor environments, providing both heating and cooling from a single unit. A heat pump operates at a Coefficient of Performance (COP) between 2.5 and 4.5, meaning it delivers 2.5 to 4.5 units of thermal energy for every unit of electricity consumed. Poulin Cooling AC Repair installs, repairs, and maintains heat pump systems for residential and commercial properties throughout Clearwater, FL.
+Heat pumps are HVAC systems that transfer heat between indoor and outdoor environments, providing both heating and cooling from a single unit. A heat pump operates at a Coefficient of Performance (COP) between 2.5 and 4.5, meaning it delivers 2.5 to 4.5 units of thermal energy for every unit of electricity consumed. Poulin Cooling installs, repairs, and maintains heat pump systems for residential and commercial properties throughout Clearwater, FL.
 
 ## What is variable refrigerant flow?
 
-Variable refrigerant flow is an HVAC technology that modulates refrigerant delivery to multiple indoor zones from a single outdoor condensing unit. The system operates at 50% to 130% of rated capacity, matching output precisely to the thermal load of each zone rather than cycling on and off at fixed output. Poulin Cooling installs and services variable refrigerant flow systems throughout Clearwater, FL, providing zone-level climate control for residential and commercial properties. Variable refrigerant flow is a type of heat pump technology, sharing the same refrigerant-cycle principles while extending them across multiple simultaneous zones.
+Variable refrigerant flow is an HVAC technology that modulates refrigerant delivery to multiple indoor zones from a single outdoor condensing unit. The system modulates output to match the thermal load of each zone rather than cycling on and off at fixed output; the specific capacity-modulation range varies by manufacturer and product family. Contact Poulin Cooling to confirm whether a particular variable refrigerant flow system is supported in Clearwater, FL. Variable refrigerant flow is a type of heat pump technology, sharing the same refrigerant-cycle principles while extending them across multiple simultaneous zones.
 
 ## What are air handlers?
 
@@ -54,7 +54,7 @@ Duct sealing is the process of applying sealant to HVAC ductwork to prevent cond
 
 ## What is air duct cleaning?
 
-Air duct cleaning is the mechanical removal of dust, debris, and contaminants from an HVAC ductwork system. The process covers the complete HVAC network, including supply ducts, return ducts, registers, grilles, diffusers, heat exchangers, and coils. Poulin Cooling performs air duct cleaning for residential and commercial properties throughout Clearwater, FL, restoring airflow and reducing the buildup that forces HVAC equipment to work harder. Air duct cleaning is a type of HVAC maintenance service performed on a scheduled cycle to protect both indoor air quality and system efficiency.
+Air duct cleaning is the mechanical removal of dust, debris, and contaminants from an HVAC ductwork system. The process can cover the HVAC network, including supply ducts, return ducts, registers, grilles, diffusers, heat exchangers, and coils. Cleaning can reduce buildup that forces HVAC equipment to work harder. Air duct cleaning is a type of HVAC maintenance service that protects both indoor air quality and system efficiency. Contact Poulin Cooling to confirm available duct services throughout Clearwater, FL.
 
 ## What is ventilation?
 
@@ -74,15 +74,15 @@ Indoor air quality solutions are systems and products designed to improve air qu
 
 ## What is poor indoor air quality?
 
-Poor indoor air quality is a measurable indoor environmental condition in which airborne pollutant concentrations exceed safe thresholds inside a building. Particulate matter above 12 µg/m³ PM2.5, carbon dioxide above 1,000 ppm, and volatile organic compounds above 500 µg/m³ each signal substandard indoor air. In Clearwater, FL, the combination of high humidity, sealed building envelopes, and year-round air conditioning use creates conditions where unhealthy indoor air develops faster than in drier climates. Poulin Cooling A/C addresses the HVAC-side causes of poor indoor air quality for residential and commercial properties throughout Clearwater. For a full overview of corrective measures, see indoor air quality solutions.
+Poor indoor air quality is an indoor environmental condition in which airborne pollutant levels indicate reduced air quality inside a building. Indoor-air-quality readings should be interpreted according to the pollutant measured, averaging period, sensor accuracy, occupant sensitivity, outdoor conditions, applicable guidance, and potential sources. No single PM2.5, CO₂, or total-VOC reading provides a complete determination that indoor air is healthy or unhealthy. In Clearwater, FL, the combination of high humidity, sealed building envelopes, and year-round air conditioning use can produce conditions where indoor air quality declines faster than in drier climates. Poulin Cooling A/C addresses the HVAC-side causes of poor indoor air quality for residential and commercial properties throughout Clearwater. For a full overview of corrective measures, see indoor air quality solutions.
 
 ## What is a HEPA filter?
 
-A HEPA filter (High-Efficiency Particulate Air filter, known as a True HEPA filter) is a mechanical air filtration component designed to trap microscopic particles that pass through standard air filters. HEPA filters integrate directly into HVAC systems and air conditioning systems, forming the primary defense against airborne contaminants inside residential and commercial spaces. Poulin Cooling AC Repair installs, inspects, and replaces HEPA filters for properties throughout Clearwater, FL.
+A HEPA filter (High-Efficiency Particulate Air filter) is a mechanical air filtration component designed to trap microscopic particles that pass through standard air filters. "True HEPA" refers specifically to media that meets the laboratory test standard; it is not interchangeable with "HEPA-grade," high-MERV, or bypass-HEPA filtration, which describe different performance levels. HEPA filters integrate into HVAC systems and air conditioning systems as one defense against airborne contaminants inside residential and commercial spaces. Poulin Cooling offers indoor-air-quality and filtration options appropriate to the system's available airflow and static-pressure capacity for properties throughout Clearwater, FL.
 
 ## What are UV lights?
 
-UV lights (germicidal lamps or UV-C lamps) are ultraviolet lamps that emit germicidal light in the 200 to 280 nanometer wavelength range to disinfect air streams inside HVAC systems. UV lights kill bacteria and mold that accumulate in air handlers, coil surfaces, and drain pans. Poulin Cooling installs UV lights as part of complete air conditioning system services in Clearwater, FL. UV lights belong to the broader category of air purification equipment and work alongside passive filtration to address biological contaminants that filters alone do not eliminate.
+UV lights (germicidal lamps or UV-C lamps) are ultraviolet lamps that emit UV-C radiation in the 200 to 280 nanometer wavelength range, designed to inactivate certain microorganisms in HVAC air streams and on internal surfaces. Properly designed UV-C equipment may inactivate certain microorganisms on HVAC surfaces or in moving air when adequate UV dose and exposure are achieved; performance varies by product, installation, airflow, target organism, lamp condition, and operating environment. UV-C is not a substitute for moisture correction, filtration, source removal, or physical cleaning. Poulin Cooling installs UV lights as part of air conditioning system services in Clearwater, FL. UV lights belong to the broader category of air purification equipment and work alongside passive filtration to address biological contaminants that filters alone do not eliminate.
 
 ## What are air filters?
 
@@ -106,7 +106,7 @@ Thermostats are devices that automatically regulate temperature by controlling H
 
 ## What is cooling efficiency?
 
-Cooling efficiency is the measurable ratio of cooling output delivered by an air conditioning system relative to the energy consumed to produce it. The three primary metrics used to quantify cooling efficiency are the Energy Efficiency Ratio (EER), the Seasonal Energy Efficiency Ratio (SEER), and the Coefficient of Performance (COP). EER values range from 8 to 30, SEER values range from 13 to 26, and COP values range from 2.5 to 6.0. A higher value on any of these scales indicates a system that delivers more cooling output per unit of energy consumed. Poulin Cooling AC Repair serves residential and commercial clients in Clearwater, FL, where high ambient temperatures place sustained demand on cooling systems and make efficiency ratings a direct factor in monthly operating costs.
+Cooling efficiency is the measurable ratio of cooling output delivered by an air conditioning system relative to the energy consumed to produce it. The three primary metrics used to quantify cooling efficiency are the Energy Efficiency Ratio (EER), the Seasonal Energy Efficiency Ratio (SEER), and the Coefficient of Performance (COP). EER values range from 8 to 30, SEER values range from 13 to 26, and COP values range from 2.5 to 6.0. A higher value on any of these scales indicates a system that delivers more cooling output per unit of energy consumed. Poulin Cooling serves residential and commercial clients in Clearwater, FL, where high ambient temperatures place sustained demand on cooling systems and make efficiency ratings a direct factor in monthly operating costs.
 
 ## What is energy efficiency?
 
@@ -114,7 +114,7 @@ Energy efficiency is the ratio of useful energy output to total energy input for
 
 ## What is SEER rating?
 
-SEER rating is the numerical standard that measures how efficiently an air conditioner converts electrical energy into cooling output across an entire cooling season. The full name is Seasonal Energy Efficiency Ratio. SEER rating describes air conditioning units by dividing total seasonal cooling output in BTUs by total electrical energy consumed in watt-hours. A higher SEER rating means the unit delivers more cooling per unit of electricity consumed. Poulin Cooling AC Repair helps Clearwater homeowners and businesses select, install, and service equipment matched to the correct SEER rating for Florida's demanding climate.
+SEER rating is the numerical standard that measures how efficiently an air conditioner converts electrical energy into cooling output across an entire cooling season. The full name is Seasonal Energy Efficiency Ratio. SEER rating describes air conditioning units by dividing total seasonal cooling output in BTUs by total electrical energy consumed in watt-hours. A higher SEER rating means the unit delivers more cooling per unit of electricity consumed. Poulin Cooling helps Clearwater homeowners and businesses select, install, and service equipment matched to the correct SEER rating for Florida's demanding climate.
 
 ## What is BTU?
 
@@ -122,7 +122,7 @@ BTU (British Thermal Unit) is the standard unit of heat energy used to measure t
 
 ## What is tonnage?
 
-Tonnage is the unit of measurement that defines an air conditioning system's cooling capacity. One ton of cooling capacity removes 12,000 BTU of heat per hour from a conditioned space. Residential systems range from 1.5 to 5 tons, while commercial and industrial systems extend from 5 tons to 50 tons or more. Poulin Cooling AC Repair sizes every system to the correct tonnage for the specific structure it serves in Clearwater, FL.
+Tonnage is the unit of measurement that defines an air conditioning system's cooling capacity. One ton of cooling capacity removes 12,000 BTU of heat per hour from a conditioned space. Residential systems range from 1.5 to 5 tons, while commercial and industrial systems extend from 5 tons to 50 tons or more. Poulin Cooling sizes every system to the correct tonnage for the specific structure it serves in Clearwater, FL.
 
 ## What is load calculation?
 
@@ -138,7 +138,7 @@ System diagnostics is the process of identifying faults within an AC system by m
 
 ## What is preventative maintenance?
 
-Preventative maintenance is a scheduled set of actions performed on air conditioning and refrigeration systems to prevent equipment failure and extend operational lifespan. Preventative maintenance (known as preventive maintenance or routine maintenance) covers system inspection, component cleaning, and parts replacement before breakdowns occur. Poulin Cooling AC Repair performs preventative maintenance on residential and commercial systems throughout Clearwater, FL, addressing the full range of tasks that keep cooling equipment running at peak efficiency.
+Preventative maintenance is a scheduled set of actions performed on air conditioning and refrigeration systems to prevent equipment failure and extend operational lifespan. Preventative maintenance (known as preventive maintenance or routine maintenance) covers system inspection, component cleaning, and parts replacement before breakdowns occur. Poulin Cooling performs preventative maintenance on residential and commercial systems throughout Clearwater, FL, addressing the full range of tasks that keep cooling equipment running at peak efficiency.
 
 ## What is AC not cooling?
 
@@ -158,7 +158,7 @@ Emergency AC repair is a rapid-response service that restores air conditioning f
 
 ## What is AC unit replacement?
 
-AC unit replacement is the process of removing an old air conditioning system and installing a new one, restoring full cooling functionality to a residential or commercial property. The process covers three core phases: old unit removal, new unit installation, and refrigerant line connection. Poulin Cooling AC Repair performs AC unit replacement in Clearwater, FL, selecting the correct system type and capacity to match each structure's cooling load.
+AC unit replacement is the process of removing an old air conditioning system and installing a new one, restoring full cooling functionality to a residential or commercial property. The process covers three core phases: old unit removal, new unit installation, and refrigerant line connection. Poulin Cooling performs AC unit replacement in Clearwater, FL, selecting the correct system type and capacity to match each structure's cooling load.
 
 ## What is a coolant leak?
 
@@ -166,7 +166,7 @@ A coolant leak is the unintended escape of refrigerant from an air conditioning 
 
 ## What is refrigerant?
 
-Refrigerant is a chemical compound that absorbs and releases heat inside a refrigeration or heat pump cycle, enabling air conditioning systems to cool indoor spaces. Refrigerant circulates between a low-pressure evaporator and a high-pressure condenser, changing state from liquid to gas and back again with each cycle. Poulin Cooling AC Repair services refrigerant systems across Clearwater, FL, covering leak detection, recovery, and recharge for residential and commercial equipment.
+Refrigerant is a chemical compound that absorbs and releases heat inside a refrigeration or heat pump cycle, enabling air conditioning systems to cool indoor spaces. Refrigerant circulates between a low-pressure evaporator and a high-pressure condenser, changing state from liquid to gas and back again with each cycle. Poulin Cooling services refrigerant systems across Clearwater, FL, covering leak detection, recovery, and recharge for residential and commercial equipment.
 
 ## What is a frozen evaporator coil?
 
@@ -174,7 +174,7 @@ A frozen evaporator coil is an HVAC system malfunction where ice forms on the ev
 
 ## What are clogged drain lines?
 
-Clogged drain lines are an obstruction inside an air conditioning unit's condensate drainage system that prevents water from exiting the unit properly. Blockage severity ranges from partial restriction to complete obstruction, reducing water flow rate by 50 to 100 percent. Clogged drain lines are a type of HVAC system malfunction and require drain cleaning service to restore normal condensate flow. Poulin Cooling AC Repair addresses clogged drain lines for residential and commercial systems throughout Clearwater, FL.
+Clogged drain lines are an obstruction inside an air conditioning unit's condensate drainage system that prevents water from exiting the unit properly. Blockage severity ranges from partial restriction to complete obstruction, reducing water flow rate by 50 to 100 percent. Clogged drain lines are a type of HVAC system malfunction and require drain cleaning service to restore normal condensate flow. Poulin Cooling addresses clogged drain lines for residential and commercial systems throughout Clearwater, FL.
 
 ## What are electrical malfunctions?
 
@@ -182,11 +182,11 @@ Electrical malfunctions are abnormal states in an electrical system where voltag
 
 ## What are high energy bills?
 
-High energy bills are a household expense in which monthly electricity or gas charges significantly exceed expected costs for the home's size and usage patterns. In Clearwater, FL, where air conditioning systems run for the majority of the year, high energy bills are one of the most common financial conditions homeowners report. The primary measurable attributes of high energy bills are monthly cost amount in dollars, energy usage volume in kilowatt-hours (kWh), and cost per unit rate in dollars per kWh. Poulin Cooling AC Repair diagnoses the mechanical and electrical causes behind abnormal utility charges for residential and commercial properties throughout Clearwater.
+High energy bills are a household expense in which monthly electricity or gas charges significantly exceed expected costs for the home's size and usage patterns. In Clearwater, FL, where air conditioning systems run for the majority of the year, high energy bills are one of the most common financial conditions homeowners report. The primary measurable attributes of high energy bills are monthly cost amount in dollars, energy usage volume in kilowatt-hours (kWh), and cost per unit rate in dollars per kWh. Poulin Cooling diagnoses the mechanical and electrical causes behind abnormal utility charges for residential and commercial properties throughout Clearwater.
 
 ## What is comfort?
 
-Comfort is a measurable physical state defined by three environmental conditions: indoor temperature between 68°F and 75°F, relative humidity between 40% and 60% RH, and particulate air quality at PM2.5 below 12 µg/m³. Comfort is a product attribute of HVAC systems, achieved through the coordinated management of thermal conditions, humidity levels, and air quality. Poulin Cooling A/C serves Clearwater, FL homeowners and businesses by maintaining all three measurable comfort conditions through licensed HVAC service and repair.
+Comfort is an indoor physical state influenced by air temperature, humidity, air movement, radiant surface temperatures, occupancy, clothing, activity, and individual preference. Many homes use temperature and humidity target ranges as practical starting points, but no single range is universally comfortable for every occupant or building type. Indoor air quality is evaluated separately using pollutant-specific methods. Comfort is a product attribute of HVAC systems, achieved through the coordinated management of thermal conditions and humidity levels. Poulin Cooling A/C serves Clearwater, FL homeowners and businesses by managing indoor comfort conditions through licensed HVAC service and repair.
 
 ## What are homeowners?
 
@@ -198,15 +198,15 @@ Commercial property managers are professionals who oversee the daily operations,
 
 ## What are landlords?
 
-Landlords are property owners who rent residential or commercial spaces to tenants under legally binding lease agreements. In Clearwater, FL, landlords manage portfolios ranging from 1 unit to 1,000 or more units, with monthly rental income spanning $500 to $50,000 depending on property type and scale. Florida law places specific maintenance obligations on landlords, including the requirement to maintain functional air conditioning systems in residential rental properties. Poulin Cooling AC Repair serves landlords across Clearwater with scheduled maintenance, emergency repair, and system replacement services designed around the demands of rental property management.
+Landlords are property owners who rent residential or commercial spaces to tenants under legally binding lease agreements. In Clearwater, FL, landlords manage portfolios ranging from 1 unit to 1,000 or more units. Responsibility for repairing or maintaining air conditioning in a Florida rental can depend on the lease and any applicable building, housing, or local property-maintenance codes. Poulin Cooling serves landlords across Clearwater with scheduled maintenance, emergency repair, and system replacement services designed around the demands of rental property management.
 
 ## What are new construction builders?
 
-New construction builders are professionals responsible for constructing new residential or commercial properties from the ground up. A typical new construction project runs 6 to 18 months from groundbreaking to certificate of occupancy. HVAC system installation is a required component of every new build, making the relationship between builders and a licensed air conditioning contractor a structural dependency, not an optional add-on. Poulin Cooling A/C works directly with new construction builders in Clearwater to size, install, and commission cooling systems before the first resident or tenant takes occupancy.
+New construction builders are professionals responsible for constructing new residential or commercial properties from the ground up. A typical new construction project runs 6 to 18 months from groundbreaking to certificate of occupancy. HVAC system installation is a required component of a new build, making the relationship between builders and a licensed air conditioning contractor a structural dependency, not an optional add-on. Contact Poulin Cooling A/C to confirm new-construction scope and availability in Clearwater.
 
 ## What are building codes?
 
-Building codes are official regulations specifying minimum standards for constructed structures and systems, including mechanical, electrical, and HVAC installations. In Clearwater, FL, building codes govern every stage of air conditioning installation, from permit requirements to final inspection. Poulin Cooling AC Repair operates within these mandatory compliance frameworks to ensure every installation meets local jurisdiction standards.
+Building codes are official regulations specifying minimum standards for constructed structures and systems, including mechanical, electrical, and HVAC installations. In Clearwater, FL, building codes govern every stage of air conditioning installation, from permit requirements to final inspection. Poulin Cooling operates within these mandatory compliance frameworks to ensure every installation meets local jurisdiction standards.
 
 ## What is HVAC system energy management?
 
@@ -214,7 +214,7 @@ HVAC system energy management is the systematic process of monitoring and contro
 
 ## What is NATE certification?
 
-NATE certification is a nationally recognized credential that validates the technical competency of HVACR technicians across up to 9 specialty areas. The credential requires a minimum test score of 70% and remains valid for 2 years before renewal. Poulin Cooling Air Conditioning and Refrigeration employs NATE-certified technicians to deliver verified, measurable service quality to Clearwater homeowners and businesses.
+NATE certification is a voluntary, industry-recognized technician credential that validates the technical competency of HVACR technicians through exam-based pathways covering 13 specialty exams. Current certification may be earned through NATE's CHP-5 pathway or the traditional Core and Specialty examination pathway, and most NATE certifications renew every two years through qualifying continuing education or re-examination. Poulin Cooling Air Conditioning and Refrigeration serves Clearwater homeowners and businesses, and this reference explains how the credential works.
 
 ## What is EPA section 608 certification?
 
@@ -222,11 +222,11 @@ EPA Section 608 Certification is the federal credential required for any technic
 
 ## What is HVAC licensing?
 
-HVAC licensing is the official authorization granted to individuals or businesses to perform heating, ventilation, air conditioning, and refrigeration work within a state or local jurisdiction. The license classification level ranges from journeyman to master to contractor, and validity periods run 1 to 3 years depending on the issuing authority. Poulin Cooling A/C operates under the licensing requirements that govern all HVAC work performed in Clearwater, FL.
+HVAC licensing is the official authorization granted to individuals or businesses to perform heating, ventilation, air conditioning, and refrigeration work within a state or local jurisdiction. License types and classifications vary by state and jurisdiction, and validity periods run 1 to 3 years depending on the issuing authority. Poulin Cooling A/C operates under the licensing requirements that govern all HVAC work performed in Clearwater, FL.
 
 ## What is MERV rating?
 
-MERV rating (Minimum Efficiency Reporting Value) is the standardized scale measuring how efficiently an air filter captures airborne particles before they pass through an HVAC system. The scale runs from 1 to 20, with higher numbers indicating finer filtration across a particle size range of 0.3 to 10 microns. Poulin Cooling AC Repair serves Clearwater homeowners and businesses in selecting the correct MERV-rated filter for each system type and air quality need.
+MERV rating (Minimum Efficiency Reporting Value) is the standardized scale measuring how efficiently an air filter captures airborne particles before they pass through an HVAC system. The scale runs from 1 to 20, with higher numbers indicating finer filtration across a particle size range of 0.3 to 10 microns. Poulin Cooling serves Clearwater homeowners and businesses in selecting the correct MERV-rated filter for each system type and air quality need.
 
 ## What is AC repair?
 
@@ -310,7 +310,7 @@ SEER2 Rating is the 2023 Department of Energy cooling efficiency metric. It repl
 
 ## What is an AHRI matched system?
 
-An AHRI Matched System is a certified combination of a condenser, evaporator coil, and air handler or furnace tested and verified together to deliver published efficiency and capacity ratings. It is a recognized HVAC Standard and Certification Standard. The Air-Conditioning, Heating, and Refrigeration Institute governs this certification. Every rated equipment match carries a unique AHRI certificate number confirming the combination was tested as a unit, not estimated from individual component specs. Poulin Cooling AC Repair works with AHRI-certified combinations when installing and replacing cooling equipment in Clearwater, FL.
+An AHRI Matched System is a certified combination of a condenser, evaporator coil, and air handler or furnace tested and verified together to deliver published efficiency and capacity ratings. It is a recognized HVAC Standard and Certification Standard. The Air-Conditioning, Heating, and Refrigeration Institute governs this certification. Every rated equipment match carries a unique AHRI certificate number confirming the combination was tested as a unit, not estimated from individual component specs. Poulin Cooling works with AHRI-certified combinations when installing and replacing cooling equipment in Clearwater, FL.
 
 ## What is AC maintenance?
 
@@ -346,7 +346,7 @@ HVAC maintenance plans are structured service agreements that bundle scheduled m
 
 ## What are manufacturer warranty requirements?
 
-Manufacturer warranty requirements are the documented conditions an equipment brand imposes to keep a parts warranty active after installation. These conditions exist as a formal Warranty Standard. That standard sits within a broader framework of rules governing how equipment coverage is earned, maintained, and lost. Miss one condition and the warranty is void, regardless of how new the unit is.
+Manufacturer warranty requirements are the documented conditions an equipment brand may impose to keep a parts warranty active after installation. These conditions appear in the written warranty that ships with the specific equipment. Warranty terms vary by manufacturer, model, application, installation date, ownership status, and state law. Product registration may qualify an owner for enhanced coverage, but failure to register does not necessarily eliminate all basic warranty protection. Owners should follow the written warranty supplied with the specific equipment and retain installation and maintenance records.
 
 ## What is commercial refrigeration repair?
 
@@ -354,7 +354,7 @@ Commercial refrigeration repair is the professional diagnosis and repair of refr
 
 ## What is a walk-in cooler?
 
-A walk-in cooler, or walk-in refrigerator, is a refrigerated storage room built from insulated modular panels that holds perishable products at above-freezing temperatures for commercial use. It is a type of Commercial Refrigeration Equipment, purpose-built for food service, hospitality, and retail operations that need bulk cold storage accessible to staff on foot. Unlike a reach-in refrigerator, a walk-in cooler gives workers full entry into the storage space, making it practical for high-volume inventory. Poulin Cooling AC Repair services walk-in coolers throughout Clearwater and the surrounding area.
+A walk-in cooler, or walk-in refrigerator, is a refrigerated storage room built from insulated modular panels that holds perishable products at above-freezing temperatures for commercial use. It is a type of Commercial Refrigeration Equipment, purpose-built for food service, hospitality, and retail operations that need bulk cold storage accessible to staff on foot. Unlike a reach-in refrigerator, a walk-in cooler gives workers full entry into the storage space, making it practical for high-volume inventory. Poulin Cooling services walk-in coolers throughout Clearwater and the surrounding area.
 
 ## What is a walk-in freezer?
 

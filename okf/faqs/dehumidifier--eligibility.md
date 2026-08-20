@@ -6,6 +6,6 @@ intent: eligibility
 
 # do i need dehumidifier
 
-In Clearwater, FL, where humidity regularly exceeds 80% RH, a dehumidifier is strongly recommended for most homes. If indoor humidity stays above 60% RH, you notice condensation, or musty odors are present, a dehumidifier is likely needed. Poulin Cooling A/C and Refrigeration installs whole-house and portable dehumidifiers sized to your specific moisture load, helping protect your home and reduce strain on your AC system. Call (727) 424-2222 to schedule an assessment.
+A whole-home dehumidifier may be appropriate when measured indoor humidity remains elevated or the existing HVAC system cannot adequately manage moisture. The recommendation should be based on indoor measurements, building conditions, equipment operation, and the homeowner's objectives. Contact Poulin Cooling to confirm available equipment and installation options. Call (727) 252-9602 to schedule an assessment.
 
 Source: https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier

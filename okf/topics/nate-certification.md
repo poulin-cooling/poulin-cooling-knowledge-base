@@ -1,5 +1,5 @@
 # NATE Certification
 
-NATE certification is a nationally recognized credential that validates the technical competency of HVACR technicians across up to 9 specialty areas.
+NATE certification is a voluntary, industry-recognized technician credential that validates the technical competency of HVACR technicians through exam-based pathways covering 13 specialty exams.
 
 Full reference: [NATE Certification](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification)

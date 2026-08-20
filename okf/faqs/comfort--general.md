@@ -6,6 +6,6 @@ intent: general
 
 # what is comfort
 
-Comfort is a measurable physical state defined by three indoor environmental conditions: temperature between 68°F and 75°F, relative humidity between 40% and 60% RH, and particulate air quality at PM2.5 below 12 µg/m³. Poulin Cooling A/C and Refrigeration in Clearwater, FL maintains all three comfort conditions for residential and commercial customers through HVAC installation, repair, and maintenance services.
+Comfort is an indoor physical state influenced by air temperature, humidity, air movement, radiant surface temperatures, occupancy, clothing, activity, and individual preference. Many homes use temperature and humidity target ranges as practical starting points, but no single range is universally comfortable for every occupant or building type, and indoor air quality is evaluated separately using pollutant-specific methods. Poulin Cooling A/C and Refrigeration in Clearwater, FL manages indoor comfort conditions for residential and commercial customers through HVAC installation, repair, and maintenance services.
 
 Source: https://poulincoolingacandrefrigeration.mintlify.app/comfort
