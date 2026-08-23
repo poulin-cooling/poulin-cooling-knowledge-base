@@ -1,5 +1,9 @@
 ---
 title: Electrical Malfunctions
+excerpt: >-
+  Electrical malfunctions are abnormal states in an electrical system where
+  voltage irregularities, current disruption patterns, or control circuit errors
+  prevent normal operation.
 ---
 ## Electrical malfunctions in Clearwater - Poulin Cooling A/C and Refrigeration
 
