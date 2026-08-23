@@ -1,5 +1,8 @@
 ---
 title: AC Not Turning On
+excerpt: >-
+  AC not turning on ( called AC won't turn on) is a no-start condition in which
+  an air conditioning system gives no response when a cooling call is made.
 ---
 ## AC not turning on in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -45,7 +48,7 @@ Steps beyond the disconnect box and float switch require voltage testing and com
 
 AC not turning on sits at the entry point of the AC fault spectrum. A system that will not start cannot progress to any other failure mode: it produces no wear, no refrigerant loss, and no secondary damage while it remains off. That makes a no-start condition easier to contain than a system that runs in a degraded state for days. The condition resolves through AC repair once the root cause is identified. It is distinct from an AC breakdown, which describes a system that starts and then fails during operation, often from refrigerant loss, a frozen evaporator coil, or an overheating compressor.
 
-The no-start condition has a defined opposite: normal startup. In a healthy system, the thermostat sends a 24-volt signal, the contactor closes, the capacitor discharges to start the compressor and condenser fan, and the blower in the air handler activates. Full system response happens within 30 to 60 seconds of the thermostat call. AC no power at any point in that sequence breaks the chain and produces the no-start condition. [Poulin Cooling AC Repair](https://maps.app.goo.gl/19PxbCHWa3R5dEka7) traces that startup chain step by step when diagnosing no-start calls in Clearwater, FL.
+The no-start condition has a defined opposite: normal startup. In a healthy system, the thermostat sends a 24-volt signal, the contactor closes, the capacitor discharges to start the compressor and condenser fan, and the blower in the air handler activates. Full system response happens within 30 to 60 seconds of the thermostat call. AC no power at any point in that sequence breaks the chain and produces the no-start condition. [Poulin Cooling](https://maps.app.goo.gl/19PxbCHWa3R5dEka7) traces that startup chain step by step when diagnosing no-start calls in Clearwater, FL.
 
 ### Where AC not turning on applies
 
