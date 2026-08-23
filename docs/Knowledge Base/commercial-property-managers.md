@@ -1,5 +1,8 @@
 ---
 title: Commercial Property Managers
+excerpt: >-
+  Commercial property managers are professionals who oversee the daily
+  operations, maintenance, and financial performance of commercial buildings.
 ---
 ## Commercial property managers in Clearwater - Poulin Cooling A/C and Refrigeration
 
