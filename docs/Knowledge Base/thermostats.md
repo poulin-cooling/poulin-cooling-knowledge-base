@@ -1,5 +1,8 @@
 ---
 title: Thermostats
+excerpt: >-
+  Thermostats are devices that automatically regulate temperature by controlling
+  HVAC systems across a range of -10°F to 120°F.
 ---
 ## Thermostats in Clearwater - Poulin Cooling A/C and Refrigeration
 
