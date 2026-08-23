@@ -1,5 +1,8 @@
 ---
 title: Condenser Units
+excerpt: >-
+  Condenser units are the outdoor components of an air conditioning system that
+  expel heat absorbed from indoor air back into the outside environment.
 ---
 ## Condenser units in Clearwater - Poulin Cooling A/C and Refrigeration
 
