@@ -1,5 +1,9 @@
 ---
 title: Ventilation
+excerpt: >-
+  Ventilation is the intentional introduction and removal of air from a space,
+  measured in air changes per hour (ACH), cubic feet per minute (CFM), and
+  static pressure in inches of water column.
 ---
 ## Ventilation in Clearwater - Poulin Cooling A/C and Refrigeration
 
