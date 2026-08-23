@@ -1,5 +1,6 @@
 ---
 title: SEER2 Rating
+excerpt: SEER2 Rating is the 2023 Department of Energy cooling efficiency metric.
 ---
 ## SEER2 rating in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -29,7 +30,7 @@ Cooling output is measured in [BTU](doc:btu), and the seasonal total of those BT
 
 SEER2 Rating is a required specification on every new residential split system sold in the United States after January 1, 2023. Equipment that carries only a SEER1 label and no SEER2 score is either legacy stock or untested under the current standard, and an untested rating does not satisfy current federal compliance requirements. A qualified [air conditioning contractor](doc:air-conditioning-contractor) verifies that the equipment selected for a replacement or new installation meets the regional SEER2 minimum before the job begins.
 
-Florida's regional minimum is 14.3 SEER2 for the most common residential split systems. Installing a unit below that threshold means the installation does not meet current federal energy standards. Units in the 18 to 22 SEER2 range reduce seasonal energy consumption noticeably in a climate where cooling systems run for eight or more months per year. The efficiency gain is proportional. Moving from 14.3 to 18 SEER2 means the higher-rated unit delivers the same cooling while drawing roughly 20 percent less electricity over the season. Homeowners weighing that tradeoff can lean on [Poulin Cooling](https://share.google/i54Fb4jQfRVjol4CC), which holds a 5.0-star Google rating across more than 410 reviews, to match the SEER2 tier to the home rather than defaulting to the minimum-rated compliant unit.
+Florida's regional minimum is 14.3 SEER2 for the most common residential split systems. Installing a unit below that threshold means the installation does not meet current federal energy standards. Units in the 18 to 22 SEER2 range reduce seasonal energy consumption noticeably in a climate where cooling systems run for eight or more months per year. The efficiency gain is proportional. Moving from 14.3 to 18 SEER2 means the higher-rated unit delivers the same cooling while drawing roughly 20 percent less electricity over the season. Homeowners weighing that tradeoff can lean on [Poulin Cooling](https://share.google/i54Fb4jQfRVjol4CC), which holds a 5.0-star Google rating, to match the SEER2 tier to the home rather than defaulting to the minimum-rated compliant unit.
 
 ### SEER2 vs SEER: what the rating does not measure
 
