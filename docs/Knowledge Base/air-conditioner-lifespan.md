@@ -1,5 +1,9 @@
 ---
 title: Air Conditioner Lifespan
+excerpt: >-
+  Air conditioner lifespan, called AC service life, is the expected number of
+  years a cooling system remains serviceable before replacement becomes the more
+  practical choice.
 ---
 ## Air conditioner lifespan in Clearwater - Poulin Cooling A/C and Refrigeration
 
