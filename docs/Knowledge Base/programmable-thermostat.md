@@ -1,5 +1,9 @@
 ---
 title: Programmable Thermostat
+excerpt: >-
+  A programmable thermostat is a device that automatically adjusts HVAC system
+  operation based on a pre-set schedule, eliminating the need for manual
+  temperature changes throughout the day.
 ---
 ## Programmable thermostat in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -21,7 +25,7 @@ Programmable thermostat performance is defined by 3 core measurable attributes t
 
 - **Power source:** Power source is either 24V AC drawn from the HVAC system's control wiring or battery backup, with 24V AC being the standard for central air conditioning systems.
 
-These 3 attributes determine whether a specific programmable thermostat is compatible with a given HVAC system. A unit rated for 24V AC operation does not function correctly on a system wired for millivolt control, and a thermostat with fewer than 4 periods per day limits scheduling flexibility for households with variable routines. [Poulin Cooling AC Repair](https://sl.bing.net/h1zZYiCEQgu) verifies all 3 attributes before recommending or installing a replacement unit.
+These 3 attributes determine whether a specific programmable thermostat is compatible with a given HVAC system. A unit rated for 24V AC operation does not function correctly on a system wired for millivolt control, and a thermostat with fewer than 4 periods per day limits scheduling flexibility for households with variable routines. [Poulin Cooling](https://sl.bing.net/h1zZYiCEQgu) verifies all 3 attributes before recommending or installing a replacement unit.
 
 ### How a programmable thermostat relates to the broader HVAC system
 
