@@ -1,5 +1,8 @@
 ---
 title: Load Calculation
+excerpt: >-
+  Load calculation is the mathematical process of determining the exact cooling
+  and heating capacity a building requires to maintain comfort.
 ---
 ## Load calculation in Clearwater - Poulin Cooling A/C and Refrigeration
 
