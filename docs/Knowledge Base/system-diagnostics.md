@@ -1,5 +1,8 @@
 ---
 title: System Diagnostics
+excerpt: >-
+  System diagnostics is the process of identifying faults within an AC system by
+  measuring performance data, inspecting components, and analyzing results.
 ---
 ## System diagnostics in Clearwater - Poulin Cooling A/C and Refrigeration
 
