@@ -1,5 +1,9 @@
 ---
 title: Evaporator Coil
+excerpt: >-
+  The evaporator coil, known as the indoor coil or A-coil, is the heat exchanger
+  inside the air handler or furnace cabinet where refrigerant absorbs heat and
+  moisture from the airstream passing…
 ---
 ## Evaporator coil in Clearwater - Poulin Cooling A/C and Refrigeration
 
