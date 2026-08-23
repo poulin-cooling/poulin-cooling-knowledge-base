@@ -1,9 +1,13 @@
 ---
 title: Walk-In Cooler
+excerpt: >-
+  A walk-in cooler, or walk-in refrigerator, is a refrigerated storage room
+  built from insulated modular panels that holds perishable products at
+  above-freezing temperatures for commercial use.
 ---
 ## Walk-in cooler in Clearwater - Poulin Cooling A/C and Refrigeration
 
-A walk-in cooler, or walk-in refrigerator, is a refrigerated storage room built from insulated modular panels that holds perishable products at above-freezing temperatures for commercial use. It is a type of **Commercial Refrigeration Equipment**, purpose-built for food service, hospitality, and retail operations that need bulk cold storage accessible to staff on foot. Unlike a reach-in refrigerator, a walk-in cooler gives workers full entry into the storage space, making it practical for high-volume inventory. [Poulin Cooling AC Repair](https://maps.app.goo.gl/Rc3soX6zBc7d2B7u8) services walk-in coolers throughout Clearwater and the surrounding area.
+A walk-in cooler, or walk-in refrigerator, is a refrigerated storage room built from insulated modular panels that holds perishable products at above-freezing temperatures for commercial use. It is a type of **Commercial Refrigeration Equipment**, purpose-built for food service, hospitality, and retail operations that need bulk cold storage accessible to staff on foot. Unlike a reach-in refrigerator, a walk-in cooler gives workers full entry into the storage space, making it practical for high-volume inventory. [Poulin Cooling](https://maps.app.goo.gl/Rc3soX6zBc7d2B7u8) services walk-in coolers throughout Clearwater and the surrounding area.
 
 ### What a walk-in cooler is and how it differs from other refrigeration units
 
