@@ -1,5 +1,8 @@
 ---
 title: Coolant Leak
+excerpt: >-
+  A coolant leak is the unintended escape of refrigerant from an air
+  conditioning system.
 ---
 ## Coolant leak in Clearwater - Poulin Cooling A/C and Refrigeration
 
