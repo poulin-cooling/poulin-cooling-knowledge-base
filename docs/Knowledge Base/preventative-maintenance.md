@@ -1,9 +1,13 @@
 ---
 title: Preventative Maintenance
+excerpt: >-
+  Preventative maintenance is a scheduled set of actions performed on air
+  conditioning and refrigeration systems to prevent equipment failure and extend
+  operational lifespan.
 ---
 ## Preventative maintenance in Clearwater - Poulin Cooling A/C and Refrigeration
 
-Preventative maintenance is a scheduled set of actions performed on air conditioning and refrigeration systems to prevent equipment failure and extend operational lifespan. Preventative maintenance (known as preventive maintenance or routine maintenance) covers system inspection, component cleaning, and parts replacement before breakdowns occur. [Poulin Cooling AC Repair](https://maps.app.goo.gl/LeiBxBboXuuTxrjaA) performs preventative maintenance on residential and commercial systems throughout Clearwater, FL, addressing the full range of tasks that keep cooling equipment running at peak efficiency.
+Preventative maintenance is a scheduled set of actions performed on air conditioning and refrigeration systems to prevent equipment failure and extend operational lifespan. Preventative maintenance (known as preventive maintenance or routine maintenance) covers system inspection, component cleaning, and parts replacement before breakdowns occur. [Poulin Cooling](https://maps.app.goo.gl/LeiBxBboXuuTxrjaA) performs preventative maintenance on residential and commercial systems throughout Clearwater, FL, addressing the full range of tasks that keep cooling equipment running at peak efficiency.
 
 ### What preventative maintenance is and how it works
 
