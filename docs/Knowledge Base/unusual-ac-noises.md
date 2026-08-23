@@ -1,5 +1,9 @@
 ---
 title: Unusual AC Noises
+excerpt: >-
+  Unusual AC noises are abnormal sounds produced by an air conditioning system
+  that signal specific mechanical or electrical faults before a full breakdown
+  occurs.
 ---
 ## Unusual AC noises in Clearwater - Poulin Cooling A/C and Refrigeration
 
