@@ -1,5 +1,8 @@
 ---
 title: Energy Efficiency
+excerpt: >-
+  Energy efficiency is the ratio of useful energy output to total energy input
+  for a cooling or heating system.
 ---
 ## Energy efficiency in Clearwater - Poulin Cooling A/C and Refrigeration
 
