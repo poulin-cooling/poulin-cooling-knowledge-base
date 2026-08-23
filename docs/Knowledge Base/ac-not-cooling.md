@@ -1,5 +1,8 @@
 ---
 title: AC Not Cooling
+excerpt: >-
+  AC not cooling is a condition where an air conditioning unit fails to lower
+  indoor air temperature to the thermostat set point.
 ---
 ## AC not cooling in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -47,7 +50,7 @@ AC not cooling left unresolved causes compressor damage within one to two coolin
 
 AC not cooling applies to all air conditioning system types operating in Clearwater, including split systems, packaged units, mini-split systems, and commercial refrigeration units. Clearwater's climate produces ambient temperatures above 90°F for 5 or more months per year, which places sustained thermal load on every system component. High ambient temperatures accelerate refrigerant pressure loss, increase airflow restriction from dust accumulation, and shorten compressor service intervals compared to cooler climates.
 
-AC not cooling in Clearwater most frequently occurs between May and September, when outdoor temperatures exceed 90°F and indoor cooling demand is highest. [Poulin Cooling AC Repair](https://share.google/0D0UOsWZjpcm5C77M) serves residential and commercial properties across Clearwater and the surrounding area, diagnosing AC not cooling conditions using discharge air temperature measurement, evaporator coil differential readings, and low-side pressure testing.
+AC not cooling in Clearwater most frequently occurs between May and September, when outdoor temperatures exceed 90°F and indoor cooling demand is highest. [Poulin Cooling](https://share.google/0D0UOsWZjpcm5C77M) serves residential and commercial properties across Clearwater and the surrounding area, diagnosing AC not cooling conditions using discharge air temperature measurement, evaporator coil differential readings, and low-side pressure testing.
 
 ## Frequently asked questions about AC not cooling
 
