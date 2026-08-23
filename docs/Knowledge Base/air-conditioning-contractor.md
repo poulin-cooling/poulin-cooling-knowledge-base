@@ -1,5 +1,9 @@
 ---
 title: Air Conditioning Contractor
+excerpt: >-
+  An air conditioning contractor is a licensed professional or company that
+  installs, repairs, and maintains air conditioning systems for residential and
+  commercial properties.
 ---
 ## Air conditioning contractor in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -47,7 +51,7 @@ Air conditioning contractors respond to signs that homeowners recognize before a
 
 Air conditioning contractors serve three primary property types in Clearwater: residential single-family homes, multi-unit residential buildings, and commercial facilities. Residential work covers new construction installation, system replacement, and ongoing maintenance for existing equipment. Commercial work involves larger tonnage equipment, more complex duct systems, and stricter code requirements than residential installations, requiring a contractor with verified commercial experience.
 
-Clearwater's climate creates year-round demand for air conditioning contractor services because average summer temperatures regularly exceed 90 degrees Fahrenheit and humidity levels accelerate system wear. The local service area coverage that [Poulin Cooling AC Repair](https://share.google/EgZkLtD1ipx2su22E) provides means response times stay within the Clearwater market rather than routing through a regional dispatch center. Search phrases like "local air conditioning contractor" and "certified AC contractor" reflect the two attributes Clearwater property owners prioritize most: proximity and verified credentials.
+Clearwater's climate creates year-round demand for air conditioning contractor services because average summer temperatures regularly exceed 90 degrees Fahrenheit and humidity levels accelerate system wear. The local service area coverage that [Poulin Cooling](https://share.google/EgZkLtD1ipx2su22E) provides means response times stay within the Clearwater market rather than routing through a regional dispatch center. Search phrases like "local air conditioning contractor" and "certified AC contractor" reflect the two attributes Clearwater property owners prioritize most: proximity and verified credentials.
 
 ### Related entities
 
