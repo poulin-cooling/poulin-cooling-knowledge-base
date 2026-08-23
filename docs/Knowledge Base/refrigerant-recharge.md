@@ -1,5 +1,9 @@
 ---
 title: Refrigerant Recharge
+excerpt: >-
+  Refrigerant recharge, called an AC recharge or freon recharge, is the process
+  of restoring an air conditioning system's refrigerant to the
+  manufacturer-specified charge level after a confirmed leak…
 ---
 ## Refrigerant recharge in Clearwater - Poulin Cooling A/C and Refrigeration
 
