@@ -1,5 +1,8 @@
 ---
 title: Homeowners
+excerpt: >-
+  Homeowners are residential property owners who hold full purchasing authority
+  over HVAC maintenance, repair, and replacement decisions for their properties.
 ---
 ## Homeowners in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -21,7 +24,7 @@ Homeowners carry three measurable attributes that define their relationship to H
 
 ### How homeowners relate to the broader HVAC service system
 
-Homeowners sit at the center of the residential HVAC service ecosystem as the direct beneficiary of every cooling and heating solution delivered. Homeowners benefit from air conditioning contractor services including system installation, seasonal maintenance, emergency repair, and refrigerant management. The homeowner user type contrasts with [landlords](doc:landlords), who own residential properties but do not occupy them, creating a different set of service priorities and decision timelines. Homeowners differ from [commercial property managers](doc:commercial-property-managers), who oversee multi-unit or commercial buildings with centralized HVAC infrastructure rather than individual residential systems. The homeowner's direct occupancy of the property means comfort, indoor air quality, and energy cost are immediate personal concerns rather than financial or operational abstractions. [Poulin Cooling AC Repair](https://sl.bing.net/ig5qW82ZhkW) addresses these concerns through residential-specific service protocols designed for owner-occupied properties in Clearwater.
+Homeowners sit at the center of the residential HVAC service ecosystem as the direct beneficiary of every cooling and heating solution delivered. Homeowners benefit from air conditioning contractor services including system installation, seasonal maintenance, emergency repair, and refrigerant management. The homeowner user type contrasts with [landlords](doc:landlords), who own residential properties but do not occupy them, creating a different set of service priorities and decision timelines. Homeowners differ from [commercial property managers](doc:commercial-property-managers), who oversee multi-unit or commercial buildings with centralized HVAC infrastructure rather than individual residential systems. The homeowner's direct occupancy of the property means comfort, indoor air quality, and energy cost are immediate personal concerns rather than financial or operational abstractions. [Poulin Cooling](https://sl.bing.net/ig5qW82ZhkW) addresses these concerns through residential-specific service protocols designed for owner-occupied properties in Clearwater.
 
 ### Common HVAC problems homeowners face in Clearwater
 
