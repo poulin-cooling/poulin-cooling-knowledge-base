@@ -1,5 +1,8 @@
 ---
 title: BTU
+excerpt: >-
+  BTU (British Thermal Unit) is the standard unit of heat energy used to measure
+  the cooling and heating capacity of air conditioning systems.
 ---
 ## BTU in Clearwater - Poulin Cooling A/C and Refrigeration
 
