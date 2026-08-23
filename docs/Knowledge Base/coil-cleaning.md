@@ -1,5 +1,9 @@
 ---
 title: Coil Cleaning
+excerpt: >-
+  Coil cleaning is the process of removing dirt, dust, and biological debris
+  from an air conditioning system's evaporator and condenser coils to restore
+  their heat-transfer capacity.
 ---
 ## Coil cleaning in Clearwater - Poulin Cooling A/C and Refrigeration
 
