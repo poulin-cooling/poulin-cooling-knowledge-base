@@ -1,5 +1,9 @@
 ---
 title: HVAC Permits
+excerpt: >-
+  HVAC permits, called mechanical permits or AC permits, are the municipal and
+  county authorizations required before and after air conditioning installation
+  work begins on a property.
 ---
 ## HVAC permits in Clearwater - Poulin Cooling A/C and Refrigeration
 
