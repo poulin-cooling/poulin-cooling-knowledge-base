@@ -1,5 +1,8 @@
 ---
 title: Ductwork Installation
+excerpt: >-
+  Ductwork installation is the process of designing and installing new duct runs
+  to distribute conditioned air throughout a building.
 ---
 ## Ductwork installation in Clearwater - Poulin Cooling A/C and Refrigeration
 
