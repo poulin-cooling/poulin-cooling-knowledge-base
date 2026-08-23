@@ -1,5 +1,8 @@
 ---
 title: Manual J
+excerpt: >-
+  Manual J is the ACCA standard for calculating residential heating and cooling
+  loads on a room-by-room basis.
 ---
 ## Manual J in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -41,7 +44,7 @@ Manual J absence produces four recognizable symptoms in a residential HVAC syste
 
 - **Excessive energy bills:** Excessive energy bills result from a system that starts and stops frequently, consuming peak-draw startup energy 3 to 5 times more often than a correctly sized system running full cycles.
 
-[Poulin Cooling AC Repair](https://sl.bing.net/cEkWiaOWNwq) identifies these symptoms during diagnostic visits and performs a full Manual J recalculation before recommending a replacement system size.
+[Poulin Cooling](https://sl.bing.net/cEkWiaOWNwq) identifies these symptoms during diagnostic visits and performs a full Manual J recalculation before recommending a replacement system size.
 
 ### Where Manual J applies in Clearwater residential projects
 
