@@ -1,5 +1,8 @@
 ---
 title: Airflow
+excerpt: >-
+  Airflow is the movement of air through a system, characterized by volume,
+  velocity, and pressure differential.
 ---
 ## Airflow in Clearwater - Poulin Cooling A/C and Refrigeration
 
