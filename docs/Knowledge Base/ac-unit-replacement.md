@@ -1,9 +1,13 @@
 ---
 title: AC Unit Replacement
+excerpt: >-
+  AC unit replacement is the process of removing an old air conditioning system
+  and installing a new one, restoring full cooling functionality to a
+  residential or commercial property.
 ---
 ## AC unit replacement in Clearwater - Poulin Cooling A/C and Refrigeration
 
-AC unit replacement is the process of removing an old air conditioning system and installing a new one, restoring full cooling functionality to a residential or commercial property. The process covers three core phases: old unit removal, new unit installation, and refrigerant line connection. [Poulin Cooling AC Repair](https://share.google/ErIMgHoyYT6T3u52I) performs AC unit replacement in Clearwater, FL, selecting the correct system type and capacity to match each structure's cooling load.
+AC unit replacement is the process of removing an old air conditioning system and installing a new one, restoring full cooling functionality to a residential or commercial property. The process covers three core phases: old unit removal, new unit installation, and refrigerant line connection. [Poulin Cooling](https://share.google/ErIMgHoyYT6T3u52I) performs AC unit replacement in Clearwater, FL, selecting the correct system type and capacity to match each structure's cooling load.
 
 ### What AC unit replacement is and how it differs from repair
 
@@ -41,7 +45,7 @@ AC unit replacement applies to single-family homes, multi-unit residential build
 
 ### How much electricity does an AC unit consume?
 
-The context provided by Poulin Cooling A/C and Refrigeration does not contain specific data on how many electrical units an AC consumes. What is documented is that efficiency is rated in SEER2 or EER2, with higher SEER2 values indicating lower energy consumption per unit of cooling output, and that a degraded system may consume 20% or more energy above its original rating. For precise consumption figures, contact Poulin Cooling at (727) 424-2222.
+The context provided by Poulin Cooling A/C and Refrigeration does not contain specific data on how many electrical units an AC consumes. What is documented is that efficiency is rated in SEER2 or EER2, with higher SEER2 values indicating lower energy consumption per unit of cooling output, and that a degraded system may consume 20% or more energy above its original rating. For precise consumption figures, contact Poulin Cooling at (727) 252-9602.
 
 ### Related entities
 
