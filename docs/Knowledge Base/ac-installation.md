@@ -1,5 +1,9 @@
 ---
 title: AC Installation
+excerpt: >-
+  AC installation is the professional service of sizing and fitting a new air
+  conditioning system for a home or building, encompassing the full design
+  process.
 ---
 ## AC installation in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -31,7 +35,7 @@ AC installation is the event that brings a cooling system into service. It conne
 
 - **Refrigerant line routing:** Refrigerant line routing runs insulated copper lines between the two units, keeping line length and bends within manufacturer limits to protect compressor efficiency.
 
-Refrigerant handling during installation requires EPA 608-certified technicians, a regulatory requirement that applies to any work involving refrigerant recovery, charging, or transfer. [Poulin Cooling AC Repair](https://sl.bing.net/cEkWiaOWNwq) staffs licensed technicians for every installation in Clearwater to meet that requirement.
+Refrigerant handling during installation requires EPA 608-certified technicians, a regulatory requirement that applies to any work involving refrigerant recovery, charging, or transfer. [Poulin Cooling](https://sl.bing.net/cEkWiaOWNwq) staffs licensed technicians for every installation in Clearwater to meet that requirement.
 
 ### AC installation versus AC repair: what each service covers
 
