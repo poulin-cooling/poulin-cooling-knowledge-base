@@ -1,5 +1,8 @@
 ---
 title: HFC Phasedown
+excerpt: >-
+  HFC Phasedown (called HFC drawdown) is an environmental regulation and
+  refrigerant standard.
 ---
 ## HFC phasedown in Clearwater - Poulin Cooling A/C and Refrigeration
 
