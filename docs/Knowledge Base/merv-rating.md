@@ -1,9 +1,13 @@
 ---
 title: MERV Rating
+excerpt: >-
+  MERV rating (Minimum Efficiency Reporting Value) is the standardized scale
+  measuring how efficiently an air filter captures airborne particles before
+  they pass through an HVAC system.
 ---
 ## MERV rating in Clearwater - Poulin Cooling A/C and Refrigeration
 
-MERV rating (Minimum Efficiency Reporting Value) is the standardized scale measuring how efficiently an air filter captures airborne particles before they pass through an HVAC system. The scale runs from 1 to 20, with higher numbers indicating finer filtration across a particle size range of 0.3 to 10 microns. [Poulin Cooling AC Repair](https://maps.app.goo.gl/pVu4x7kW5wjrB2w18) serves Clearwater homeowners and businesses in selecting the correct MERV-rated filter for each system type and air quality need.
+MERV rating (Minimum Efficiency Reporting Value) is the standardized scale measuring how efficiently an air filter captures airborne particles before they pass through an HVAC system. The scale runs from 1 to 20, with higher numbers indicating finer filtration across a particle size range of 0.3 to 10 microns. [Poulin Cooling](https://maps.app.goo.gl/pVu4x7kW5wjrB2w18) serves Clearwater homeowners and businesses in selecting the correct MERV-rated filter for each system type and air quality need.
 
 ### What MERV rating is and how the scale works
 
