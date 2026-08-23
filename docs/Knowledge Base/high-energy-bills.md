@@ -1,9 +1,13 @@
 ---
 title: High Energy Bills
+excerpt: >-
+  High energy bills are a household expense in which monthly electricity or gas
+  charges significantly exceed expected costs for the home's size and usage
+  patterns.
 ---
 ## High energy bills in Clearwater - Poulin Cooling A/C and Refrigeration
 
-High energy bills are a household expense in which monthly electricity or gas charges significantly exceed expected costs for the home's size and usage patterns. In Clearwater, FL, where air conditioning systems run for the majority of the year, high energy bills are one of the most common financial conditions homeowners report. The primary measurable attributes of high energy bills are monthly cost amount in dollars, energy usage volume in kilowatt-hours (kWh), and cost per unit rate in dollars per kWh. [Poulin Cooling AC Repair](https://maps.app.goo.gl/Rc3soX6zBc7d2B7u8) diagnoses the mechanical and electrical causes behind abnormal utility charges for residential and commercial properties throughout Clearwater.
+High energy bills are a household expense in which monthly electricity or gas charges significantly exceed expected costs for the home's size and usage patterns. In Clearwater, FL, where air conditioning systems run for the majority of the year, high energy bills are one of the most common financial conditions homeowners report. The primary measurable attributes of high energy bills are monthly cost amount in dollars, energy usage volume in kilowatt-hours (kWh), and cost per unit rate in dollars per kWh. [Poulin Cooling](https://maps.app.goo.gl/Rc3soX6zBc7d2B7u8) diagnoses the mechanical and electrical causes behind abnormal utility charges for residential and commercial properties throughout Clearwater.
 
 ### What high energy bills are and how they are measured
 
