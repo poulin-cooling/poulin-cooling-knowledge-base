@@ -1,9 +1,13 @@
 ---
 title: AHRI Matched System
+excerpt: >-
+  An AHRI Matched System is a certified combination of a condenser, evaporator
+  coil, and air handler or furnace tested and verified together to deliver
+  published efficiency and capacity ratings.
 ---
 ## AHRI matched system in Clearwater - Poulin Cooling A/C and Refrigeration
 
-An AHRI Matched System is a certified combination of a condenser, evaporator coil, and air handler or furnace tested and verified together to deliver published efficiency and capacity ratings. It is a recognized HVAC Standard and Certification Standard. The Air-Conditioning, Heating, and Refrigeration Institute governs this certification. Every rated equipment match carries a unique AHRI certificate number confirming the combination was tested as a unit, not estimated from individual component specs. [Poulin Cooling AC Repair](https://maps.app.goo.gl/LeiBxBboXuuTxrjaA) works with AHRI-certified combinations when installing and replacing cooling equipment in Clearwater, FL.
+An AHRI Matched System is a certified combination of a condenser, evaporator coil, and air handler or furnace tested and verified together to deliver published efficiency and capacity ratings. It is a recognized HVAC Standard and Certification Standard. The Air-Conditioning, Heating, and Refrigeration Institute governs this certification. Every rated equipment match carries a unique AHRI certificate number confirming the combination was tested as a unit, not estimated from individual component specs. [Poulin Cooling](https://maps.app.goo.gl/LeiBxBboXuuTxrjaA) works with AHRI-certified combinations when installing and replacing cooling equipment in Clearwater, FL.
 
 ### What an AHRI matched system is
 
