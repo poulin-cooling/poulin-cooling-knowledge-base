@@ -1,5 +1,9 @@
 ---
 title: Reach-In Refrigerator
+excerpt: >-
+  A reach-in refrigerator is an upright self-contained commercial refrigerator
+  accessed from the front through one to three doors, used for quick-access
+  chilled storage in foodservice and retail…
 ---
 ## Reach-in refrigerator in Clearwater - Poulin Cooling A/C and Refrigeration
 
