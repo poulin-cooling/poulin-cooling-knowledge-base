@@ -1,5 +1,9 @@
 ---
 title: Condenser Fan Motor
+excerpt: >-
+  The condenser fan motor, called an outdoor fan motor, is a type of HVAC motor
+  that drives the fan blade on the outdoor unit, pulling air across the
+  condenser coil to expel heat absorbed from inside…
 ---
 ## Condenser fan motor in Clearwater - Poulin Cooling A/C and Refrigeration
 
