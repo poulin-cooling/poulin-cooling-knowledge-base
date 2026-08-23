@@ -1,5 +1,9 @@
 ---
 title: Duct Sealing
+excerpt: >-
+  Duct sealing is the process of applying sealant to HVAC ductwork to prevent
+  conditioned air from escaping through gaps, cracks, and disconnected joints
+  before it reaches living spaces.
 ---
 ## Duct sealing in Clearwater - Poulin Cooling A/C and Refrigeration
 
