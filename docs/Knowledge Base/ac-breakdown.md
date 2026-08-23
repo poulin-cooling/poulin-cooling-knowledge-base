@@ -1,5 +1,9 @@
 ---
 title: AC Breakdown
+excerpt: >-
+  AC breakdown is a malfunction that prevents an air conditioning system from
+  operating correctly, ranging in severity from partial performance degradation
+  to complete system failure.
 ---
 ## AC breakdown in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -21,7 +25,7 @@ AC breakdown carries three primary measurable attributes that define its impact 
 
 - **Temperature impact:** Temperature impact measures the degrees above the desired setpoint that the space reaches during the breakdown period. In a Clearwater summer, an unaddressed complete failure raises indoor temperatures to outdoor ambient levels within two to four hours.
 
-These three attributes together determine the urgency classification of the service call. A complete failure with a temperature impact exceeding 10 degrees above setpoint qualifies as an emergency HVAC service condition. [Poulin Cooling AC Repair](https://sl.bing.net/eoYMPXcvrDE) uses these measurable thresholds to prioritize dispatch order across active service calls.
+These three attributes together determine the urgency classification of the service call. A complete failure with a temperature impact exceeding 10 degrees above setpoint qualifies as an emergency HVAC service condition. [Poulin Cooling](https://sl.bing.net/eoYMPXcvrDE) uses these measurable thresholds to prioritize dispatch order across active service calls.
 
 ### How AC breakdown relates to the broader HVAC system
 
