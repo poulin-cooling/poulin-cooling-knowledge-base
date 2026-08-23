@@ -1,5 +1,9 @@
 ---
 title: Uneven Cooling
+excerpt: >-
+  Uneven cooling is a condition where indoor spaces experience inconsistent
+  temperature distribution, producing measurable differentials greater than 3°F
+  between rooms.
 ---
 ## Uneven cooling in Clearwater - Poulin Cooling A/C and Refrigeration
 
