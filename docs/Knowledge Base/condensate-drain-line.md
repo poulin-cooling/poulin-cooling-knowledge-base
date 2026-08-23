@@ -1,5 +1,6 @@
 ---
 title: Condensate Drain Line
+excerpt: A condensate drain line is both a drainage component and an HVAC component.
 ---
 ## Condensate drain line in Clearwater - Poulin Cooling A/C and Refrigeration
 
