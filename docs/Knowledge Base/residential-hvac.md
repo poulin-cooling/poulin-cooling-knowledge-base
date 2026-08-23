@@ -1,5 +1,8 @@
 ---
 title: Residential HVAC
+excerpt: >-
+  Residential HVAC is the integrated system of equipment and ductwork that
+  controls heating, ventilation, and air conditioning inside a home.
 ---
 ## Residential HVAC in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -23,7 +26,7 @@ Residential HVAC systems carry three primary measurable attributes that determin
 
 ### How residential HVAC relates to the broader system
 
-Residential HVAC is a type of HVAC system, which is the broader category covering all heating, ventilation, and air conditioning equipment regardless of application. The licensed contractor who installs and services residential HVAC equipment is classified as an [air conditioning contractor](doc:air-conditioning-contractor), a designation that requires state licensure and manufacturer certification in Florida. [Poulin Cooling AC Repair](https://sl.bing.net/2m0Syc7Ebc) operates as a licensed air conditioning contractor serving the Clearwater residential market.
+Residential HVAC is a type of HVAC system, which is the broader category covering all heating, ventilation, and air conditioning equipment regardless of application. The licensed contractor who installs and services residential HVAC equipment is classified as an [air conditioning contractor](doc:air-conditioning-contractor), a designation that requires state licensure and manufacturer certification in Florida. [Poulin Cooling](https://sl.bing.net/2m0Syc7Ebc) operates as a licensed air conditioning contractor serving the Clearwater residential market.
 
 The thermostat is the primary control interface for the entire residential HVAC system. A properly calibrated [thermostat](doc:thermostats) communicates set-point temperatures to both the cooling and heating equipment, coordinating run cycles to maintain consistent indoor conditions. Smart thermostats with programmable schedules reduce unnecessary run time and extend the service life of the air conditioning unit and heating system. Ductwork connects every component, and a breach or blockage in the duct network reduces system output regardless of equipment capacity or SEER rating.
 
