@@ -1,5 +1,8 @@
 ---
 title: Static Pressure Testing
+excerpt: >-
+  Static pressure testing is an HVAC diagnostic procedure that measures the
+  total resistance to airflow inside a duct system using a manometer.
 ---
 ## Static pressure testing in Clearwater - Poulin Cooling A/C and Refrigeration
 
