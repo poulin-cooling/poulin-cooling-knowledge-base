@@ -1,5 +1,6 @@
 ---
 title: AC Short Cycling
+excerpt: AC short cycling is an operational fault.
 ---
 ## AC short cycling in Clearwater - Poulin Cooling A/C and Refrigeration
 
