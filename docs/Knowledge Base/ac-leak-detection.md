@@ -1,5 +1,9 @@
 ---
 title: AC Leak Detection
+excerpt: >-
+  AC leak detection is the diagnostic process of locating refrigerant leaks in a
+  sealed cooling system before they cause compressor failure or complete system
+  shutdown.
 ---
 ## AC leak detection in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -39,11 +43,11 @@ Refrigerant leak detection, sometimes called a freon leak search, becomes necess
 
 ### What AC refrigerant leak detection is not
 
-Leak detection is not a refrigerant recharge. Adding refrigerant without locating the breach is guesswork: the charge returns to spec temporarily, but the leak continues until the system is undercharged again within weeks or months. An undiagnosed leak starves the compressor of the lubrication refrigerant carries. This leads to compressor failure, the most expensive single repair on a residential cooling system. Leak detection is not a pressure test performed with refrigerant still in the circuit. Nitrogen is the correct test gas. It is inert and safe to vent if the system must be opened. Using refrigerant as a test gas violates EPA venting prohibitions and produces an unreliable result, since refrigerant pressure shifts with ambient temperature throughout the hold period. [Poulin Cooling A/C and Refrigeration](https://share.google/1jyhsuUvXIIDxXu8X) holds a 5.0-star Google rating across more than 410 reviews from Clearwater-area customers.
+Leak detection is not a refrigerant recharge. Adding refrigerant without locating the breach is guesswork: the charge returns to spec temporarily, but the leak continues until the system is undercharged again within weeks or months. An undiagnosed leak starves the compressor of the lubrication refrigerant carries. This leads to compressor failure, the most expensive single repair on a residential cooling system. Leak detection is not a pressure test performed with refrigerant still in the circuit. Nitrogen is the correct test gas. It is inert and safe to vent if the system must be opened. Using refrigerant as a test gas violates EPA venting prohibitions and produces an unreliable result, since refrigerant pressure shifts with ambient temperature throughout the hold period. [Poulin Cooling A/C and Refrigeration](https://share.google/1jyhsuUvXIIDxXu8X) holds a 5.0-star Google rating from Clearwater-area customers.
 
 ### Where AC leak detection applies in Clearwater
 
-Clearwater's climate accelerates the conditions that cause refrigerant leaks. High ambient temperatures push condensing pressures higher, stressing brazed joints and flare fittings on the outdoor unit. Salt air from the Gulf corrodes copper tubing and aluminum fins, creating pinhole leaks that develop slowly over one to three cooling seasons. Systems that run ten or more months per year cycle through more pressure swings than systems in cooler climates, fatiguing the refrigerant circuit faster. [Poulin Cooling AC Repair](https://sl.bing.net/ig5qW82ZhkW) performs AC leak detection across Clearwater residential and light-commercial systems, applying electronic detection, UV dye tracing, and nitrogen pressure holds depending on what the system's history and symptoms call for. A confirmed leak location means the repair addresses the actual failure point, not a symptom.
+Clearwater's climate accelerates the conditions that cause refrigerant leaks. High ambient temperatures push condensing pressures higher, stressing brazed joints and flare fittings on the outdoor unit. Salt air from the Gulf corrodes copper tubing and aluminum fins, creating pinhole leaks that develop slowly over one to three cooling seasons. Systems that run ten or more months per year cycle through more pressure swings than systems in cooler climates, fatiguing the refrigerant circuit faster. [Poulin Cooling](https://sl.bing.net/ig5qW82ZhkW) performs AC leak detection across Clearwater residential and light-commercial systems, applying electronic detection, UV dye tracing, and nitrogen pressure holds depending on what the system's history and symptoms call for. A confirmed leak location means the repair addresses the actual failure point, not a symptom.
 
 ### Related entities
 
