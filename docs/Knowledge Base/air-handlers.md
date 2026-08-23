@@ -1,5 +1,9 @@
 ---
 title: Air Handlers
+excerpt: >-
+  Air handlers are indoor HVAC units that circulate conditioned air throughout a
+  building by housing the blower motor, air filter, and heat exchanger coil in a
+  single cabinet.
 ---
 ## Air handlers in Clearwater - Poulin Cooling A/C and Refrigeration
 
