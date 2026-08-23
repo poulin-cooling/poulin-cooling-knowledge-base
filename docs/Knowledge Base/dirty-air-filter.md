@@ -1,5 +1,9 @@
 ---
 title: Dirty Air Filter
+excerpt: >-
+  A dirty air filter is a clogged or blocked filter media condition in which
+  accumulated dust, debris, and airborne particles restrict airflow through an
+  HVAC system.
 ---
 ## Dirty air filter in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -11,7 +15,7 @@ A dirty air filter is a condition in which the filter media becomes saturated wi
 
 ### Measurable attributes of a dirty air filter
 
-A dirty air filter carries two primary measurable attributes that distinguish the condition from a clean filter. The first attribute is particle accumulation level, which registers as moderate to heavy in a filter requiring replacement or cleaning. The second attribute is filter media discoloration, which shifts from gray at moderate accumulation to black at heavy accumulation. These two measurements give HVAC technicians an objective basis for determining whether a filter has reached the dirty air filter condition threshold. A filter showing gray discoloration with moderate particle accumulation still restricts airflow enough to reduce system efficiency. A filter showing black discoloration with heavy accumulation creates severe airflow restriction that forces the HVAC system to work harder to maintain set temperatures. [Poulin Cooling AC Repair](https://sl.bing.net/qnPVWAlW8W) technicians inspect both attributes during scheduled maintenance visits in Clearwater.
+A dirty air filter carries two primary measurable attributes that distinguish the condition from a clean filter. The first attribute is particle accumulation level, which registers as moderate to heavy in a filter requiring replacement or cleaning. The second attribute is filter media discoloration, which shifts from gray at moderate accumulation to black at heavy accumulation. These two measurements give HVAC technicians an objective basis for determining whether a filter has reached the dirty air filter condition threshold. A filter showing gray discoloration with moderate particle accumulation still restricts airflow enough to reduce system efficiency. A filter showing black discoloration with heavy accumulation creates severe airflow restriction that forces the HVAC system to work harder to maintain set temperatures. [Poulin Cooling](https://sl.bing.net/qnPVWAlW8W) technicians inspect both attributes during scheduled maintenance visits in Clearwater.
 
 ### How a dirty air filter relates to the broader HVAC system
 
