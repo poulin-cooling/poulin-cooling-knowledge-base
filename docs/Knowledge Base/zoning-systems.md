@@ -1,5 +1,9 @@
 ---
 title: Zoning Systems
+excerpt: >-
+  Zoning systems divide a building into independently controlled temperature
+  zones, allowing each area to receive precise heating or cooling without
+  affecting the rest of the structure.
 ---
 ## Zoning systems in Clearwater - Poulin Cooling A/C and Refrigeration
 
