@@ -1,5 +1,9 @@
 ---
 title: Contactor Failure
+excerpt: >-
+  Contactor failure is the wear or burnout of the electrical relay that switches
+  high-voltage power to an air conditioner's outdoor unit, called a bad AC
+  contactor.
 ---
 ## Contactor failure in Clearwater - Poulin Cooling A/C and Refrigeration
 
