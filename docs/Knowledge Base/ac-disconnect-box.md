@@ -1,5 +1,9 @@
 ---
 title: AC Disconnect Box
+excerpt: >-
+  An AC disconnect box is a type of electrical safety device and HVAC component
+  mounted outdoors near the condenser unit that cuts all power to the system so
+  a technician can service it safely.
 ---
 ## AC disconnect box in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -51,7 +55,7 @@ A condenser disconnect that shows burn marks, trips repeatedly, or fails to hold
 
 AC disconnect replacement is the process of removing the existing enclosure, matching the new unit to the condenser's nameplate amperage and the local NEMA rating requirement, and reconnecting the line and load wiring to code. In Clearwater, the outdoor environment accelerates enclosure degradation, so NEMA 3R is the minimum acceptable rating for any replacement unit.
 
-Replacement is the right moment to upgrade from a non-fused to a fused configuration if the condenser's nameplate calls for it, or to correct an undersized 30-amp disconnect on a unit that draws closer to 45 amps. [Poulin Cooling AC Repair](https://sl.bing.net/gbE8BXOt3cG) carries replacement disconnects sized from 30 to 60 amps and handles the full swap, including inspection of the line-side wiring for heat damage before the new enclosure goes on.
+Replacement is the right moment to upgrade from a non-fused to a fused configuration if the condenser's nameplate calls for it, or to correct an undersized 30-amp disconnect on a unit that draws closer to 45 amps. [Poulin Cooling](https://sl.bing.net/gbE8BXOt3cG) carries replacement disconnects sized from 30 to 60 amps and handles the full swap, including inspection of the line-side wiring for heat damage before the new enclosure goes on.
 
 A correctly rated and properly mounted AC disconnect box keeps every subsequent service call safer, protects the condenser from overcurrent damage, and satisfies the code inspection that follows any permitted HVAC work in Clearwater. [Poulin Cooling Air Conditioning and Refrigeration](https://share.google/yaHoU5KLBGM0p3Dfk) performs this work as a Florida Certified Air Conditioning Contractor, License #CAC1819909.
 
