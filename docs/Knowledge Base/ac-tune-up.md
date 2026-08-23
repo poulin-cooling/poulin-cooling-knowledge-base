@@ -1,5 +1,9 @@
 ---
 title: AC Tune-Up
+excerpt: >-
+  AC tune-up is a seasonal service visit that inspects, cleans, and tests the
+  components of a cooling system, checking refrigerant level, electrical
+  connections, and mechanical parts in a single…
 ---
 ## AC tune-up in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -27,7 +31,7 @@ An AC tune-up checklist gives the visit its structure and makes the results repe
 
 ### How an AC tune-up relates to the broader cooling system
 
-An annual AC service sits at the center of a system's maintenance lifecycle. It prevents AC breakdown by catching worn capacitors, low refrigerant, and failing contactors before they cause a no-cool call in July. The visit restores cooling efficiency by cleaning heat-transfer surfaces and confirming airflow through the air handler. A licensed [air conditioning contractor](doc:air-conditioning-contractor) performs the service, applying the diagnostic knowledge needed to read amperage draws and refrigerant pressures accurately. Refrigerant work specifically requires EPA 608-certified handling, so a licensed technician must do it. [Poulin Cooling AC Repair](https://maps.app.goo.gl/cZBnDeiuXiDPNVZbA) serves Clearwater and the surrounding area, completing tune-ups on split systems, heat pumps, and package units.
+An annual AC service sits at the center of a system's maintenance lifecycle. It prevents AC breakdown by catching worn capacitors, low refrigerant, and failing contactors before they cause a no-cool call in July. The visit restores cooling efficiency by cleaning heat-transfer surfaces and confirming airflow through the air handler. A licensed [air conditioning contractor](doc:air-conditioning-contractor) performs the service, applying the diagnostic knowledge needed to read amperage draws and refrigerant pressures accurately. Refrigerant work specifically requires EPA 608-certified handling, so a licensed technician must do it. [Poulin Cooling](https://maps.app.goo.gl/cZBnDeiuXiDPNVZbA) serves Clearwater and the surrounding area, completing tune-ups on split systems, heat pumps, and package units.
 
 ### Signs a system needs a tune-up now
 
