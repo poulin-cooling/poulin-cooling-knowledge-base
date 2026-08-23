@@ -1,5 +1,5 @@
 ---
-title: 'SEER Rating: A Poulin Cooling A/C and Refrigeration Reference Guide'
+title: SEER Rating
 excerpt: >-
   SEER rating is the numerical standard that measures how efficiently an air
   conditioner converts electrical energy into cooling output across an entire
