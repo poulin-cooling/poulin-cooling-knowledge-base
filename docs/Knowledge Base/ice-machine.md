@@ -1,5 +1,9 @@
 ---
 title: Ice Machine
+excerpt: >-
+  An ice machine (called a commercial ice maker) is a type of commercial
+  refrigeration equipment that freezes water and dispenses it in cube, flake, or
+  nugget form on a continuous cycle.
 ---
 ## Ice machine in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -39,7 +43,7 @@ Mechanical wear shows up as unusual noise during the harvest cycle, water poolin
 
 Ice machines serve any commercial setting where ice volume exceeds what a residential unit or manual ice delivery can reliably supply. Restaurants and bars are the primary users. They rely on cube or nugget ice for beverages through every service period. Healthcare facilities use flake ice for patient care and specimen storage. Hotels deploy commercial ice dispensers on guest floors for guest access. Seafood markets and grocery delis use flake ice in display cases to keep product temperature compliant with food safety regulations.
 
-In Clearwater's climate, ambient heat is a constant factor. Air-cooled condenser models, the most common type, reject heat into the surrounding air, so a unit installed in a hot, poorly ventilated back-of-house space works harder and produces less ice than its rated capacity. Water-cooled models avoid that problem but require a condenser water loop. [Poulin Cooling AC Repair](https://sl.bing.net/jXZYHm7PpBs), a licensed [air conditioning contractor](doc:air-conditioning-contractor) serving the Clearwater area, assesses both the refrigeration system and the installation environment when servicing commercial ice makers, because ambient conditions directly affect production output and equipment longevity.
+In Clearwater's climate, ambient heat is a constant factor. Air-cooled condenser models, the most common type, reject heat into the surrounding air, so a unit installed in a hot, poorly ventilated back-of-house space works harder and produces less ice than its rated capacity. Water-cooled models avoid that problem but require a condenser water loop. [Poulin Cooling](https://sl.bing.net/jXZYHm7PpBs), a licensed [air conditioning contractor](doc:air-conditioning-contractor) serving the Clearwater area, assesses both the refrigeration system and the installation environment when servicing commercial ice makers, because ambient conditions directly affect production output and equipment longevity.
 
 ### Related entities
 
