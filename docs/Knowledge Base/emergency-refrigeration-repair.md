@@ -1,5 +1,9 @@
 ---
 title: Emergency Refrigeration Repair
+excerpt: >-
+  Emergency refrigeration repair is the urgent diagnosis and restoration of
+  commercial refrigeration equipment when a failure puts perishable inventory at
+  immediate risk of spoilage.
 ---
 ## Emergency refrigeration repair in Clearwater - Poulin Cooling A/C and Refrigeration
 
