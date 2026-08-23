@@ -1,5 +1,8 @@
 ---
 title: AC Maintenance
+excerpt: >-
+  AC maintenance is the professional, scheduled upkeep of an air conditioning
+  system to preserve efficiency and prevent breakdowns.
 ---
 ## AC maintenance in Clearwater - Poulin Cooling A/C and Refrigeration
 
