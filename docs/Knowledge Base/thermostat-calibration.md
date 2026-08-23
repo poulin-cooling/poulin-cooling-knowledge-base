@@ -1,5 +1,9 @@
 ---
 title: Thermostat Calibration
+excerpt: >-
+  Thermostat calibration is the process of verifying and correcting a
+  thermostat's temperature-reading accuracy against a calibrated reference
+  thermometer.
 ---
 ## Thermostat calibration in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -49,7 +53,7 @@ Thermostat calibration applies to every thermostat type in residential and light
 
 In Clearwater, high ambient humidity adds a layer of relevance. Humidity affects how occupants perceive temperature. A thermostat that reads 2°F high in a humid environment pushes the system to run longer than the actual thermal load demands. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/FS2xrKsqy3VQditEA) includes thermostat accuracy checks as part of its service visits because the local climate makes sensor tolerance a practical concern.
 
-For homeowners who want to calibrate a home thermostat between professional visits, the method is straightforward: tape a calibrated glass thermometer to the wall within a few inches of the thermostat, wait 15 minutes for it to stabilize, and compare the two readings. A gap larger than 2°F is the threshold for scheduling a professional thermostat adjustment. [Poulin Cooling AC Repair](https://sl.bing.net/jZvH0RXrr2a) handles the full correction, including offset programming and setting verification, as part of a standard tune-up visit. Scheduling through a qualified [air conditioning contractor](doc:air-conditioning-contractor) keeps the correction documented and tied to the broader system record.
+For homeowners who want to calibrate a home thermostat between professional visits, the method is straightforward: tape a calibrated glass thermometer to the wall within a few inches of the thermostat, wait 15 minutes for it to stabilize, and compare the two readings. A gap larger than 2°F is the threshold for scheduling a professional thermostat adjustment. [Poulin Cooling](https://sl.bing.net/jZvH0RXrr2a) handles the full correction, including offset programming and setting verification, as part of a standard tune-up visit. Scheduling through a qualified [air conditioning contractor](doc:air-conditioning-contractor) keeps the correction documented and tied to the broader system record.
 
 ### Related entities
 
