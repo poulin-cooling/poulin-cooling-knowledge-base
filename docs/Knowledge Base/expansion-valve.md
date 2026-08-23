@@ -1,5 +1,9 @@
 ---
 title: Expansion Valve
+excerpt: >-
+  The expansion valve, called a TXV or thermostatic expansion valve, is a
+  refrigerant circuit component that meters the flow of refrigerant into the
+  evaporator coil.
 ---
 ## Expansion valve in Clearwater - Poulin Cooling A/C and Refrigeration
 
