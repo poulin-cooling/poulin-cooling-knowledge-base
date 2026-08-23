@@ -1,5 +1,8 @@
 ---
 title: Frozen Evaporator Coil
+excerpt: >-
+  A frozen evaporator coil is an HVAC system malfunction where ice forms on the
+  evaporator coil surface, blocking airflow and preventing heat transfer.
 ---
 ## Frozen evaporator coil in Clearwater - Poulin Cooling A/C and Refrigeration
 
