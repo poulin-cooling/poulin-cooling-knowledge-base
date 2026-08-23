@@ -1,5 +1,9 @@
 ---
 title: Dehumidifier
+excerpt: >-
+  A dehumidifier is an air treatment appliance that removes excess moisture from
+  indoor air by drawing humid air across a cold coil, condensing the water
+  vapor, and collecting the extracted water in a…
 ---
 ## Dehumidifier in Clearwater - Poulin Cooling A/C and Refrigeration
 
@@ -39,17 +43,17 @@ Three measurable signs indicate a dehumidifier requires service. Indoor relative
 
 Dehumidifiers apply in any enclosed space where indoor relative humidity exceeds 50% RH for extended periods. Four primary application environments exist: **crawl spaces**, **basements**, **whole-house ducted systems**, and **commercial storage areas**. Crawl spaces accumulate ground moisture that migrates upward into the living area, raising whole-home humidity levels. Basements in Florida slab-on-grade construction trap moisture between the concrete and interior finishes, creating conditions for mold growth within 24 to 48 hours of sustained humidity above 70% RH. Whole-house ducted dehumidifiers treat every room simultaneously by conditioning the central air supply. Commercial storage areas for electronics, documents, or food products require humidity control below 50% RH to prevent corrosion, paper degradation, and microbial growth.
 
-Dehumidifier installation in Clearwater addresses the specific challenge of a subtropical climate where outdoor dew points average 70°F to 75°F from May through October. At those dew points, every door opening and duct infiltration point introduces moisture that a standard air conditioning system alone cannot fully remove. [Poulin Cooling](https://share.google/7GJzPveKY3KWcwDOj) installs dehumidifiers sized to the measured moisture load of each application type, from single-room portable units to whole-house systems integrated into the central duct network.
+Dehumidifier installation in Clearwater addresses the specific challenge of a subtropical climate where outdoor dew points average 70°F to 75°F from May through October. At those dew points, every door opening and duct infiltration point introduces moisture that a standard air conditioning system alone cannot fully remove. [Poulin Cooling](https://share.google/7GJzPveKY3KWcwDOj) offers dehumidifier options sized to the measured moisture load of each application type, with equipment selection depending on the space, duct configuration, and target humidity.
 
 ## Frequently asked questions about dehumidifier
 
 ### How much does a dehumidifier cost?
 
-Poulin Cooling A/C and Refrigeration does not publish dehumidifier pricing, so no cost figure is available. What is known: residential dehumidifiers remove 30 to 70 pints of moisture per day and consume 300 to 800 watts depending on capacity. Poulin Cooling performs a load calculation for each Clearwater property before recommending a unit size, ensuring the dehumidifier matches the actual moisture demand rather than a one-size-fits-all estimate. Call (727) 424-2222 for specifics.
+Poulin Cooling A/C and Refrigeration does not publish dehumidifier pricing, so no cost figure is available. What is known: residential dehumidifiers remove 30 to 70 pints of moisture per day and consume 300 to 800 watts depending on capacity. Unit sizing can vary with a property's measured moisture load, square footage, and duct configuration, so the recommended capacity depends on those conditions rather than a one-size-fits-all estimate. Call (727) 252-9602 for specifics.
 
 ### Do I need a dehumidifier?
 
-In Clearwater, FL, where humidity regularly exceeds 80% RH, a dehumidifier is strongly recommended for most homes. If indoor humidity stays above 60% RH, you notice condensation, or musty odors are present, a dehumidifier is likely needed. Poulin Cooling A/C and Refrigeration installs whole-house and portable dehumidifiers sized to your specific moisture load, helping protect your home and reduce strain on your AC system. Call (727) 424-2222 to schedule an assessment.
+A whole-home dehumidifier may be appropriate when measured indoor humidity remains elevated or the existing HVAC system cannot adequately manage moisture. The recommendation should be based on indoor measurements, building conditions, equipment operation, and the homeowner's objectives. Contact Poulin Cooling to confirm available equipment and installation options. Call (727) 252-9602 to schedule an assessment.
 
 ### What is a dehumidifier?
 
