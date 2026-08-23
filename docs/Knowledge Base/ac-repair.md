@@ -1,5 +1,8 @@
 ---
 title: AC Repair
+excerpt: >-
+  AC repair is the professional service of diagnosing and restoring a
+  malfunctioning air conditioning system to working order.
 ---
 ## AC repair in Clearwater - Poulin Cooling A/C and Refrigeration
 
