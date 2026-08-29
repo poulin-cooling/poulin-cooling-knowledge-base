@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Poulin Cooling A/C and Refrigeration",
+  "name": "Poulin Cooling A/C and Refrigeration Knowledge Base",
   "colors": {
     "primary": "#0B6BB3",
     "light": "#3B9CD9",
@@ -29,17 +29,6 @@
         ]
       },
       {
-        "group": "Air Distribution",
-        "pages": [
-          "airflow",
-          "ductwork",
-          "duct-sealing",
-          "air-duct-cleaning",
-          "ventilation",
-          "ductwork-installation"
-        ]
-      },
-      {
         "group": "Indoor Air Quality",
         "pages": [
           "humidity-control",
@@ -54,16 +43,10 @@
         ]
       },
       {
-        "group": "Controls",
-        "pages": [
-          "programmable-thermostat",
-          "thermostats",
-          "thermostat-calibration"
-        ]
-      },
-      {
         "group": "Efficiency & Sizing",
         "pages": [
+          "high-efficiency-air-conditioner",
+          "ac-system-load-calculation",
           "cooling-efficiency",
           "energy-efficiency",
           "seer-rating",
@@ -79,6 +62,7 @@
       {
         "group": "Diagnostics & Repairs",
         "pages": [
+          "uneven-home-cooling",
           "system-diagnostics",
           "preventative-maintenance",
           "ac-not-cooling",
@@ -94,6 +78,56 @@
           "refrigerant-recharge",
           "evaporator-coil",
           "condensate-drain-line"
+        ]
+      },
+      {
+        "group": "AC Installation",
+        "pages": [
+          "new-construction-ac-installation",
+          "ac-installation",
+          "line-set",
+          "ac-disconnect-box",
+          "system-commissioning",
+          "hvac-permits",
+          "ahri-matched-system"
+        ]
+      },
+      {
+        "group": "AC Maintenance",
+        "pages": [
+          "ac-maintenance",
+          "ac-tune-up",
+          "coil-cleaning",
+          "static-pressure-testing",
+          "ac-leak-detection",
+          "air-conditioner-lifespan",
+          "hvac-maintenance-plans",
+          "manufacturer-warranty-requirements"
+        ]
+      },
+      {
+        "group": "More Topics",
+        "pages": [
+          "old-ac-unit-removal"
+        ]
+      },
+      {
+        "group": "Air Distribution",
+        "pages": [
+          "airflow",
+          "ductwork",
+          "duct-sealing",
+          "air-duct-cleaning",
+          "ventilation",
+          "ductwork-installation"
+        ]
+      },
+      {
+        "group": "Controls",
+        "pages": [
+          "programmable-thermostat",
+          "thermostats",
+          "thermostat-calibration"
         ]
       },
       {
@@ -126,30 +160,6 @@
           "unusual-ac-noises",
           "ac-odors",
           "expansion-valve"
-        ]
-      },
-      {
-        "group": "AC Installation",
-        "pages": [
-          "ac-installation",
-          "line-set",
-          "ac-disconnect-box",
-          "system-commissioning",
-          "hvac-permits",
-          "ahri-matched-system"
-        ]
-      },
-      {
-        "group": "AC Maintenance",
-        "pages": [
-          "ac-maintenance",
-          "ac-tune-up",
-          "coil-cleaning",
-          "static-pressure-testing",
-          "ac-leak-detection",
-          "air-conditioner-lifespan",
-          "hvac-maintenance-plans",
-          "manufacturer-warranty-requirements"
         ]
       },
       {
