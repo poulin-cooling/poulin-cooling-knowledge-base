@@ -11,6 +11,12 @@
   "navigation": {
     "groups": [
       {
+        "group": "Core Services",
+        "pages": [
+          "fl-certified-air-conditioning-contractor-license"
+        ]
+      },
+      {
         "group": "Systems & Equipment",
         "pages": [
           "air-conditioning-contractor",
@@ -31,6 +37,7 @@
       {
         "group": "Indoor Air Quality",
         "pages": [
+          "high-indoor-humidity",
           "humidity-control",
           "dehumidifier",
           "indoor-air-quality-solutions",
@@ -84,6 +91,7 @@
         "group": "AC Installation",
         "pages": [
           "new-construction-ac-installation",
+          "ahri-certified-ac-equipment",
           "ac-installation",
           "line-set",
           "ac-disconnect-box",
@@ -108,6 +116,9 @@
       {
         "group": "More Topics",
         "pages": [
+          "multi-zone-mini-split-system",
+          "whole-home-air-filtration-system",
+          "plenum",
           "old-ac-unit-removal"
         ]
       },
