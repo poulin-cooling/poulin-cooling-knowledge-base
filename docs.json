@@ -70,6 +70,7 @@
       {
         "group": "Diagnostics & Repairs",
         "pages": [
+          "ac-system-replacement",
           "uneven-home-cooling",
           "system-diagnostics",
           "preventative-maintenance",
@@ -92,6 +93,7 @@
         "group": "AC Installation",
         "pages": [
           "new-construction-ac-installation",
+          "permit",
           "ahri-certified-ac-equipment",
           "ac-installation",
           "line-set",
@@ -138,7 +140,8 @@
           "multi-zone-mini-split-system",
           "whole-home-air-filtration-system",
           "plenum",
-          "old-ac-unit-removal"
+          "old-ac-unit-removal",
+          "energy-star-certified-ac-units"
         ]
       },
       {
