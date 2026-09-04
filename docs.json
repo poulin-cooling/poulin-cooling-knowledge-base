@@ -115,6 +115,15 @@
         ]
       },
       {
+        "group": "Service Area",
+        "pages": [
+          "serving-harbor-bluffs-fl",
+          "serving-belleair-bluffs-fl",
+          "serving-belleair-fl",
+          "serving-countryside-fl"
+        ]
+      },
+      {
         "group": "Reviews",
         "pages": [
           "poulin-cooling-ac-and-refrigeration-reviews"
