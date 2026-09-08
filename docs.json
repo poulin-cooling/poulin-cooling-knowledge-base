@@ -20,6 +20,7 @@
       {
         "group": "Systems & Equipment",
         "pages": [
+          "florida-ac-contractor-license",
           "air-conditioning-contractor",
           "central-air-conditioning-systems",
           "residential-hvac",
@@ -94,6 +95,7 @@
         "pages": [
           "new-construction-ac-installation",
           "permit",
+          "contractor-ac-installation-warranty",
           "ahri-certified-ac-equipment",
           "ac-installation",
           "line-set",
@@ -138,6 +140,7 @@
         "group": "More Topics",
         "pages": [
           "multi-zone-mini-split-system",
+          "split-system-air-conditioner",
           "whole-home-air-filtration-system",
           "plenum",
           "old-ac-unit-removal",
