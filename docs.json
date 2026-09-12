@@ -108,6 +108,7 @@
       {
         "group": "AC Maintenance",
         "pages": [
+          "extended-labor-warranty",
           "ac-maintenance",
           "ac-tune-up",
           "coil-cleaning",
@@ -143,6 +144,8 @@
           "split-system-air-conditioner",
           "whole-home-air-filtration-system",
           "plenum",
+          "wall-bracket-mount",
+          "aging-hvac-equipment",
           "old-ac-unit-removal",
           "energy-star-certified-ac-units"
         ]
