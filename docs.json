@@ -20,6 +20,7 @@
       {
         "group": "Systems & Equipment",
         "pages": [
+          "ductless-mini-split-installation",
           "florida-ac-contractor-license",
           "air-conditioning-contractor",
           "central-air-conditioning-systems",
@@ -72,6 +73,7 @@
         "group": "Diagnostics & Repairs",
         "pages": [
           "ac-system-replacement",
+          "electrical-disconnect-box",
           "uneven-home-cooling",
           "system-diagnostics",
           "preventative-maintenance",
@@ -143,10 +145,13 @@
           "multi-zone-mini-split-system",
           "split-system-air-conditioner",
           "whole-home-air-filtration-system",
+          "air-distribution-system",
           "plenum",
           "wall-bracket-mount",
+          "dedicated-circuit",
           "aging-hvac-equipment",
           "old-ac-unit-removal",
+          "equipment-sizing",
           "energy-star-certified-ac-units"
         ]
       },
