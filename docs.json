@@ -40,6 +40,7 @@
       {
         "group": "Indoor Air Quality",
         "pages": [
+          "uv-light-for-hvac-systems",
           "high-indoor-humidity",
           "humidity-control",
           "dehumidifier",
@@ -110,6 +111,7 @@
       {
         "group": "AC Maintenance",
         "pages": [
+          "manufacturers-ac-system-warranty",
           "extended-labor-warranty",
           "ac-maintenance",
           "ac-tune-up",
@@ -144,9 +146,12 @@
         "pages": [
           "multi-zone-mini-split-system",
           "split-system-air-conditioner",
+          "package-unit-air-conditioner",
           "whole-home-air-filtration-system",
           "air-distribution-system",
           "plenum",
+          "outdoor-unit-mounting-pad",
+          "concrete-pad",
           "wall-bracket-mount",
           "dedicated-circuit",
           "aging-hvac-equipment",
