@@ -42,12 +42,12 @@ Commercial buildings use zoning systems to separate server rooms, conference spa
 
 ### Related entities
 
-- [dirty air filter](dirty-air-filter.md) — parent entity (links up the chain — PRIMARY up-link)
+- [dirty air filter](dirty-air-filter.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [airflow](airflow.md) — sibling entity (same sub-cluster)
+- [airflow](airflow.md)
 
-- [ductwork](ductwork.md) — sibling entity (same sub-cluster)
+- [ductwork](ductwork.md)
 
-- [ventilation](ventilation.md) — sibling entity (same sub-cluster)
+- [ventilation](ventilation.md)

@@ -50,6 +50,6 @@ Commercial applications in Clearwater include retail spaces, restaurants, medica
 
 ### Related entities
 
-- [uv lights](uv-lights.md) — parent entity (links up the chain — PRIMARY up-link)
+- [uv lights](uv-lights.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)

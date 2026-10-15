@@ -48,10 +48,10 @@ Clogged drain lines apply to every split-system and packaged air conditioning un
 
 ### Related entities
 
-- [frozen evaporator coil](frozen-evaporator-coil.md) — parent entity (links up the chain — PRIMARY up-link)
+- [frozen evaporator coil](frozen-evaporator-coil.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ac not cooling](ac-not-cooling.md) — sibling entity (same sub-cluster)
+- [ac not cooling](ac-not-cooling.md)
 
-- [coolant leak](coolant-leak.md) — sibling entity (same sub-cluster)
+- [coolant leak](coolant-leak.md)

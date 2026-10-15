@@ -36,12 +36,12 @@ HEPA filters apply in 3 primary installation contexts: central HVAC systems, sta
 
 ### Related entities
 
-- [poor indoor air quality](poor-indoor-air-quality.md) — parent entity (links up the chain — PRIMARY up-link)
+- [poor indoor air quality](poor-indoor-air-quality.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [duct sealing](duct-sealing.md) — sibling entity (same sub-cluster)
+- [duct sealing](duct-sealing.md)
 
-- [air duct cleaning](air-duct-cleaning.md) — sibling entity (same sub-cluster)
+- [air duct cleaning](air-duct-cleaning.md)
 
-- [dehumidifier](dehumidifier.md) — sibling entity (same sub-cluster)
+- [dehumidifier](dehumidifier.md)

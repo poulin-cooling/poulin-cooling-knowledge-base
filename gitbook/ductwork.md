@@ -46,10 +46,10 @@ Flexible ductwork is the standard choice for residential branch runs because the
 
 ### Related entities
 
-- [airflow](airflow.md) — parent entity (links up the chain — PRIMARY up-link)
+- [airflow](airflow.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ventilation](ventilation.md) — sibling entity (same sub-cluster)
+- [ventilation](ventilation.md)
 
-- [zoning systems](zoning-systems.md) — sibling entity (same sub-cluster)
+- [zoning systems](zoning-systems.md)

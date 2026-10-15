@@ -57,7 +57,7 @@ Clearwater's climate creates year-round demand for air conditioning contractor s
 
 ### Related entities
 
-- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems)
 
 ---
 
@@ -121,9 +121,9 @@ Poulin Cooling A/C and Refrigeration provides air conditioning installation, rep
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
 ---
 
@@ -173,15 +173,15 @@ Residential HVAC applies to single-family homes, condominiums, townhomes, and sm
 
 ### Related entities
 
-- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems) — parent entity (links up the chain — PRIMARY up-link)
+- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
-- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency) — sibling entity (same sub-cluster)
+- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency)
 
 ---
 
@@ -255,11 +255,11 @@ Poulin Cooling A/C and Refrigeration does not publish specific pricing for ductl
 
 ### Related entities
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — parent entity (links up the chain — PRIMARY up-link)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems)
 
 ---
 
@@ -311,11 +311,11 @@ Heat pumps are HVAC systems that transfer heat between indoor and outdoor enviro
 
 ### Related entities
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — parent entity (links up the chain — PRIMARY up-link)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers) — sibling entity (same sub-cluster)
+- [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers)
 
 ---
 
@@ -375,13 +375,13 @@ Variable refrigerant flow is not suited for every application. Buildings with sh
 
 ### Related entities
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — parent entity (links up the chain — PRIMARY up-link)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers) — sibling entity (same sub-cluster)
+- [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers)
 
 ---
 
@@ -431,11 +431,11 @@ Air handlers serve residential, light commercial, and refrigeration applications
 
 ### Related entities
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — parent entity (links up the chain — PRIMARY up-link)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
 ---
 
@@ -503,15 +503,15 @@ A compressor is the mechanical heart of every air conditioning and refrigeration
 
 ### Related entities
 
-- [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers) — parent entity (links up the chain — PRIMARY up-link)
+- [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -561,15 +561,15 @@ Condenser units serve every property type that requires mechanical cooling, from
 
 ### Related entities
 
-- [compressors](https://poulincoolingacandrefrigeration.mintlify.app/compressors) — parent entity (links up the chain — PRIMARY up-link)
+- [compressors](https://poulincoolingacandrefrigeration.mintlify.app/compressors)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -621,15 +621,15 @@ Blower motors apply across every forced-air HVAC system type, including central 
 
 ### Related entities
 
-- [condenser units](https://poulincoolingacandrefrigeration.mintlify.app/condenser-units) — parent entity (links up the chain — PRIMARY up-link)
+- [condenser units](https://poulincoolingacandrefrigeration.mintlify.app/condenser-units)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -691,15 +691,15 @@ Airflow is the movement of air through an HVAC system, characterized by volume (
 
 ### Related entities
 
-- [blower motors](https://poulincoolingacandrefrigeration.mintlify.app/blower-motors) — parent entity (links up the chain — PRIMARY up-link)
+- [blower motors](https://poulincoolingacandrefrigeration.mintlify.app/blower-motors)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork) — sibling entity (same sub-cluster)
+- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork)
 
-- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation) — sibling entity (same sub-cluster)
+- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation)
 
-- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems) — sibling entity (same sub-cluster)
+- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems)
 
 ---
 
@@ -761,13 +761,13 @@ Ductwork is a system of conduits that delivers and removes conditioned air throu
 
 ### Related entities
 
-- [airflow](https://poulincoolingacandrefrigeration.mintlify.app/airflow) — parent entity (links up the chain — PRIMARY up-link)
+- [airflow](https://poulincoolingacandrefrigeration.mintlify.app/airflow)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation) — sibling entity (same sub-cluster)
+- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation)
 
-- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems) — sibling entity (same sub-cluster)
+- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems)
 
 ---
 
@@ -819,15 +819,15 @@ Plenum joints, where the main trunk connects to the air handler cabinet, experie
 
 ### Related entities
 
-- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork) — parent entity (links up the chain — PRIMARY up-link)
+- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
-- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter) — sibling entity (same sub-cluster)
+- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter)
 
 ---
 
@@ -889,13 +889,13 @@ Air duct cleaning is the mechanical removal of dust, debris, and contaminants fr
 
 ### Related entities
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — parent entity (links up the chain — PRIMARY up-link)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
-- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter) — sibling entity (same sub-cluster)
+- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter)
 
 ---
 
@@ -977,15 +977,15 @@ Ventilation is the intentional introduction and removal of air from a space, mea
 
 ### Related entities
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — parent entity (links up the chain — PRIMARY up-link)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [airflow](https://poulincoolingacandrefrigeration.mintlify.app/airflow) — sibling entity (same sub-cluster)
+- [airflow](https://poulincoolingacandrefrigeration.mintlify.app/airflow)
 
-- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork) — sibling entity (same sub-cluster)
+- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork)
 
-- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems) — sibling entity (same sub-cluster)
+- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems)
 
 ---
 
@@ -1051,15 +1051,15 @@ Yes, AC systems can control humidity. Poulin Cooling A/C and Refrigeration expla
 
 ### Related entities
 
-- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation) — parent entity (links up the chain — PRIMARY up-link)
+- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
 ---
 
@@ -1121,15 +1121,15 @@ A dehumidifier is an air treatment appliance that removes excess moisture from i
 
 ### Related entities
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — parent entity (links up the chain — PRIMARY up-link)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter) — sibling entity (same sub-cluster)
+- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter)
 
 ---
 
@@ -1171,15 +1171,15 @@ Indoor air quality solutions apply in residential buildings and commercial build
 
 ### Related entities
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — parent entity (links up the chain — PRIMARY up-link)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
-- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency) — sibling entity (same sub-cluster)
+- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency)
 
 ---
 
@@ -1221,15 +1221,15 @@ Poor indoor air quality applies to any occupied indoor space where mechanical ve
 
 ### Related entities
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — parent entity (links up the chain — PRIMARY up-link)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
 ---
 
@@ -1285,15 +1285,15 @@ True HEPA media meets a laboratory test standard for capturing particles as smal
 
 ### Related entities
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — parent entity (links up the chain — PRIMARY up-link)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
 ---
 
@@ -1325,15 +1325,15 @@ UV lights apply in 3 primary installation locations within air conditioning syst
 
 ### Related entities
 
-- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter) — parent entity (links up the chain — PRIMARY up-link)
+- [hepa filter](https://poulincoolingacandrefrigeration.mintlify.app/hepa-filter)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
 ---
 
@@ -1399,9 +1399,9 @@ Air filters are devices that remove particulate matter from an HVAC air stream, 
 
 ### Related entities
 
-- [uv lights](https://poulincoolingacandrefrigeration.mintlify.app/uv-lights) — parent entity (links up the chain — PRIMARY up-link)
+- [uv lights](https://poulincoolingacandrefrigeration.mintlify.app/uv-lights)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
 ---
 
@@ -1453,15 +1453,15 @@ A dirty air filter is a clogged filter media condition caused by accumulated dus
 
 ### Related entities
 
-- [air filters](https://poulincoolingacandrefrigeration.mintlify.app/air-filters) — parent entity (links up the chain — PRIMARY up-link)
+- [air filters](https://poulincoolingacandrefrigeration.mintlify.app/air-filters)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
 ---
 
@@ -1509,15 +1509,15 @@ Commercial buildings use zoning systems to separate server rooms, conference spa
 
 ### Related entities
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — parent entity (links up the chain — PRIMARY up-link)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [airflow](https://poulincoolingacandrefrigeration.mintlify.app/airflow) — sibling entity (same sub-cluster)
+- [airflow](https://poulincoolingacandrefrigeration.mintlify.app/airflow)
 
-- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork) — sibling entity (same sub-cluster)
+- [ductwork](https://poulincoolingacandrefrigeration.mintlify.app/ductwork)
 
-- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation) — sibling entity (same sub-cluster)
+- [ventilation](https://poulincoolingacandrefrigeration.mintlify.app/ventilation)
 
 ---
 
@@ -1579,15 +1579,15 @@ Clearwater's subtropical climate means the cooling season extends across 10 or m
 
 ### Related entities
 
-- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems) — parent entity (links up the chain — PRIMARY up-link)
+- [zoning systems](https://poulincoolingacandrefrigeration.mintlify.app/zoning-systems)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
 ---
 
@@ -1649,15 +1649,15 @@ A thermostat is a temperature control device that automatically regulates HVAC s
 
 ### Related entities
 
-- [programmable thermostat](https://poulincoolingacandrefrigeration.mintlify.app/programmable-thermostat) — parent entity (links up the chain — PRIMARY up-link)
+- [programmable thermostat](https://poulincoolingacandrefrigeration.mintlify.app/programmable-thermostat)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency) — sibling entity (same sub-cluster)
+- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency)
 
 ---
 
@@ -1723,13 +1723,13 @@ Cooling efficiency (known as cooling effectiveness or SEER rating in residential
 
 ### Related entities
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — parent entity (links up the chain — PRIMARY up-link)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [system diagnostics](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics) — sibling entity (same sub-cluster)
+- [system diagnostics](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics)
 
-- [hvac system energy management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management) — sibling entity (same sub-cluster)
+- [hvac system energy management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management)
 
 ---
 
@@ -1815,15 +1815,15 @@ Energy efficiency measures how much useful cooling or heating a system produces 
 
 ### Related entities
 
-- [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency) — parent entity (links up the chain — PRIMARY up-link)
+- [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
 ---
 
@@ -1889,15 +1889,15 @@ SEER rating — Seasonal Energy Efficiency Ratio — is the numerical standard m
 
 ### Related entities
 
-- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency) — parent entity (links up the chain — PRIMARY up-link)
+- [energy efficiency](https://poulincoolingacandrefrigeration.mintlify.app/energy-efficiency)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
-- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation)
 
 ---
 
@@ -1975,13 +1975,13 @@ BTU (British Thermal Unit) is the standard unit of heat energy used to measure h
 
 ### Related entities
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — parent entity (links up the chain — PRIMARY up-link)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
-- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation)
 
 ---
 
@@ -2041,13 +2041,13 @@ Tonnage is the unit of measurement that defines an air conditioning system's coo
 
 ### Related entities
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — parent entity (links up the chain — PRIMARY up-link)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation)
 
 ---
 
@@ -2117,13 +2117,13 @@ Poulin Cooling A/C and Refrigeration performs load calculations for residential 
 
 ### Related entities
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — parent entity (links up the chain — PRIMARY up-link)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
 ---
 
@@ -2193,15 +2193,15 @@ Manual J is the ACCA standard for calculating residential heating and cooling lo
 
 ### Related entities
 
-- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation) — parent entity (links up the chain — PRIMARY up-link)
+- [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
 ---
 
@@ -2257,13 +2257,13 @@ Clearwater's average summer ambient temperature exceeds 90 degrees Fahrenheit on
 
 ### Related entities
 
-- [manual j](https://poulincoolingacandrefrigeration.mintlify.app/manual-j) — parent entity (links up the chain — PRIMARY up-link)
+- [manual j](https://poulincoolingacandrefrigeration.mintlify.app/manual-j)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency) — sibling entity (same sub-cluster)
+- [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency)
 
-- [hvac system energy management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management) — sibling entity (same sub-cluster)
+- [hvac system energy management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management)
 
 ---
 
@@ -2313,15 +2313,15 @@ Preventative maintenance applies to residential split systems, commercial packag
 
 ### Related entities
 
-- [system diagnostics](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics) — parent entity (links up the chain — PRIMARY up-link)
+- [system diagnostics](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
 ---
 
@@ -2383,15 +2383,15 @@ AC not cooling occurs when an air conditioner runs but fails to lower indoor tem
 
 ### Related entities
 
-- [preventative maintenance](https://poulincoolingacandrefrigeration.mintlify.app/preventative-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [preventative maintenance](https://poulincoolingacandrefrigeration.mintlify.app/preventative-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak) — sibling entity (same sub-cluster)
+- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak)
 
-- [frozen evaporator coil](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil) — sibling entity (same sub-cluster)
+- [frozen evaporator coil](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil)
 
-- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines) — sibling entity (same sub-cluster)
+- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines)
 
 ---
 
@@ -2449,15 +2449,15 @@ Uneven cooling in multi-zone structures requires zone-by-zone airflow measuremen
 
 ### Related entities
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — parent entity (links up the chain — PRIMARY up-link)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
 ---
 
@@ -2513,15 +2513,15 @@ AC breakdown carries the alternate names AC failure and HVAC malfunction in serv
 
 ### Related entities
 
-- [uneven cooling](https://poulincoolingacandrefrigeration.mintlify.app/uneven-cooling) — parent entity (links up the chain — PRIMARY up-link)
+- [uneven cooling](https://poulincoolingacandrefrigeration.mintlify.app/uneven-cooling)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
 ---
 
@@ -2599,15 +2599,15 @@ Poulin Cooling A/C and Refrigeration provides AC repair near Clearwater, FL, ser
 
 ### Related entities
 
-- [ac breakdown](https://poulincoolingacandrefrigeration.mintlify.app/ac-breakdown) — parent entity (links up the chain — PRIMARY up-link)
+- [ac breakdown](https://poulincoolingacandrefrigeration.mintlify.app/ac-breakdown)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
 ---
 
@@ -2657,15 +2657,15 @@ The context provided by Poulin Cooling A/C and Refrigeration does not contain sp
 
 ### Related entities
 
-- [emergency ac repair](https://poulincoolingacandrefrigeration.mintlify.app/emergency-ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [emergency ac repair](https://poulincoolingacandrefrigeration.mintlify.app/emergency-ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
 ---
 
@@ -2723,15 +2723,15 @@ Yes, coolant leaks can occur in AC systems when refrigerant escapes through conn
 
 ### Related entities
 
-- [ac unit replacement](https://poulincoolingacandrefrigeration.mintlify.app/ac-unit-replacement) — parent entity (links up the chain — PRIMARY up-link)
+- [ac unit replacement](https://poulincoolingacandrefrigeration.mintlify.app/ac-unit-replacement)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
-- [frozen evaporator coil](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil) — sibling entity (same sub-cluster)
+- [frozen evaporator coil](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil)
 
-- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines) — sibling entity (same sub-cluster)
+- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines)
 
 ---
 
@@ -2789,15 +2789,15 @@ Refrigerant is a chemical compound that absorbs and releases heat inside a close
 
 ### Related entities
 
-- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak) — parent entity (links up the chain — PRIMARY up-link)
+- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
 ---
 
@@ -2847,15 +2847,15 @@ Frozen evaporator coil conditions apply to split-system air conditioners, heat p
 
 ### Related entities
 
-- [refrigerant](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant) — parent entity (links up the chain — PRIMARY up-link)
+- [refrigerant](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
-- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak) — sibling entity (same sub-cluster)
+- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak)
 
-- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines) — sibling entity (same sub-cluster)
+- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines)
 
 ---
 
@@ -2909,13 +2909,13 @@ Clogged drain lines apply to every split-system and packaged air conditioning un
 
 ### Related entities
 
-- [frozen evaporator coil](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil) — parent entity (links up the chain — PRIMARY up-link)
+- [frozen evaporator coil](https://poulincoolingacandrefrigeration.mintlify.app/frozen-evaporator-coil)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](https://poulincoolingacandrefrigeration.mintlify.app/ac-not-cooling)
 
-- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak) — sibling entity (same sub-cluster)
+- [coolant leak](https://poulincoolingacandrefrigeration.mintlify.app/coolant-leak)
 
 ---
 
@@ -2975,15 +2975,15 @@ Electrical malfunctions in the outdoor condenser are linked to drain system cond
 
 ### Related entities
 
-- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines) — parent entity (links up the chain — PRIMARY up-link)
+- [clogged drain lines](https://poulincoolingacandrefrigeration.mintlify.app/clogged-drain-lines)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
 ---
 
@@ -3053,15 +3053,15 @@ A high energy bill is a financial condition in which monthly electricity or gas 
 
 ### Related entities
 
-- [electrical malfunctions](https://poulincoolingacandrefrigeration.mintlify.app/electrical-malfunctions) — parent entity (links up the chain — PRIMARY up-link)
+- [electrical malfunctions](https://poulincoolingacandrefrigeration.mintlify.app/electrical-malfunctions)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
 ---
 
@@ -3119,15 +3119,15 @@ Comfort is an indoor physical state influenced by air temperature, humidity, air
 
 ### Related entities
 
-- [high energy bills](https://poulincoolingacandrefrigeration.mintlify.app/high-energy-bills) — parent entity (links up the chain — PRIMARY up-link)
+- [high energy bills](https://poulincoolingacandrefrigeration.mintlify.app/high-energy-bills)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
 ---
 
@@ -3177,15 +3177,15 @@ Homeowners apply as the primary user type across every residential HVAC service 
 
 ### Related entities
 
-- [comfort](https://poulincoolingacandrefrigeration.mintlify.app/comfort) — parent entity (links up the chain — PRIMARY up-link)
+- [comfort](https://poulincoolingacandrefrigeration.mintlify.app/comfort)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [commercial property managers](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers) — sibling entity (same sub-cluster)
+- [commercial property managers](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers)
 
-- [landlords](https://poulincoolingacandrefrigeration.mintlify.app/landlords) — sibling entity (same sub-cluster)
+- [landlords](https://poulincoolingacandrefrigeration.mintlify.app/landlords)
 
-- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders) — sibling entity (same sub-cluster)
+- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders)
 
 ---
 
@@ -3257,13 +3257,13 @@ Commercial property managers apply HVAC contractor services across 5 primary bui
 
 ### Related entities
 
-- [homeowners](https://poulincoolingacandrefrigeration.mintlify.app/homeowners) — parent entity (links up the chain — PRIMARY up-link)
+- [homeowners](https://poulincoolingacandrefrigeration.mintlify.app/homeowners)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [landlords](https://poulincoolingacandrefrigeration.mintlify.app/landlords) — sibling entity (same sub-cluster)
+- [landlords](https://poulincoolingacandrefrigeration.mintlify.app/landlords)
 
-- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders) — sibling entity (same sub-cluster)
+- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders)
 
 ---
 
@@ -3301,13 +3301,13 @@ Landlords are property owners who lease residential or commercial spaces to tena
 
 ### Related entities
 
-- [commercial property managers](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial property managers](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [homeowners](https://poulincoolingacandrefrigeration.mintlify.app/homeowners) — sibling entity (same sub-cluster)
+- [homeowners](https://poulincoolingacandrefrigeration.mintlify.app/homeowners)
 
-- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders) — sibling entity (same sub-cluster)
+- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders)
 
 ---
 
@@ -3371,13 +3371,13 @@ New construction refers to building residential or commercial properties from th
 
 ### Related entities
 
-- [landlords](https://poulincoolingacandrefrigeration.mintlify.app/landlords) — parent entity (links up the chain — PRIMARY up-link)
+- [landlords](https://poulincoolingacandrefrigeration.mintlify.app/landlords)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [homeowners](https://poulincoolingacandrefrigeration.mintlify.app/homeowners) — sibling entity (same sub-cluster)
+- [homeowners](https://poulincoolingacandrefrigeration.mintlify.app/homeowners)
 
-- [commercial property managers](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers) — sibling entity (same sub-cluster)
+- [commercial property managers](https://poulincoolingacandrefrigeration.mintlify.app/commercial-property-managers)
 
 ---
 
@@ -3445,9 +3445,9 @@ Building codes protect property owners from these failure modes when a licensed 
 
 ### Related entities
 
-- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders) — parent entity (links up the chain — PRIMARY up-link)
+- [new construction builders](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-builders)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
 ---
 
@@ -3497,13 +3497,13 @@ Clearwater's climate profile, characterized by high relative humidity and a cool
 
 ### Related entities
 
-- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes) — parent entity (links up the chain — PRIMARY up-link)
+- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency) — sibling entity (same sub-cluster)
+- [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency)
 
-- [system diagnostics](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics) — sibling entity (same sub-cluster)
+- [system diagnostics](https://poulincoolingacandrefrigeration.mintlify.app/system-diagnostics)
 
 ---
 
@@ -3569,11 +3569,11 @@ Hiring a technician without active NATE certification increases the risk of inco
 
 ### Related entities
 
-- [hvac system energy management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management) — parent entity (links up the chain — PRIMARY up-link)
+- [hvac system energy management](https://poulincoolingacandrefrigeration.mintlify.app/hvac-system-energy-management)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [hvac licensing](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing) — sibling entity (same sub-cluster)
+- [hvac licensing](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing)
 
 ---
 
@@ -3637,11 +3637,11 @@ EPA Section 608 Certification applies to every stationary refrigerant-containing
 
 ### Related entities
 
-- [nate certification](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification) — parent entity (links up the chain — PRIMARY up-link)
+- [nate certification](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [hvac licensing](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing) — sibling entity (same sub-cluster)
+- [hvac licensing](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing)
 
 ---
 
@@ -3703,11 +3703,11 @@ The licensed contractor holds the legal accountability for work performed on a p
 
 ### Related entities
 
-- [epa section 608 certification](https://poulincoolingacandrefrigeration.mintlify.app/epa-section-608-certification) — parent entity (links up the chain — PRIMARY up-link)
+- [epa section 608 certification](https://poulincoolingacandrefrigeration.mintlify.app/epa-section-608-certification)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [nate certification](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification) — sibling entity (same sub-cluster)
+- [nate certification](https://poulincoolingacandrefrigeration.mintlify.app/nate-certification)
 
 ---
 
@@ -3779,15 +3779,15 @@ MERV rating (Minimum Efficiency Reporting Value) is a standardized scale from 1 
 
 ### Related entities
 
-- [hvac licensing](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing) — parent entity (links up the chain — PRIMARY up-link)
+- [hvac licensing](https://poulincoolingacandrefrigeration.mintlify.app/hvac-licensing)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
 ---
 
@@ -3841,9 +3841,9 @@ AC repair cost depends on the specific component that failed, the refrigerant ty
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems)
 
 ---
 
@@ -3899,11 +3899,11 @@ Equipment type determines where a technician looks first. Recognizing the system
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [contactor failure](https://poulincoolingacandrefrigeration.mintlify.app/contactor-failure) — sibling entity (same sub-cluster)
+- [contactor failure](https://poulincoolingacandrefrigeration.mintlify.app/contactor-failure)
 
 ---
 
@@ -3967,11 +3967,11 @@ Contactor failure applies to virtually every split-system and package-unit air c
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [capacitor failure](https://poulincoolingacandrefrigeration.mintlify.app/capacitor-failure) — sibling entity (same sub-cluster)
+- [capacitor failure](https://poulincoolingacandrefrigeration.mintlify.app/capacitor-failure)
 
 ---
 
@@ -4033,15 +4033,15 @@ AC short cycling applies to any split-system or packaged air conditioner, includ
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 
-- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality)
 
-- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](https://poulincoolingacandrefrigeration.mintlify.app/dirty-air-filter)
 
 ---
 
@@ -4101,11 +4101,11 @@ In Clearwater, FL, the combination of high humidity, frequent afternoon thunders
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac breakdown](https://poulincoolingacandrefrigeration.mintlify.app/ac-breakdown) — sibling entity (same sub-cluster)
+- [ac breakdown](https://poulincoolingacandrefrigeration.mintlify.app/ac-breakdown)
 
 ---
 
@@ -4155,11 +4155,11 @@ The system components most commonly implicated across all five sound types are t
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac odors](https://poulincoolingacandrefrigeration.mintlify.app/ac-odors) — sibling entity (same sub-cluster)
+- [ac odors](https://poulincoolingacandrefrigeration.mintlify.app/ac-odors)
 
 ---
 
@@ -4217,11 +4217,11 @@ Homeowners who notice any air conditioner odor beyond a brief dusty smell at the
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [unusual ac noises](https://poulincoolingacandrefrigeration.mintlify.app/unusual-ac-noises) — sibling entity (same sub-cluster)
+- [unusual ac noises](https://poulincoolingacandrefrigeration.mintlify.app/unusual-ac-noises)
 
 ---
 
@@ -4259,15 +4259,15 @@ Expansion valve diagnosis and TXV replacement are part of the refrigerant circui
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -4327,15 +4327,15 @@ Condenser fan motors appear in every system that uses an outdoor condensing unit
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -4395,11 +4395,11 @@ Compressor replacement applies to split-system air conditioners, heat pumps, pac
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [refrigerant recharge](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant-recharge) — sibling entity (same sub-cluster)
+- [refrigerant recharge](https://poulincoolingacandrefrigeration.mintlify.app/refrigerant-recharge)
 
 ---
 
@@ -4453,11 +4453,11 @@ Refrigerant recharge applies to central split systems, package units, mini-split
 
 ### Related entities
 
-- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [compressor replacement](https://poulincoolingacandrefrigeration.mintlify.app/compressor-replacement) — sibling entity (same sub-cluster)
+- [compressor replacement](https://poulincoolingacandrefrigeration.mintlify.app/compressor-replacement)
 
 ---
 
@@ -4505,11 +4505,11 @@ Central AC installation applies to any residential or light-commercial property 
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems)
 
-- [ac repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — sibling entity (same sub-cluster)
+- [ac repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
 ---
 
@@ -4565,15 +4565,15 @@ Coil selection during replacement follows the same matching rules as new install
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -4625,15 +4625,15 @@ Clearwater's UV exposure and salt air accelerate insulation degradation on exter
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -4693,15 +4693,15 @@ Commercial applications add complexity. A multi-zone office building or retail s
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -4763,15 +4763,15 @@ A correctly rated and properly mounted AC disconnect box keeps every subsequent 
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -4839,15 +4839,15 @@ The installation sequence starts with the trunk line, which runs from the air ha
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
 ---
 
@@ -4895,15 +4895,15 @@ Federal regulations prohibit the venting of refrigerants during charging or reco
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](https://poulincoolingacandrefrigeration.mintlify.app/duct-sealing)
 
-- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](https://poulincoolingacandrefrigeration.mintlify.app/air-duct-cleaning)
 
-- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](https://poulincoolingacandrefrigeration.mintlify.app/dehumidifier)
 
 ---
 
@@ -4973,11 +4973,11 @@ Timeline depends on the issuing authority's current workload and whether the app
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes) — sibling entity (same sub-cluster)
+- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes)
 
 ---
 
@@ -5029,15 +5029,15 @@ SEER2 Rating applies to all new residential split-system air conditioners and he
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
 ---
 
@@ -5089,15 +5089,15 @@ AHRI matched systems apply to every new AC installation and full system replacem
 
 ### Related entities
 
-- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](https://poulincoolingacandrefrigeration.mintlify.app/ac-installation)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
 ---
 
@@ -5149,9 +5149,9 @@ Annual AC maintenance in Clearwater carries more weight than in cooler climates.
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — sibling entity (same sub-cluster)
+- [ac repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
 ---
 
@@ -5199,13 +5199,13 @@ Clearwater's climate puts cooling systems under sustained load for eight or more
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [coil cleaning](https://poulincoolingacandrefrigeration.mintlify.app/coil-cleaning) — sibling entity (same sub-cluster)
+- [coil cleaning](https://poulincoolingacandrefrigeration.mintlify.app/coil-cleaning)
 
-- [thermostat calibration](https://poulincoolingacandrefrigeration.mintlify.app/thermostat-calibration) — sibling entity (same sub-cluster)
+- [thermostat calibration](https://poulincoolingacandrefrigeration.mintlify.app/thermostat-calibration)
 
 ---
 
@@ -5245,13 +5245,13 @@ Coil cleaning applies to any split-system air conditioner, heat pump, or package
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac tune-up](https://poulincoolingacandrefrigeration.mintlify.app/ac-tune-up) — sibling entity (same sub-cluster)
+- [ac tune-up](https://poulincoolingacandrefrigeration.mintlify.app/ac-tune-up)
 
-- [thermostat calibration](https://poulincoolingacandrefrigeration.mintlify.app/thermostat-calibration) — sibling entity (same sub-cluster)
+- [thermostat calibration](https://poulincoolingacandrefrigeration.mintlify.app/thermostat-calibration)
 
 ---
 
@@ -5309,13 +5309,13 @@ For homeowners who want to calibrate a home thermostat between professional visi
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac tune-up](https://poulincoolingacandrefrigeration.mintlify.app/ac-tune-up) — sibling entity (same sub-cluster)
+- [ac tune-up](https://poulincoolingacandrefrigeration.mintlify.app/ac-tune-up)
 
-- [coil cleaning](https://poulincoolingacandrefrigeration.mintlify.app/coil-cleaning) — sibling entity (same sub-cluster)
+- [coil cleaning](https://poulincoolingacandrefrigeration.mintlify.app/coil-cleaning)
 
 ---
 
@@ -5373,11 +5373,11 @@ Static pressure testing applies across residential and light commercial HVAC ins
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ac leak detection](https://poulincoolingacandrefrigeration.mintlify.app/ac-leak-detection) — sibling entity (same sub-cluster)
+- [ac leak detection](https://poulincoolingacandrefrigeration.mintlify.app/ac-leak-detection)
 
 ---
 
@@ -5429,11 +5429,11 @@ Clearwater's climate accelerates the conditions that cause refrigerant leaks. Hi
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [static pressure testing](https://poulincoolingacandrefrigeration.mintlify.app/static-pressure-testing) — sibling entity (same sub-cluster)
+- [static pressure testing](https://poulincoolingacandrefrigeration.mintlify.app/static-pressure-testing)
 
 ---
 
@@ -5495,15 +5495,15 @@ Rising utility bills on a system with no change in usage patterns indicate decli
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating)
 
-- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu) — sibling entity (same sub-cluster)
+- [btu](https://poulincoolingacandrefrigeration.mintlify.app/btu)
 
-- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage) — sibling entity (same sub-cluster)
+- [tonnage](https://poulincoolingacandrefrigeration.mintlify.app/tonnage)
 
 ---
 
@@ -5573,15 +5573,15 @@ Planned service programs are especially relevant for systems approaching five or
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
 ---
 
@@ -5659,13 +5659,13 @@ Manufacturer warranty terms vary by manufacturer, model, and state law, and loca
 
 ### Related entities
 
-- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes) — sibling entity (same sub-cluster)
+- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes)
 
-- [hvac permits](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits) — sibling entity (same sub-cluster)
+- [hvac permits](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits)
 
 ---
 
@@ -5727,11 +5727,11 @@ Restaurant refrigeration service is the most common application. Commercial cool
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-systems)
 
-- [ac repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) — sibling entity (same sub-cluster)
+- [ac repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair)
 
 ---
 
@@ -5769,15 +5769,15 @@ Walk-in coolers appear in restaurants, grocery stores, convenience stores, hotel
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [walk-in freezer](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-freezer) — sibling entity (same sub-cluster)
+- [walk-in freezer](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-freezer)
 
-- [reach-in refrigerator](https://poulincoolingacandrefrigeration.mintlify.app/reach-in-refrigerator) — sibling entity (same sub-cluster)
+- [reach-in refrigerator](https://poulincoolingacandrefrigeration.mintlify.app/reach-in-refrigerator)
 
-- [ice machine](https://poulincoolingacandrefrigeration.mintlify.app/ice-machine) — sibling entity (same sub-cluster)
+- [ice machine](https://poulincoolingacandrefrigeration.mintlify.app/ice-machine)
 
 ---
 
@@ -5827,15 +5827,15 @@ Walk-in freezers appear across a wide range of commercial settings in Clearwater
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [walk-in cooler](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-cooler) — sibling entity (same sub-cluster)
+- [walk-in cooler](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-cooler)
 
-- [reach-in refrigerator](https://poulincoolingacandrefrigeration.mintlify.app/reach-in-refrigerator) — sibling entity (same sub-cluster)
+- [reach-in refrigerator](https://poulincoolingacandrefrigeration.mintlify.app/reach-in-refrigerator)
 
-- [ice machine](https://poulincoolingacandrefrigeration.mintlify.app/ice-machine) — sibling entity (same sub-cluster)
+- [ice machine](https://poulincoolingacandrefrigeration.mintlify.app/ice-machine)
 
 ---
 
@@ -5879,15 +5879,15 @@ Commercial reach-in refrigerators appear in restaurants, bars, convenience store
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [walk-in cooler](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-cooler) — sibling entity (same sub-cluster)
+- [walk-in cooler](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-cooler)
 
-- [walk-in freezer](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-freezer) — sibling entity (same sub-cluster)
+- [walk-in freezer](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-freezer)
 
-- [ice machine](https://poulincoolingacandrefrigeration.mintlify.app/ice-machine) — sibling entity (same sub-cluster)
+- [ice machine](https://poulincoolingacandrefrigeration.mintlify.app/ice-machine)
 
 ---
 
@@ -5935,15 +5935,15 @@ In Clearwater's climate, ambient heat is a constant factor. Air-cooled condenser
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [walk-in cooler](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-cooler) — sibling entity (same sub-cluster)
+- [walk-in cooler](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-cooler)
 
-- [walk-in freezer](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-freezer) — sibling entity (same sub-cluster)
+- [walk-in freezer](https://poulincoolingacandrefrigeration.mintlify.app/walk-in-freezer)
 
-- [reach-in refrigerator](https://poulincoolingacandrefrigeration.mintlify.app/reach-in-refrigerator) — sibling entity (same sub-cluster)
+- [reach-in refrigerator](https://poulincoolingacandrefrigeration.mintlify.app/reach-in-refrigerator)
 
 ---
 
@@ -5981,15 +5981,15 @@ Refrigeration systems that use [variable refrigerant flow](https://poulincooling
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 
-- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow)
 
 ---
 
@@ -6043,15 +6043,15 @@ The food safe holding temperature standard applies during transport and display,
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes) — sibling entity (same sub-cluster)
+- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes)
 
-- [hvac permits](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits) — sibling entity (same sub-cluster)
+- [hvac permits](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits)
 
-- [manufacturer warranty requirements](https://poulincoolingacandrefrigeration.mintlify.app/manufacturer-warranty-requirements) — sibling entity (same sub-cluster)
+- [manufacturer warranty requirements](https://poulincoolingacandrefrigeration.mintlify.app/manufacturer-warranty-requirements)
 
 ---
 
@@ -6125,15 +6125,15 @@ Businesses that maintain a regular service schedule reduce the frequency of emer
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 
-- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 
-- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) — sibling entity (same sub-cluster)
+- [thermostats](https://poulincoolingacandrefrigeration.mintlify.app/thermostats)
 
 ---
 
@@ -6165,12 +6165,12 @@ HFC Phasedown applies to any commercial or industrial system that uses a regulat
 
 ### Related entities
 
-- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
 
-- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes) — sibling entity (same sub-cluster)
+- [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes)
 
-- [hvac permits](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits) — sibling entity (same sub-cluster)
+- [hvac permits](https://poulincoolingacandrefrigeration.mintlify.app/hvac-permits)
 
-- [manufacturer warranty requirements](https://poulincoolingacandrefrigeration.mintlify.app/manufacturer-warranty-requirements) — sibling entity (same sub-cluster)
+- [manufacturer warranty requirements](https://poulincoolingacandrefrigeration.mintlify.app/manufacturer-warranty-requirements)

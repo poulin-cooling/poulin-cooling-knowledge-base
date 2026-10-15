@@ -46,12 +46,12 @@ Plenum joints, where the main trunk connects to the air handler cabinet, experie
 
 ### Related entities
 
-- [ductwork](ductwork.md) — parent entity (links up the chain — PRIMARY up-link)
+- [ductwork](ductwork.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [air duct cleaning](air-duct-cleaning.md) — sibling entity (same sub-cluster)
+- [air duct cleaning](air-duct-cleaning.md)
 
-- [dehumidifier](dehumidifier.md) — sibling entity (same sub-cluster)
+- [dehumidifier](dehumidifier.md)
 
-- [hepa filter](hepa-filter.md) — sibling entity (same sub-cluster)
+- [hepa filter](hepa-filter.md)

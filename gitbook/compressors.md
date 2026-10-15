@@ -52,12 +52,12 @@ Compressor replacement in Clearwater requires matching the replacement unit to t
 
 ### Related entities
 
-- [air handlers](air-handlers.md) — parent entity (links up the chain — PRIMARY up-link)
+- [air handlers](air-handlers.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ductless mini split systems](ductless-mini-split-systems.md) — sibling entity (same sub-cluster)
+- [ductless mini split systems](ductless-mini-split-systems.md)
 
-- [heat pumps](heat-pumps.md) — sibling entity (same sub-cluster)
+- [heat pumps](heat-pumps.md)
 
-- [variable refrigerant flow](variable-refrigerant-flow.md) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](variable-refrigerant-flow.md)

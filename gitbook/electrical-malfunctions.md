@@ -54,12 +54,12 @@ Electrical malfunctions in the outdoor condenser are linked to drain system cond
 
 ### Related entities
 
-- [clogged drain lines](clogged-drain-lines.md) — parent entity (links up the chain — PRIMARY up-link)
+- [clogged drain lines](clogged-drain-lines.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [humidity control](humidity-control.md) — sibling entity (same sub-cluster)
+- [humidity control](humidity-control.md)
 
-- [poor indoor air quality](poor-indoor-air-quality.md) — sibling entity (same sub-cluster)
+- [poor indoor air quality](poor-indoor-air-quality.md)
 
-- [dirty air filter](dirty-air-filter.md) — sibling entity (same sub-cluster)
+- [dirty air filter](dirty-air-filter.md)

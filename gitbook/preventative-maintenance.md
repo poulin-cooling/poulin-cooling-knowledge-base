@@ -44,12 +44,12 @@ Preventative maintenance applies to residential split systems, commercial packag
 
 ### Related entities
 
-- [system diagnostics](system-diagnostics.md) — parent entity (links up the chain — PRIMARY up-link)
+- [system diagnostics](system-diagnostics.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [duct sealing](duct-sealing.md) — sibling entity (same sub-cluster)
+- [duct sealing](duct-sealing.md)
 
-- [air duct cleaning](air-duct-cleaning.md) — sibling entity (same sub-cluster)
+- [air duct cleaning](air-duct-cleaning.md)
 
-- [dehumidifier](dehumidifier.md) — sibling entity (same sub-cluster)
+- [dehumidifier](dehumidifier.md)

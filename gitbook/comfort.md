@@ -46,12 +46,12 @@ Comfort in residential settings is governed by the capacity of the central air c
 
 ### Related entities
 
-- [high energy bills](high-energy-bills.md) — parent entity (links up the chain — PRIMARY up-link)
+- [high energy bills](high-energy-bills.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](residential-hvac.md) — sibling entity (same sub-cluster)
+- [residential hvac](residential-hvac.md)
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [thermostats](thermostats.md) — sibling entity (same sub-cluster)
+- [thermostats](thermostats.md)

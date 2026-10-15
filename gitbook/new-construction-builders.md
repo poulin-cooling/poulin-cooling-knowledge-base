@@ -48,10 +48,10 @@ New construction builders work alongside general contractors, electrical subcont
 
 ### Related entities
 
-- [landlords](landlords.md) — parent entity (links up the chain — PRIMARY up-link)
+- [landlords](landlords.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [homeowners](homeowners.md) — sibling entity (same sub-cluster)
+- [homeowners](homeowners.md)
 
-- [commercial property managers](commercial-property-managers.md) — sibling entity (same sub-cluster)
+- [commercial property managers](commercial-property-managers.md)

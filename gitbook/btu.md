@@ -58,10 +58,10 @@ BTU is a unit of energy that connects every piece of cooling equipment to a sing
 
 ### Related entities
 
-- [seer rating](seer-rating.md) — parent entity (links up the chain — PRIMARY up-link)
+- [seer rating](seer-rating.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [tonnage](tonnage.md) — sibling entity (same sub-cluster)
+- [tonnage](tonnage.md)
 
-- [load calculation](load-calculation.md) — sibling entity (same sub-cluster)
+- [load calculation](load-calculation.md)

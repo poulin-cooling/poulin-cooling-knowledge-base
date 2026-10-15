@@ -38,12 +38,12 @@ Refrigerant is used in air conditioning systems, heat pumps, commercial refriger
 
 ### Related entities
 
-- [coolant leak](coolant-leak.md) — parent entity (links up the chain — PRIMARY up-link)
+- [coolant leak](coolant-leak.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [seer rating](seer-rating.md) — sibling entity (same sub-cluster)
+- [seer rating](seer-rating.md)
 
-- [btu](btu.md) — sibling entity (same sub-cluster)
+- [btu](btu.md)
 
-- [tonnage](tonnage.md) — sibling entity (same sub-cluster)
+- [tonnage](tonnage.md)

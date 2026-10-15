@@ -26,10 +26,10 @@ Landlords hold HVAC maintenance obligations across 3 primary property types in C
 
 ### Related entities
 
-- [commercial property managers](commercial-property-managers.md) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial property managers](commercial-property-managers.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [homeowners](homeowners.md) — sibling entity (same sub-cluster)
+- [homeowners](homeowners.md)
 
-- [new construction builders](new-construction-builders.md) — sibling entity (same sub-cluster)
+- [new construction builders](new-construction-builders.md)

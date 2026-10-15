@@ -44,6 +44,6 @@ Central air conditioning systems apply to any structure with existing ductwork o
 
 ### Related entities
 
-- [air conditioning contractor](air-conditioning-contractor.md) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ductless mini split systems](ductless-mini-split-systems.md) — sibling entity (same sub-cluster)
+- [ductless mini split systems](ductless-mini-split-systems.md)

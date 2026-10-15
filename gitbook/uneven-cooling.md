@@ -52,12 +52,12 @@ Uneven cooling in multi-zone structures requires zone-by-zone airflow measuremen
 
 ### Related entities
 
-- [ac not cooling](ac-not-cooling.md) — parent entity (links up the chain — PRIMARY up-link)
+- [ac not cooling](ac-not-cooling.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [humidity control](humidity-control.md) — sibling entity (same sub-cluster)
+- [humidity control](humidity-control.md)
 
-- [poor indoor air quality](poor-indoor-air-quality.md) — sibling entity (same sub-cluster)
+- [poor indoor air quality](poor-indoor-air-quality.md)
 
-- [dirty air filter](dirty-air-filter.md) — sibling entity (same sub-cluster)
+- [dirty air filter](dirty-air-filter.md)

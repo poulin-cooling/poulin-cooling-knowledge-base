@@ -50,12 +50,12 @@ A thermostat that produces short-cycling (system runs for under 5 minutes per cy
 
 ### Related entities
 
-- [programmable thermostat](programmable-thermostat.md) — parent entity (links up the chain — PRIMARY up-link)
+- [programmable thermostat](programmable-thermostat.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](residential-hvac.md) — sibling entity (same sub-cluster)
+- [residential hvac](residential-hvac.md)
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [energy efficiency](energy-efficiency.md) — sibling entity (same sub-cluster)
+- [energy efficiency](energy-efficiency.md)

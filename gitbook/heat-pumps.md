@@ -36,8 +36,8 @@ Heat pumps apply across residential, light commercial, and refrigeration applica
 
 ### Related entities
 
-- [ductless mini split systems](ductless-mini-split-systems.md) — parent entity (links up the chain — PRIMARY up-link)
+- [ductless mini split systems](ductless-mini-split-systems.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [air handlers](air-handlers.md) — sibling entity (same sub-cluster)
+- [air handlers](air-handlers.md)

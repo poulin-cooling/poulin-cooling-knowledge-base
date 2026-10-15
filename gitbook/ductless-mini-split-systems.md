@@ -62,8 +62,8 @@ Ductless mini split systems serve residential and commercial HVAC applications w
 
 ### Related entities
 
-- [residential hvac](residential-hvac.md) — parent entity (links up the chain — PRIMARY up-link)
+- [residential hvac](residential-hvac.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [central air conditioning systems](central-air-conditioning-systems.md) — sibling entity (same sub-cluster)
+- [central air conditioning systems](central-air-conditioning-systems.md)

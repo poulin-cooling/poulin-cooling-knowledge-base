@@ -50,12 +50,12 @@ Airflow applies to refrigeration equipment as well, where [Poulin Cooling](https
 
 ### Related entities
 
-- [blower motors](blower-motors.md) — parent entity (links up the chain — PRIMARY up-link)
+- [blower motors](blower-motors.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ductwork](ductwork.md) — sibling entity (same sub-cluster)
+- [ductwork](ductwork.md)
 
-- [ventilation](ventilation.md) — sibling entity (same sub-cluster)
+- [ventilation](ventilation.md)
 
-- [zoning systems](zoning-systems.md) — sibling entity (same sub-cluster)
+- [zoning systems](zoning-systems.md)

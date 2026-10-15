@@ -50,10 +50,10 @@ Clearwater's average summer ambient temperature exceeds 90 degrees Fahrenheit on
 
 ### Related entities
 
-- [manual j](manual-j.md) — parent entity (links up the chain — PRIMARY up-link)
+- [manual j](manual-j.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [cooling efficiency](cooling-efficiency.md) — sibling entity (same sub-cluster)
+- [cooling efficiency](cooling-efficiency.md)
 
-- [hvac system energy management](hvac-system-energy-management.md) — sibling entity (same sub-cluster)
+- [hvac system energy management](hvac-system-energy-management.md)

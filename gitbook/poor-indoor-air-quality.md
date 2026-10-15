@@ -36,12 +36,12 @@ Poor indoor air quality applies to any occupied indoor space where mechanical ve
 
 ### Related entities
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — parent entity (links up the chain — PRIMARY up-link)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [humidity control](humidity-control.md) — sibling entity (same sub-cluster)
+- [humidity control](humidity-control.md)
 
-- [dirty air filter](dirty-air-filter.md) — sibling entity (same sub-cluster)
+- [dirty air filter](dirty-air-filter.md)
 
-- [ac not cooling](ac-not-cooling.md) — sibling entity (same sub-cluster)
+- [ac not cooling](ac-not-cooling.md)

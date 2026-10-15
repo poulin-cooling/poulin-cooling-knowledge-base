@@ -58,12 +58,12 @@ High energy bills that go unaddressed compound across billing cycles, increasing
 
 ### Related entities
 
-- [electrical malfunctions](electrical-malfunctions.md) — parent entity (links up the chain — PRIMARY up-link)
+- [electrical malfunctions](electrical-malfunctions.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [humidity control](humidity-control.md) — sibling entity (same sub-cluster)
+- [humidity control](humidity-control.md)
 
-- [poor indoor air quality](poor-indoor-air-quality.md) — sibling entity (same sub-cluster)
+- [poor indoor air quality](poor-indoor-air-quality.md)
 
-- [dirty air filter](dirty-air-filter.md) — sibling entity (same sub-cluster)
+- [dirty air filter](dirty-air-filter.md)

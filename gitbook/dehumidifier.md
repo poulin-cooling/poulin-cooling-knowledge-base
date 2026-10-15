@@ -42,12 +42,12 @@ Dehumidifier installation in Clearwater addresses the specific challenge of a su
 
 ### Related entities
 
-- [humidity control](humidity-control.md) — parent entity (links up the chain — PRIMARY up-link)
+- [humidity control](humidity-control.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [duct sealing](duct-sealing.md) — sibling entity (same sub-cluster)
+- [duct sealing](duct-sealing.md)
 
-- [air duct cleaning](air-duct-cleaning.md) — sibling entity (same sub-cluster)
+- [air duct cleaning](air-duct-cleaning.md)
 
-- [hepa filter](hepa-filter.md) — sibling entity (same sub-cluster)
+- [hepa filter](hepa-filter.md)

@@ -36,12 +36,12 @@ Indoor air quality solutions apply in residential buildings and commercial build
 
 ### Related entities
 
-- [dehumidifier](dehumidifier.md) — parent entity (links up the chain — PRIMARY up-link)
+- [dehumidifier](dehumidifier.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](residential-hvac.md) — sibling entity (same sub-cluster)
+- [residential hvac](residential-hvac.md)
 
-- [thermostats](thermostats.md) — sibling entity (same sub-cluster)
+- [thermostats](thermostats.md)
 
-- [energy efficiency](energy-efficiency.md) — sibling entity (same sub-cluster)
+- [energy efficiency](energy-efficiency.md)

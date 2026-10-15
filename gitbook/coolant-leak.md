@@ -42,12 +42,12 @@ Coolant leaks occur at 3 primary locations within an air conditioning system. Th
 
 ### Related entities
 
-- [ac unit replacement](ac-unit-replacement.md) — parent entity (links up the chain — PRIMARY up-link)
+- [ac unit replacement](ac-unit-replacement.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ac not cooling](ac-not-cooling.md) — sibling entity (same sub-cluster)
+- [ac not cooling](ac-not-cooling.md)
 
-- [frozen evaporator coil](frozen-evaporator-coil.md) — sibling entity (same sub-cluster)
+- [frozen evaporator coil](frozen-evaporator-coil.md)
 
-- [clogged drain lines](clogged-drain-lines.md) — sibling entity (same sub-cluster)
+- [clogged drain lines](clogged-drain-lines.md)

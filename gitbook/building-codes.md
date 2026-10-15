@@ -62,6 +62,6 @@ Building codes protect property owners from these failure modes when a licensed 
 
 ### Related entities
 
-- [new construction builders](new-construction-builders.md) — parent entity (links up the chain — PRIMARY up-link)
+- [new construction builders](new-construction-builders.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)

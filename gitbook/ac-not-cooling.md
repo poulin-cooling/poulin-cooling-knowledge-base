@@ -50,12 +50,12 @@ AC not cooling in Clearwater most frequently occurs between May and September, w
 
 ### Related entities
 
-- [preventative maintenance](preventative-maintenance.md) — parent entity (links up the chain — PRIMARY up-link)
+- [preventative maintenance](preventative-maintenance.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [coolant leak](coolant-leak.md) — sibling entity (same sub-cluster)
+- [coolant leak](coolant-leak.md)
 
-- [frozen evaporator coil](frozen-evaporator-coil.md) — sibling entity (same sub-cluster)
+- [frozen evaporator coil](frozen-evaporator-coil.md)
 
-- [clogged drain lines](clogged-drain-lines.md) — sibling entity (same sub-cluster)
+- [clogged drain lines](clogged-drain-lines.md)

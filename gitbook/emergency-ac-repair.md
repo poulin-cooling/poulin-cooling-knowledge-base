@@ -62,12 +62,12 @@ The licensed technician performing emergency AC repair holds EPA 608 certificati
 
 ### Related entities
 
-- [ac breakdown](ac-breakdown.md) — parent entity (links up the chain — PRIMARY up-link)
+- [ac breakdown](ac-breakdown.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](residential-hvac.md) — sibling entity (same sub-cluster)
+- [residential hvac](residential-hvac.md)
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [thermostats](thermostats.md) — sibling entity (same sub-cluster)
+- [thermostats](thermostats.md)

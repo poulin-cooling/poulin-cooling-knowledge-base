@@ -60,10 +60,10 @@ Cooling efficiency (known as cooling effectiveness or SEER rating in residential
 
 ### Related entities
 
-- [thermostats](thermostats.md) — parent entity (links up the chain — PRIMARY up-link)
+- [thermostats](thermostats.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [system diagnostics](system-diagnostics.md) — sibling entity (same sub-cluster)
+- [system diagnostics](system-diagnostics.md)
 
-- [hvac system energy management](hvac-system-energy-management.md) — sibling entity (same sub-cluster)
+- [hvac system energy management](hvac-system-energy-management.md)

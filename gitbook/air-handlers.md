@@ -44,8 +44,8 @@ Air handlers serve residential, light commercial, and refrigeration applications
 
 ### Related entities
 
-- [variable refrigerant flow](variable-refrigerant-flow.md) — parent entity (links up the chain — PRIMARY up-link)
+- [variable refrigerant flow](variable-refrigerant-flow.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [heat pumps](heat-pumps.md) — sibling entity (same sub-cluster)
+- [heat pumps](heat-pumps.md)

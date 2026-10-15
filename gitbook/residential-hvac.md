@@ -44,12 +44,12 @@ Residential HVAC applies to single-family homes, condominiums, townhomes, and sm
 
 ### Related entities
 
-- [central air conditioning systems](central-air-conditioning-systems.md) — parent entity (links up the chain — PRIMARY up-link)
+- [central air conditioning systems](central-air-conditioning-systems.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [thermostats](thermostats.md) — sibling entity (same sub-cluster)
+- [thermostats](thermostats.md)
 
-- [energy efficiency](energy-efficiency.md) — sibling entity (same sub-cluster)
+- [energy efficiency](energy-efficiency.md)

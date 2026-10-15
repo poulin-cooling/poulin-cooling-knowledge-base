@@ -50,12 +50,12 @@ AC breakdown carries the alternate names AC failure and HVAC malfunction in serv
 
 ### Related entities
 
-- [uneven cooling](uneven-cooling.md) — parent entity (links up the chain — PRIMARY up-link)
+- [uneven cooling](uneven-cooling.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [humidity control](humidity-control.md) — sibling entity (same sub-cluster)
+- [humidity control](humidity-control.md)
 
-- [poor indoor air quality](poor-indoor-air-quality.md) — sibling entity (same sub-cluster)
+- [poor indoor air quality](poor-indoor-air-quality.md)
 
-- [dirty air filter](dirty-air-filter.md) — sibling entity (same sub-cluster)
+- [dirty air filter](dirty-air-filter.md)

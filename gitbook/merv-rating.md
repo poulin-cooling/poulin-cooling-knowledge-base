@@ -56,12 +56,12 @@ MERV rating does not apply to unfiltered air returns, which carry no efficiency 
 
 ### Related entities
 
-- [hvac licensing](hvac-licensing.md) — parent entity (links up the chain — PRIMARY up-link)
+- [hvac licensing](hvac-licensing.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [seer rating](seer-rating.md) — sibling entity (same sub-cluster)
+- [seer rating](seer-rating.md)
 
-- [btu](btu.md) — sibling entity (same sub-cluster)
+- [btu](btu.md)
 
-- [tonnage](tonnage.md) — sibling entity (same sub-cluster)
+- [tonnage](tonnage.md)

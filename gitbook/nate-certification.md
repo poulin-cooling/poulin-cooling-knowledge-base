@@ -60,8 +60,8 @@ Hiring a technician without active NATE certification increases the risk of inco
 
 ### Related entities
 
-- [hvac system energy management](hvac-system-energy-management.md) — parent entity (links up the chain — PRIMARY up-link)
+- [hvac system energy management](hvac-system-energy-management.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [hvac licensing](hvac-licensing.md) — sibling entity (same sub-cluster)
+- [hvac licensing](hvac-licensing.md)

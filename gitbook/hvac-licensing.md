@@ -54,8 +54,8 @@ The licensed contractor holds the legal accountability for work performed on a p
 
 ### Related entities
 
-- [epa section 608 certification](epa-section-608-certification.md) — parent entity (links up the chain — PRIMARY up-link)
+- [epa section 608 certification](epa-section-608-certification.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [nate certification](nate-certification.md) — sibling entity (same sub-cluster)
+- [nate certification](nate-certification.md)

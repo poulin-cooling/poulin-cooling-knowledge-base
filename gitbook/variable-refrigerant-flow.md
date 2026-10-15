@@ -54,10 +54,10 @@ Variable refrigerant flow is not suited for every application. Buildings with sh
 
 ### Related entities
 
-- [heat pumps](heat-pumps.md) — parent entity (links up the chain — PRIMARY up-link)
+- [heat pumps](heat-pumps.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ductless mini split systems](ductless-mini-split-systems.md) — sibling entity (same sub-cluster)
+- [ductless mini split systems](ductless-mini-split-systems.md)
 
-- [air handlers](air-handlers.md) — sibling entity (same sub-cluster)
+- [air handlers](air-handlers.md)

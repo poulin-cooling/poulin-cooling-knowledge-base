@@ -44,12 +44,12 @@ Frozen evaporator coil conditions apply to split-system air conditioners, heat p
 
 ### Related entities
 
-- [refrigerant](refrigerant.md) — parent entity (links up the chain — PRIMARY up-link)
+- [refrigerant](refrigerant.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [ac not cooling](ac-not-cooling.md) — sibling entity (same sub-cluster)
+- [ac not cooling](ac-not-cooling.md)
 
-- [coolant leak](coolant-leak.md) — sibling entity (same sub-cluster)
+- [coolant leak](coolant-leak.md)
 
-- [clogged drain lines](clogged-drain-lines.md) — sibling entity (same sub-cluster)
+- [clogged drain lines](clogged-drain-lines.md)

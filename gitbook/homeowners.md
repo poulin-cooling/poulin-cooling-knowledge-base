@@ -44,12 +44,12 @@ Homeowners apply as the primary user type across every residential HVAC service 
 
 ### Related entities
 
-- [comfort](comfort.md) — parent entity (links up the chain — PRIMARY up-link)
+- [comfort](comfort.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [commercial property managers](commercial-property-managers.md) — sibling entity (same sub-cluster)
+- [commercial property managers](commercial-property-managers.md)
 
-- [landlords](landlords.md) — sibling entity (same sub-cluster)
+- [landlords](landlords.md)
 
-- [new construction builders](new-construction-builders.md) — sibling entity (same sub-cluster)
+- [new construction builders](new-construction-builders.md)

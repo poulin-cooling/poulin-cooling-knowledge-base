@@ -54,12 +54,12 @@ Clearwater's subtropical climate produces outdoor relative humidity levels that 
 
 ### Related entities
 
-- [ventilation](ventilation.md) — parent entity (links up the chain — PRIMARY up-link)
+- [ventilation](ventilation.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [poor indoor air quality](poor-indoor-air-quality.md) — sibling entity (same sub-cluster)
+- [poor indoor air quality](poor-indoor-air-quality.md)
 
-- [dirty air filter](dirty-air-filter.md) — sibling entity (same sub-cluster)
+- [dirty air filter](dirty-air-filter.md)
 
-- [ac not cooling](ac-not-cooling.md) — sibling entity (same sub-cluster)
+- [ac not cooling](ac-not-cooling.md)

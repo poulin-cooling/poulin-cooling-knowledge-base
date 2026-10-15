@@ -38,12 +38,12 @@ AC unit replacement applies to single-family homes, multi-unit residential build
 
 ### Related entities
 
-- [emergency ac repair](emergency-ac-repair.md) — parent entity (links up the chain — PRIMARY up-link)
+- [emergency ac repair](emergency-ac-repair.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](residential-hvac.md) — sibling entity (same sub-cluster)
+- [residential hvac](residential-hvac.md)
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [thermostats](thermostats.md) — sibling entity (same sub-cluster)
+- [thermostats](thermostats.md)

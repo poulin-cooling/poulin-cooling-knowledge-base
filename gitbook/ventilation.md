@@ -66,12 +66,12 @@ Ventilation requirements in Clearwater, FL, are shaped by the local climate. Hig
 
 ### Related entities
 
-- [air duct cleaning](air-duct-cleaning.md) — parent entity (links up the chain — PRIMARY up-link)
+- [air duct cleaning](air-duct-cleaning.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [airflow](airflow.md) — sibling entity (same sub-cluster)
+- [airflow](airflow.md)
 
-- [ductwork](ductwork.md) — sibling entity (same sub-cluster)
+- [ductwork](ductwork.md)
 
-- [zoning systems](zoning-systems.md) — sibling entity (same sub-cluster)
+- [zoning systems](zoning-systems.md)

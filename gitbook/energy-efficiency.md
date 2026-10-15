@@ -70,12 +70,12 @@ Energy efficiency applies at the system integration level, where [indoor air qua
 
 ### Related entities
 
-- [cooling efficiency](cooling-efficiency.md) — parent entity (links up the chain — PRIMARY up-link)
+- [cooling efficiency](cooling-efficiency.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](residential-hvac.md) — sibling entity (same sub-cluster)
+- [residential hvac](residential-hvac.md)
 
-- [indoor air quality solutions](indoor-air-quality-solutions.md) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](indoor-air-quality-solutions.md)
 
-- [thermostats](thermostats.md) — sibling entity (same sub-cluster)
+- [thermostats](thermostats.md)

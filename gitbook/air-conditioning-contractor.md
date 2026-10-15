@@ -50,4 +50,4 @@ Clearwater's climate creates year-round demand for air conditioning contractor s
 
 ### Related entities
 
-- [central air conditioning systems](central-air-conditioning-systems.md) — sibling entity (same sub-cluster)
+- [central air conditioning systems](central-air-conditioning-systems.md)

@@ -48,10 +48,10 @@ Commercial rooftop units (packaged units) range from 3 tons to 25 tons for mid-s
 
 ### Related entities
 
-- [btu](btu.md) — parent entity (links up the chain — PRIMARY up-link)
+- [btu](btu.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [seer rating](seer-rating.md) — sibling entity (same sub-cluster)
+- [seer rating](seer-rating.md)
 
-- [load calculation](load-calculation.md) — sibling entity (same sub-cluster)
+- [load calculation](load-calculation.md)

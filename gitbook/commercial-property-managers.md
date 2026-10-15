@@ -66,10 +66,10 @@ Commercial property managers apply HVAC contractor services across 5 primary bui
 
 ### Related entities
 
-- [homeowners](homeowners.md) — parent entity (links up the chain — PRIMARY up-link)
+- [homeowners](homeowners.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [landlords](landlords.md) — sibling entity (same sub-cluster)
+- [landlords](landlords.md)
 
-- [new construction builders](new-construction-builders.md) — sibling entity (same sub-cluster)
+- [new construction builders](new-construction-builders.md)

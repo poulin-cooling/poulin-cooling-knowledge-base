@@ -44,10 +44,10 @@ Clearwater's climate profile, characterized by high relative humidity and a cool
 
 ### Related entities
 
-- [building codes](building-codes.md) — parent entity (links up the chain — PRIMARY up-link)
+- [building codes](building-codes.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [cooling efficiency](cooling-efficiency.md) — sibling entity (same sub-cluster)
+- [cooling efficiency](cooling-efficiency.md)
 
-- [system diagnostics](system-diagnostics.md) — sibling entity (same sub-cluster)
+- [system diagnostics](system-diagnostics.md)

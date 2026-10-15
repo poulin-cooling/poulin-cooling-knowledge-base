@@ -54,12 +54,12 @@ SEER rating is a type of energy efficiency standard, and its role in the broader
 
 ### Related entities
 
-- [energy efficiency](energy-efficiency.md) — parent entity (links up the chain — PRIMARY up-link)
+- [energy efficiency](energy-efficiency.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [btu](btu.md) — sibling entity (same sub-cluster)
+- [btu](btu.md)
 
-- [tonnage](tonnage.md) — sibling entity (same sub-cluster)
+- [tonnage](tonnage.md)
 
-- [load calculation](load-calculation.md) — sibling entity (same sub-cluster)
+- [load calculation](load-calculation.md)

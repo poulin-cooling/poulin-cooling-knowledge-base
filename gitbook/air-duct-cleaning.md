@@ -46,10 +46,10 @@ Air duct cleaning in Clearwater is particularly relevant for properties built be
 
 ### Related entities
 
-- [duct sealing](duct-sealing.md) — parent entity (links up the chain — PRIMARY up-link)
+- [duct sealing](duct-sealing.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [dehumidifier](dehumidifier.md) — sibling entity (same sub-cluster)
+- [dehumidifier](dehumidifier.md)
 
-- [hepa filter](hepa-filter.md) — sibling entity (same sub-cluster)
+- [hepa filter](hepa-filter.md)

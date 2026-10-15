@@ -60,8 +60,8 @@ EPA Section 608 Certification applies to every stationary refrigerant-containing
 
 ### Related entities
 
-- [nate certification](nate-certification.md) — parent entity (links up the chain — PRIMARY up-link)
+- [nate certification](nate-certification.md)
 
-- [air conditioning contractor](air-conditioning-contractor.md) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
-- [hvac licensing](hvac-licensing.md) — sibling entity (same sub-cluster)
+- [hvac licensing](hvac-licensing.md)
