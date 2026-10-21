@@ -38,6 +38,18 @@
         ]
       },
       {
+        "group": "Air Distribution",
+        "pages": [
+          "low-ac-airflow",
+          "airflow",
+          "ductwork",
+          "duct-sealing",
+          "air-duct-cleaning",
+          "ventilation",
+          "ductwork-installation"
+        ]
+      },
+      {
         "group": "Indoor Air Quality",
         "pages": [
           "uv-light-for-hvac-systems",
@@ -94,6 +106,20 @@
         ]
       },
       {
+        "group": "AC Repair",
+        "pages": [
+          "ac-unit-not-turning-on",
+          "ac-repair",
+          "capacitor-failure",
+          "contactor-failure",
+          "ac-short-cycling",
+          "ac-not-turning-on",
+          "unusual-ac-noises",
+          "ac-odors",
+          "expansion-valve"
+        ]
+      },
+      {
         "group": "AC Installation",
         "pages": [
           "new-construction-ac-installation",
@@ -113,6 +139,7 @@
         "pages": [
           "manufacturers-ac-system-warranty",
           "extended-labor-warranty",
+          "ac-manufacturer-warranty",
           "ac-maintenance",
           "ac-tune-up",
           "coil-cleaning",
@@ -121,24 +148,6 @@
           "air-conditioner-lifespan",
           "hvac-maintenance-plans",
           "manufacturer-warranty-requirements"
-        ]
-      },
-      {
-        "group": "Service Area",
-        "pages": [
-          "serving-largo-fl",
-          "serving-belleair-beach-fl",
-          "serving-harbor-bluffs-fl",
-          "serving-belleair-bluffs-fl",
-          "serving-dunedin-fl",
-          "serving-belleair-fl",
-          "serving-countryside-fl"
-        ]
-      },
-      {
-        "group": "Reviews",
-        "pages": [
-          "poulin-cooling-ac-and-refrigeration-reviews"
         ]
       },
       {
@@ -157,18 +166,26 @@
           "aging-hvac-equipment",
           "old-ac-unit-removal",
           "equipment-sizing",
-          "energy-star-certified-ac-units"
+          "energy-star-certified-ac-units",
+          "high-ac-energy-consumption"
         ]
       },
       {
-        "group": "Air Distribution",
+        "group": "Service Area",
         "pages": [
-          "airflow",
-          "ductwork",
-          "duct-sealing",
-          "air-duct-cleaning",
-          "ventilation",
-          "ductwork-installation"
+          "serving-largo-fl",
+          "serving-belleair-beach-fl",
+          "serving-harbor-bluffs-fl",
+          "serving-belleair-bluffs-fl",
+          "serving-dunedin-fl",
+          "serving-belleair-fl",
+          "serving-countryside-fl"
+        ]
+      },
+      {
+        "group": "Reviews",
+        "pages": [
+          "poulin-cooling-ac-and-refrigeration-reviews"
         ]
       },
       {
@@ -196,19 +213,6 @@
           "nate-certification",
           "epa-section-608-certification",
           "hvac-licensing"
-        ]
-      },
-      {
-        "group": "AC Repair",
-        "pages": [
-          "ac-repair",
-          "capacitor-failure",
-          "contactor-failure",
-          "ac-short-cycling",
-          "ac-not-turning-on",
-          "unusual-ac-noises",
-          "ac-odors",
-          "expansion-valve"
         ]
       },
       {
