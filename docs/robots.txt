@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poulin-cooling.github.io/poulin-cooling-knowledge-base/sitemap.xml
