@@ -22,6 +22,7 @@
         "pages": [
           "ductless-mini-split-installation",
           "florida-ac-contractor-license",
+          "dirty-condenser-coils",
           "air-conditioning-contractor",
           "central-air-conditioning-systems",
           "residential-hvac",
@@ -70,6 +71,7 @@
         "pages": [
           "high-efficiency-air-conditioner",
           "ac-system-load-calculation",
+          "energy-efficiency-standards",
           "cooling-efficiency",
           "energy-efficiency",
           "seer-rating",
@@ -167,7 +169,9 @@
           "old-ac-unit-removal",
           "equipment-sizing",
           "energy-star-certified-ac-units",
-          "high-ac-energy-consumption"
+          "ac-water-leak",
+          "high-ac-energy-consumption",
+          "noise-reduction"
         ]
       },
       {
