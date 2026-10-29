@@ -91,6 +91,7 @@
           "ac-system-replacement",
           "electrical-disconnect-box",
           "uneven-home-cooling",
+          "ac-electrical-wiring",
           "system-diagnostics",
           "preventative-maintenance",
           "ac-not-cooling",
@@ -171,10 +172,13 @@
           "equipment-sizing",
           "energy-star-certified-ac-units",
           "packaged-unit-repair",
+          "pressure-testing",
           "ac-freezing-up",
           "ac-water-leak",
+          "noisy-ac-unit",
           "high-ac-energy-consumption",
-          "noise-reduction"
+          "noise-reduction",
+          "cac1819909"
         ]
       },
       {
