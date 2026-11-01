@@ -92,6 +92,7 @@
           "electrical-disconnect-box",
           "uneven-home-cooling",
           "ac-electrical-wiring",
+          "electrical-connections",
           "system-diagnostics",
           "preventative-maintenance",
           "ac-not-cooling",
@@ -143,6 +144,7 @@
         "pages": [
           "manufacturers-ac-system-warranty",
           "extended-labor-warranty",
+          "leak-detection",
           "ac-manufacturer-warranty",
           "ac-maintenance",
           "ac-tune-up",
@@ -177,6 +179,7 @@
           "ac-water-leak",
           "noisy-ac-unit",
           "high-ac-energy-consumption",
+          "air-flow-optimization",
           "noise-reduction",
           "cac1819909"
         ]
