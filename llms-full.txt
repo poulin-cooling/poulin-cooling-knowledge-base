@@ -753,7 +753,7 @@ Flexible ductwork is the standard choice for residential branch runs because the
 
 ### Is ductwork expensive?
 
-Ductwork cost varies based on scope — the context does not include specific pricing. What [Poulin Cooling A/C and Refrigeration](https://share.google/EgZkLtD1ipx2su22E) can confirm is that leaking or collapsed ductwork raises energy bills and forces your HVAC system to overwork, making timely duct inspection and sealing a factor in long-term efficiency. Duct inspection and sealing are generally handled during a scheduled HVAC visit, where a technician can assess the condition of a home's duct system.
+Ductwork cost varies based on scope — the context does not include specific pricing. What [Poulin Cooling A/C and Refrigeration](https://share.google/EgZkLtD1ipx2su22E) can confirm is that leaking or collapsed ductwork raises energy bills and forces your HVAC system to overwork, making timely duct inspection and sealing a factor in long-term efficiency. Airflow and duct condition are typically assessed by a technician during a scheduled HVAC visit, and leaks or collapsed sections found at that point can be sealed or repaired to help protect long-term efficiency.
 
 ### What is ductwork?
 
@@ -2009,7 +2009,7 @@ Tonnage determines the physical and electrical specifications of every component
 
 Tonnage contrasts with SEER rating, which measures energy efficiency rather than cooling output. A system with a high tonnage removes more heat per hour. [A system with a high SEER rating removes the same heat while consuming less electricity.](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) Both attributes appear on every equipment specification sheet, and both must be evaluated together during system selection. Tonnage answers "how much cooling," and SEER answers "at what energy cost."
 
-Tonnage determines the refrigerant charge volume. A 2-ton system holds a smaller refrigerant charge than a 4-ton system. Overcharging or undercharging refrigerant relative to the rated tonnage reduces system efficiency and accelerates compressor wear. [A licensed air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) typically verifies the refrigerant charge against the manufacturer's tonnage specification during service visits.
+Tonnage determines the refrigerant charge volume. A 2-ton system holds a smaller refrigerant charge than a 4-ton system. Overcharging or undercharging refrigerant relative to the rated tonnage reduces system efficiency and accelerates compressor wear. [A licensed air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) may check the refrigerant charge against the manufacturer's tonnage specification during service visits, since charge volume depends on system tonnage.
 
 ### Common problems caused by incorrect tonnage
 
@@ -5951,7 +5951,7 @@ In Clearwater's climate, ambient heat is a constant factor. Air-cooled condenser
 
 ## Defrost system in Clearwater - Poulin Cooling A/C and Refrigeration
 
-A defrost system, called a defrost control system, is the set of refrigeration components that periodically clears frost from evaporator coils so the equipment maintains proper airflow and temperature. Without it, frost accumulates on the coil surface until airflow drops to near zero and the refrigerated space warms. The defrost cycle assembly is a type of refrigeration component, sitting alongside compressors, condensers, and expansion devices as a functional part of the refrigeration circuit. [Poulin Cooling Air Conditioning and Refrigeration](https://share.google/x5JB9b9FGPtLYZBNL) services these systems throughout Clearwater and the surrounding area as part of its [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair) work.
+A defrost system, called a defrost control system, is the set of refrigeration components that periodically clears frost from evaporator coils so the equipment maintains proper airflow and temperature. Without it, frost accumulates on the coil surface until airflow drops to near zero and the refrigerated space warms. The defrost cycle assembly is a type of refrigeration component, sitting alongside compressors, condensers, and expansion devices as a functional part of the refrigeration circuit. Defrost control systems are typically part of the work involved in [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair), where technicians service the components that clear frost from evaporator coils. Appointment and service-area details come from [Poulin Cooling Air Conditioning and Refrigeration](https://share.google/x5JB9b9FGPtLYZBNL).
 
 ### What a defrost system is and how it works
 
