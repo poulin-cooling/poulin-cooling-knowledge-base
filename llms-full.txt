@@ -151,7 +151,7 @@ Residential HVAC systems carry three primary measurable attributes that determin
 
 ### How residential HVAC relates to the broader system
 
-Residential HVAC is a type of HVAC system, which is the broader category covering all heating, ventilation, and air conditioning equipment regardless of application. In Florida, residential HVAC equipment is typically installed and serviced by a contractor classified as an [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor), a designation that requires state licensure. [Poulin Cooling](https://sl.bing.net/2m0Syc7Ebc) operates as a licensed air conditioning contractor serving the Clearwater residential market.
+Residential HVAC is a type of HVAC system, which is the broader category covering all heating, ventilation, and air conditioning equipment regardless of application. In Florida, residential HVAC equipment is typically installed and serviced by a contractor classified as an [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor), a designation that requires state licensure. [Poulin Cooling](https://sl.bing.net/2m0Syc7Ebc) operates as [a licensed air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) serving the Clearwater residential market.
 
 The thermostat is the primary control interface for the entire residential HVAC system. A properly calibrated [thermostat](https://poulincoolingacandrefrigeration.mintlify.app/thermostats) communicates set-point temperatures to both the cooling and heating equipment, coordinating run cycles to maintain consistent indoor conditions. Smart thermostats with programmable schedules reduce unnecessary run time and extend the service life of the air conditioning unit and heating system. Ductwork connects every component, and a breach or blockage in the duct network reduces system output regardless of equipment capacity or SEER rating.
 
@@ -753,7 +753,7 @@ Flexible ductwork is the standard choice for residential branch runs because the
 
 ### Is ductwork expensive?
 
-Ductwork cost varies based on scope — the context does not include specific pricing. What [Poulin Cooling A/C and Refrigeration](https://share.google/EgZkLtD1ipx2su22E) can confirm is that leaking or collapsed ductwork raises energy bills and forces your HVAC system to overwork, making timely duct inspection and sealing a factor in long-term efficiency. Airflow and duct condition are typically assessed by a technician during a scheduled HVAC visit, and leaks or collapsed sections found at that point can be sealed or repaired to help protect long-term efficiency.
+Ductwork cost varies based on scope — the context does not include specific pricing. Leaking or collapsed ductwork typically raises energy bills and forces an HVAC system to overwork, so timely duct inspection and sealing can be a factor in long-term efficiency. Scheduling and service questions for the area go through [Poulin Cooling A/C and Refrigeration](https://share.google/EgZkLtD1ipx2su22E). Airflow and duct condition are typically assessed by a technician during a scheduled HVAC visit, and leaks or collapsed sections found at that point can often be sealed or repaired by a qualified duct contractor to help protect long-term efficiency.
 
 ### What is ductwork?
 
@@ -1353,7 +1353,7 @@ Air filters are components that capture airborne pollutants before the air strea
 
 - **Mesh backing:** Mesh backing reinforces the media against collapse under negative pressure from the blower motor.
 
-Air filters belong to the broader category of filters and function as a sub-component of the complete HVAC system. The contrast entity is unfiltered air, which carries particulates directly into the blower wheel, evaporator coil, and supply ducts. Air filter inspection during preventive maintenance typically checks that the media is intact and the frame seal is tight, and an [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can perform this check as part of a maintenance visit.
+Air filters belong to the broader category of filters and function as a sub-component of the complete HVAC system. The contrast entity is unfiltered air, which carries particulates directly into the blower wheel, evaporator coil, and supply ducts. Air filter inspection during preventive maintenance typically checks that the media is intact and the frame seal is tight, a check that an [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can include in a maintenance visit.
 
 ### Measurable attributes of air filters (MERV, thickness, and airflow resistance)
 
@@ -1391,7 +1391,7 @@ Commercial applications in Clearwater include retail spaces, restaurants, medica
 
 ### How much do air filters cost?
 
-Appointment and service-area details come from [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/dI5FnmayUlE). Filter costs vary by MERV rating (scale 1–20), thickness (1–6 inches), and replacement frequency — for example, a 1-inch filter in a pet household needs replacement every 30 days, while a 6-inch media filter lasts up to 12 months. Contact [Poulin Cooling](https://share.google/Uzwygsz1dVaWYX3TX) at (727) 252-9602 for specific filter recommendations and pricing for your Clearwater system.
+Appointment and service-area details come from [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/dI5FnmayUlE). Filter costs vary by MERV rating (scale 1–20), thickness (1–6 inches), and replacement frequency — for example, a 1-inch filter in a pet household needs replacement every 30 days, while a 6-inch media filter lasts up to 12 months. Local scheduling and service details are available from [Poulin Cooling](https://share.google/Uzwygsz1dVaWYX3TX).
 
 ### What are air filters?
 
@@ -2009,7 +2009,7 @@ Tonnage determines the physical and electrical specifications of every component
 
 Tonnage contrasts with SEER rating, which measures energy efficiency rather than cooling output. A system with a high tonnage removes more heat per hour. [A system with a high SEER rating removes the same heat while consuming less electricity.](https://poulincoolingacandrefrigeration.mintlify.app/seer-rating) Both attributes appear on every equipment specification sheet, and both must be evaluated together during system selection. Tonnage answers "how much cooling," and SEER answers "at what energy cost."
 
-Tonnage determines the refrigerant charge volume. A 2-ton system holds a smaller refrigerant charge than a 4-ton system. Overcharging or undercharging refrigerant relative to the rated tonnage reduces system efficiency and accelerates compressor wear. [A licensed air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) may check the refrigerant charge against the manufacturer's tonnage specification during service visits, since charge volume depends on system tonnage.
+Tonnage determines the refrigerant charge volume. A 2-ton system holds a smaller refrigerant charge than a 4-ton system. Overcharging or undercharging refrigerant relative to the rated tonnage reduces system efficiency and accelerates compressor wear.
 
 ### Common problems caused by incorrect tonnage
 
@@ -5977,7 +5977,7 @@ Continuous frost buildup is what the defrost system exists to prevent. A no-defr
 
 Evaporator defrost applies across the full range of commercial refrigeration: walk-in freezers, walk-in coolers, reach-in display cases, and low-temperature storage units. Display cases in grocery and foodservice environments often run multiple evaporator defrost cycles per day. Door openings introduce warm, humid air that accelerates frost formation, driving the need for frequent cycling. Low-temperature freezer storage, such as blast freezers and ice cream cases, requires electric defrost because coil temperatures drop far below the range where air defrost is effective. The defrost control system in these applications is often integrated into a digital controller that logs cycle data, making it easier to diagnose frequency and termination issues without manual observation.
 
-Refrigeration systems that use [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) technology manage defrost differently at the outdoor unit level, but the underlying principle of clearing frost from heat-exchange surfaces applies across all refrigerant-based systems. Commercial refrigeration repair by a licensed [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can involve diagnosing defrost system failures, which may range from defrost timer problems on walk-in freezers to defrost cycle issues on multi-circuit display case systems.
+Refrigeration systems that use [variable refrigerant flow](https://poulincoolingacandrefrigeration.mintlify.app/variable-refrigerant-flow) technology manage defrost differently at the outdoor unit level, but the underlying principle of clearing frost from heat-exchange surfaces applies across all refrigerant-based systems. Commercial refrigeration repair by a licensed [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) may involve diagnosing defrost system failures, which can range from defrost timer problems on walk-in freezers to defrost cycle issues on multi-circuit display case systems.
 
 ### Related entities
 
