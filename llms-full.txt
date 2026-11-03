@@ -307,7 +307,7 @@ Heat pump pricing varies widely, and published figures are often unavailable onl
 
 ### What are heat pumps?
 
-Heat pumps are HVAC systems that transfer heat between indoor and outdoor environments rather than generating it, providing both heating and cooling from a single unit. Operating at a Coefficient of Performance between 2.5 and 4.5, heat pumps deliver up to 4.5 units of thermal energy per unit of electricity consumed. Heat pump installation, repair, and maintenance are services that residential and commercial property owners in Clearwater, FL can often arrange through local HVAC contractors. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/sUyMKMntLXFdgjgc8) handles scheduling and service details for the area.
+Heat pumps are reversible air conditioners that extract heat from outdoor air in winter and reverse the cycle to expel indoor heat in summer. They operate across an outdoor temperature range of -15°F to 100°F and come in nominal capacities from 1 ton to 60 tons. Heat pump installation, repair, and maintenance are services that residential and commercial property owners in Clearwater, FL can often arrange through local HVAC contractors. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/sUyMKMntLXFdgjgc8) handles scheduling and service details for the area.
 
 ### Related entities
 
@@ -499,7 +499,7 @@ The vetted information for [Poulin Cooling A/C and Refrigeration](https://share.
 
 ### What is a compressor?
 
-A compressor is the mechanical heart of every air conditioning and refrigeration system, increasing refrigerant gas pressure from the low-pressure suction side to the high-pressure discharge side to drive the entire cooling cycle. Compressors operate between 50 and 500 PSI and range from 1 to 50 HP. Compressors in residential and commercial air conditioning and refrigeration systems are typically diagnosed, repaired, or replaced by qualified technicians, depending on the extent of the fault. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/eXSqzkJANae) handles scheduling and service details for the area.
+A compressor is a mechanical device that raises the pressure of refrigerant gas so heat can move between the indoor and outdoor environments. Its four internal parts are the motor, the piston assembly, the suction valve, and the discharge valve. Compressors in residential and commercial air conditioning and refrigeration systems are typically diagnosed, repaired, or replaced by qualified technicians, depending on the extent of the fault. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/eXSqzkJANae) handles scheduling and service details for the area.
 
 ### Related entities
 
@@ -2037,7 +2037,7 @@ Commercial rooftop units (packaged units) range from 3 tons to 25 tons for mid-s
 
 ### What is tonnage?
 
-Tonnage is the unit of measurement that defines an air conditioning system's cooling capacity. One ton equals 12,000 BTU of heat removed per hour. Residential systems typically range from 1.5 to 5 tons; commercial systems extend to 50 tons or more. Sizing for new AC installations typically follows the structure being cooled rather than the tonnage of the unit being removed, so each system is matched to the specific building it serves. Scheduling and service questions for the area go through [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/7avRF2ZVVjxutbqW7).
+Tonnage is the unit of measurement that defines an air conditioning system's cooling capacity. A 3-ton system removes 36,000 BTU per hour. Tonnage is encoded in most model numbers, so a unit marked "024" is a 24,000 BTU, 2-ton system. Tonnage set too high causes short cycling and high indoor humidity, while tonnage set too low leaves a system unable to reach the thermostat setpoint on peak summer days. Scheduling and service questions for the area go through [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/7avRF2ZVVjxutbqW7).
 
 ### Related entities
 
@@ -2189,7 +2189,7 @@ Clearwater homeowners comparing AC installation and replacement projects can ask
 
 ### What is Manual J?
 
-Manual J is the ACCA standard for calculating residential heating and cooling loads on a room-by-room basis, producing a BTU/hour output that determines the exact HVAC system size a home requires. Manual J replaces rule-of-thumb sizing methods and is required by Florida Building Code for new installations and replacements. Manual J calculations typically precede new system installation or replacement, so that equipment is sized to the home's room-by-room loads rather than by rule of thumb. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/XjgrHsmodU) handles scheduling and service details for the area.
+Manual J is a residential load calculation standard published by the Air Conditioning Contractors of America that measures how much heat a home gains in summer and loses in winter. Florida Building Code requires it for new residential installations and replacements, and it accounts for eight variables, from floor area to occupancy. Manual J calculations typically precede new system installation or replacement, so that equipment is sized to the home's room-by-room loads rather than by rule of thumb. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/XjgrHsmodU) handles scheduling and service details for the area.
 
 ### Related entities
 
@@ -3115,7 +3115,7 @@ Comfort in residential settings is governed by the capacity of the central air c
 
 ### What is comfort in HVAC terms?
 
-Comfort is an indoor physical state influenced by air temperature, humidity, air movement, radiant surface temperatures, occupancy, clothing, activity, and individual preference. Many homes use temperature and humidity target ranges as practical starting points, but no single range is universally comfortable for every occupant or building type, and indoor air quality is evaluated separately using pollutant-specific methods. Indoor comfort is typically managed through HVAC installation, repair, and maintenance, which allow residential and commercial spaces to be kept within temperature and humidity ranges that suit their occupants. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/FS2xrKsqy3VQditEA) handles scheduling and service details for the area.
+Comfort is an indoor physical state influenced by air temperature, humidity, air movement, radiant surface temperatures, occupancy, clothing, activity, and individual preference. Humidity shapes how warm a room feels, so a room at 72°F with 70% RH can feel more oppressive than the same room at 72°F with 50% RH. A frequently used starting range is 68°F to 75°F with 40% to 60% RH, and the air conditioning system removes moisture during the cooling cycle. [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/FS2xrKsqy3VQditEA) handles scheduling and service details for the area.
 
 ### Related entities
 
