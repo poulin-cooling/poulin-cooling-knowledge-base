@@ -82,7 +82,7 @@ A HEPA filter (High-Efficiency Particulate Air filter) is a mechanical air filtr
 
 ## What are UV lights?
 
-UV lights (germicidal lamps or UV-C lamps) are ultraviolet lamps that emit UV-C radiation in the 200 to 280 nanometer wavelength range, designed to inactivate certain microorganisms in HVAC air streams and on internal surfaces. Properly designed UV-C equipment may inactivate certain microorganisms on HVAC surfaces or in moving air when adequate UV dose and exposure are achieved; performance varies by product, installation, airflow, target organism, lamp condition, and operating environment. UV-C is not a substitute for moisture correction, filtration, source removal, or physical cleaning. Poulin Cooling installs UV lights as part of air conditioning system services in Clearwater, FL. UV lights belong to the broader category of air purification equipment and work alongside passive filtration to address biological contaminants that filters alone do not eliminate.
+UV lights (germicidal lamps or UV-C lamps) are ultraviolet lamps that emit UV-C radiation in the 200 to 280 nanometer wavelength range, designed to inactivate certain microorganisms in HVAC air streams and on internal surfaces. Properly designed UV-C equipment may inactivate certain microorganisms on HVAC surfaces or in moving air when adequate UV dose and exposure are achieved; performance varies by product, installation, airflow, target organism, lamp condition, and operating environment. UV-C is not a substitute for moisture correction, filtration, source removal, or physical cleaning. UV lights belong to the broader category of air purification equipment and work alongside passive filtration to address biological contaminants that filters alone do not eliminate.
 
 ## What are air filters?
 
@@ -194,7 +194,7 @@ Homeowners are residential property owners who hold full purchasing authority ov
 
 ## What are commercial property managers?
 
-Commercial property managers are professionals who oversee the daily operations, maintenance, and financial performance of commercial buildings. A single manager's portfolio spans 10 to 500 or more properties depending on the organization's size and structure. Commercial property managers often rely on air conditioning contractor services to help keep multi-tenant buildings, retail centers, and office complexes comfortable, and Clearwater, FL is among the areas where such contractor support is available.
+Commercial property managers are professionals who oversee the daily operations, maintenance, and financial performance of commercial buildings. A single manager's portfolio spans 10 to 500 or more properties depending on the organization's size and structure. Commercial property managers often rely on air conditioning contractor services to help keep multi-tenant buildings, retail centers, and office complexes comfortable, and such contractor support may be available in areas like Clearwater, FL.
 
 ## What are landlords?
 
@@ -222,7 +222,7 @@ EPA Section 608 Certification is the federal credential required for any technic
 
 ## What is HVAC licensing?
 
-HVAC licensing is the official authorization granted to individuals or businesses to perform heating, ventilation, air conditioning, and refrigeration work within a state or local jurisdiction. License types and classifications vary by state and jurisdiction, and validity periods run 1 to 3 years depending on the issuing authority. Poulin Cooling A/C operates under the licensing requirements that govern all HVAC work performed in Clearwater, FL.
+HVAC licensing is the official authorization granted to individuals or businesses to perform heating, ventilation, air conditioning, and refrigeration work within a state or local jurisdiction. License types and classifications vary by state and jurisdiction, and validity periods run 1 to 3 years depending on the issuing authority.
 
 ## What is MERV rating?
 
