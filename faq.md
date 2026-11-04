@@ -274,7 +274,7 @@ Refrigerant recharge, called an AC recharge or freon recharge, is the process of
 
 ## What is AC installation?
 
-AC installation is the professional service of sizing and fitting a new air conditioning system for a home or building, encompassing the full design process. A new AC install covers everything from load calculation and equipment selection through refrigerant line routing, electrical connections, and final commissioning. Poulin Cooling A/C and Refrigeration handles both full system change-outs and new-construction cooling system setup for residential properties in Clearwater, FL.
+AC installation is the professional service of sizing and fitting a new air conditioning system for a home or building, encompassing the full design process. A new AC install covers everything from load calculation and equipment selection through refrigerant line routing, electrical connections, and final commissioning.
 
 ## What is evaporator coil?
 
