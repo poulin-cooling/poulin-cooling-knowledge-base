@@ -93,6 +93,7 @@
           "uneven-home-cooling",
           "ac-electrical-wiring",
           "electrical-connections",
+          "epa-certification-for-refrigerant-handling",
           "system-diagnostics",
           "preventative-maintenance",
           "ac-not-cooling",
@@ -114,6 +115,7 @@
         "group": "AC Repair",
         "pages": [
           "ac-unit-not-turning-on",
+          "warranty-coverage-for-ac-repair",
           "ac-repair",
           "capacitor-failure",
           "contactor-failure",
@@ -174,6 +176,7 @@
           "equipment-sizing",
           "energy-star-certified-ac-units",
           "packaged-unit-repair",
+          "txv-valve",
           "pressure-testing",
           "ac-freezing-up",
           "ac-water-leak",
@@ -181,6 +184,7 @@
           "high-ac-energy-consumption",
           "air-flow-optimization",
           "noise-reduction",
+          "ac-inspection",
           "cac1819909"
         ]
       },
