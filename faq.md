@@ -10,7 +10,7 @@ Central air conditioning systems are whole-home cooling systems that distribute 
 
 ## What is residential HVAC?
 
-Residential HVAC is the integrated system of equipment and ductwork that controls heating, ventilation, and air conditioning inside a home. A complete residential HVAC system delivers cooling capacity between 1.5 and 5 tons, heating capacity between 40,000 and 120,000 BTU per hour, and energy efficiency ratings from SEER 13 to SEER 22. Poulin Cooling A/C and Refrigeration installs, maintains, and repairs residential HVAC systems throughout Clearwater, FL.
+Residential HVAC is the integrated system of equipment and ductwork that controls heating, ventilation, and air conditioning inside a home. A complete residential HVAC system delivers cooling capacity between 1.5 and 5 tons, heating capacity between 40,000 and 120,000 BTU per hour, and energy efficiency ratings from SEER 13 to SEER 22. Residential HVAC systems are typically installed, maintained, and repaired by licensed contractors throughout Clearwater, FL.
 
 ## What are ductless mini split systems?
 
@@ -46,7 +46,7 @@ Airflow is the movement of air through a system, characterized by volume, veloci
 
 ## What is ductwork?
 
-Ductwork is a system of conduits that delivers and removes conditioned air throughout a building. Ductwork connects the air conditioning system to every room, distributing cooled or heated air through supply ducts and returning stale air through return ducts. Residential and commercial ductwork work typically covers design, sealing, and replacement, all of which can affect full system performance.
+Ductwork is a system of conduits that delivers and removes conditioned air throughout a building. Ductwork connects the air conditioning system to every room, distributing cooled or heated air through supply ducts and returning stale air through return ducts. Ductwork work for residential and commercial buildings typically covers design, sealing, and replacement, all of which can affect full system performance.
 
 ## What is duct sealing?
 
@@ -198,7 +198,7 @@ Commercial property managers are professionals who oversee the daily operations,
 
 ## What are landlords?
 
-Landlords are property owners who rent residential or commercial spaces to tenants under legally binding lease agreements. In Clearwater, FL, landlords manage portfolios ranging from 1 unit to 1,000 or more units. Responsibility for repairing or maintaining air conditioning in a Florida rental can depend on the lease and any applicable building, housing, or local property-maintenance codes. Landlords in Clearwater may find that scheduled maintenance, emergency repair, and system replacement services help address the demands of rental property management.
+Landlords are property owners who rent residential or commercial spaces to tenants under legally binding lease agreements. In Clearwater, FL, landlords manage portfolios ranging from 1 unit to 1,000 or more units. Responsibility for repairing or maintaining air conditioning in a Florida rental can depend on the lease and any applicable building, housing, or local property-maintenance codes. Landlords in Clearwater may find that scheduled maintenance, emergency repair, and replacement of aging systems help address the demands of managing rental properties.
 
 ## What are new construction builders?
 
@@ -214,7 +214,7 @@ HVAC system energy management is the systematic process of monitoring and contro
 
 ## What is NATE certification?
 
-NATE certification is a voluntary, industry-recognized technician credential that validates the technical competency of HVACR technicians through exam-based pathways covering 13 specialty exams. Current certification may be earned through NATE's CHP-5 pathway or the traditional Core and Specialty examination pathway, and most NATE certifications renew every two years through qualifying continuing education or re-examination. Poulin Cooling Air Conditioning and Refrigeration serves Clearwater homeowners and businesses, and this reference explains how the credential works.
+NATE certification is a voluntary, industry-recognized technician credential that validates the technical competency of HVACR technicians through exam-based pathways covering 13 specialty exams. Current certification may be earned through NATE's CHP-5 pathway or the traditional Core and Specialty examination pathway, and most NATE certifications renew every two years through qualifying continuing education or re-examination. This reference explains how NATE certification works, a credential that technicians may hold to show technical competency, and it can help Clearwater homeowners and businesses understand what the credential covers.
 
 ## What is EPA section 608 certification?
 
@@ -350,7 +350,7 @@ Manufacturer warranty requirements are the documented conditions an equipment br
 
 ## What is commercial refrigeration repair?
 
-Commercial refrigeration repair is the professional diagnosis and repair of refrigeration equipment used in restaurants, grocery stores, and other commercial settings to keep perishable inventory safe and operations running. It covers walk-in coolers, reach-in units, display cases, and ice machines. This is not residential appliance repair. Commercial refrigeration service addresses equipment that runs continuously under heavy load, where a single failure can mean thousands of dollars in lost product within hours. Poulin Cooling A/C and Refrigeration has served Clearwater since 2019.
+Commercial refrigeration repair is the professional diagnosis and repair of refrigeration equipment used in restaurants, grocery stores, and other commercial settings to keep perishable inventory safe and operations running. It covers walk-in coolers, reach-in units, display cases, and ice machines. This is not residential appliance repair. Commercial refrigeration service addresses equipment that runs continuously under heavy load, where a single failure can mean thousands of dollars in lost product within hours. Poulin Cooling A/C and Refrigeration was founded in 2019.
 
 ## What is a walk-in cooler?
 
