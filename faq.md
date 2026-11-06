@@ -66,7 +66,7 @@ Humidity control is the HVAC system feature that regulates indoor moisture level
 
 ## What is a dehumidifier?
 
-A dehumidifier is an air treatment appliance that removes excess moisture from indoor air by drawing humid air across a cold coil, condensing the water vapor, and collecting the extracted water in a tank. Dehumidifiers remove 30 to 70 pints of moisture per day depending on unit capacity and ambient conditions. In Clearwater, FL, where relative humidity regularly exceeds 80% RH, dehumidifier installation and maintenance are often core components of whole-home humidity control.
+A dehumidifier is an air treatment appliance that removes excess moisture from indoor air by drawing humid air across a cold coil, condensing the water vapor, and collecting the extracted water in a tank. Dehumidifiers remove 30 to 70 pints of moisture per day depending on unit capacity and ambient conditions. In Clearwater, FL, where relative humidity regularly exceeds 80% RH, dehumidification can be a core component of whole-home humidity control, and homeowners may rely on properly sized equipment to manage indoor moisture.
 
 ## What are indoor air quality solutions?
 
@@ -102,7 +102,7 @@ A programmable thermostat is a device that automatically adjusts HVAC system ope
 
 ## What are thermostats?
 
-Thermostats are devices that automatically regulate temperature by controlling HVAC systems across a range of -10°F to 120°F. A thermostat connects directly to air conditioning and heating equipment, sending signals that start or stop operation based on a set target temperature. Thermostats are typically installed and serviced by HVAC technicians, and an air conditioning contractor can generally help with thermostat selection and diagnostics for common system types.
+Thermostats are devices that automatically regulate temperature by controlling HVAC systems across a range of -10°F to 120°F. A thermostat connects directly to air conditioning and heating equipment, sending signals that start or stop operation based on a set target temperature. Thermostats are typically installed and serviced by HVAC technicians, and an air conditioning contractor may be able to assist with thermostat selection and diagnostics for common system types.
 
 ## What is cooling efficiency?
 
