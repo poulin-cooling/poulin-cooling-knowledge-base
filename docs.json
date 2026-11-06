@@ -13,6 +13,7 @@
       {
         "group": "Core Services",
         "pages": [
+          "air-conditioning-contractor",
           "central-air-conditioning-installation",
           "fl-certified-air-conditioning-contractor-license"
         ]
@@ -20,13 +21,11 @@
       {
         "group": "Systems & Equipment",
         "pages": [
+          "central-air-conditioning-systems",
           "ductless-mini-split-installation",
           "florida-ac-contractor-license",
           "ductless-mini-split-air-conditioner",
           "dirty-condenser-coils",
-          "air-conditioning-contractor",
-          "central-air-conditioning-systems",
-          "residential-hvac",
           "ductless-mini-split-systems",
           "heat-pumps",
           "variable-refrigerant-flow",
@@ -34,9 +33,9 @@
           "compressors",
           "condenser-units",
           "blower-motors",
-          "zoning-systems",
           "condenser-fan-motor",
-          "compressor-replacement"
+          "zoning-systems",
+          "residential-hvac"
         ]
       },
       {
@@ -45,9 +44,9 @@
           "low-ac-airflow",
           "airflow",
           "ductwork",
+          "ventilation",
           "duct-sealing",
           "air-duct-cleaning",
-          "ventilation",
           "ductwork-installation"
         ]
       },
@@ -57,14 +56,21 @@
           "uv-light-for-hvac-systems",
           "high-indoor-humidity",
           "humidity-control",
-          "dehumidifier",
-          "indoor-air-quality-solutions",
+          "air-filters",
           "poor-indoor-air-quality",
+          "dirty-air-filter",
+          "dehumidifier",
           "hepa-filter",
           "uv-lights",
-          "air-filters",
-          "dirty-air-filter",
-          "merv-rating"
+          "merv-rating",
+          "indoor-air-quality-solutions"
+        ]
+      },
+      {
+        "group": "Controls",
+        "pages": [
+          "programmable-thermostat",
+          "thermostats"
         ]
       },
       {
@@ -73,89 +79,127 @@
           "high-efficiency-air-conditioner",
           "ac-system-load-calculation",
           "energy-efficiency-standards",
-          "cooling-efficiency",
-          "energy-efficiency",
+          "high-energy-bills",
           "seer-rating",
           "btu",
           "tonnage",
           "load-calculation",
           "manual-j",
-          "high-energy-bills",
-          "hvac-system-energy-management",
-          "seer2-rating"
+          "seer2-rating",
+          "cooling-efficiency",
+          "energy-efficiency",
+          "hvac-system-energy-management"
         ]
       },
       {
         "group": "Diagnostics & Repairs",
         "pages": [
+          "system-diagnostics",
           "ac-system-replacement",
           "electrical-disconnect-box",
           "uneven-home-cooling",
           "ac-electrical-wiring",
           "electrical-connections",
           "epa-certification-for-refrigerant-handling",
-          "system-diagnostics",
-          "preventative-maintenance",
+          "evaporator-coil",
+          "condensate-drain-line",
           "ac-not-cooling",
           "uneven-cooling",
           "ac-breakdown",
-          "emergency-ac-repair",
-          "ac-unit-replacement",
-          "coolant-leak",
-          "refrigerant",
           "frozen-evaporator-coil",
           "clogged-drain-lines",
           "electrical-malfunctions",
+          "preventative-maintenance",
+          "compressor-replacement",
           "refrigerant-recharge",
-          "evaporator-coil",
-          "condensate-drain-line"
+          "refrigerant",
+          "emergency-ac-repair",
+          "ac-unit-replacement",
+          "coolant-leak"
+        ]
+      },
+      {
+        "group": "Who We Serve",
+        "pages": [
+          "homeowners",
+          "commercial-property-managers",
+          "landlords",
+          "new-construction-builders",
+          "comfort"
+        ]
+      },
+      {
+        "group": "Standards & Certifications",
+        "pages": [
+          "nate-certification",
+          "epa-section-608-certification",
+          "hvac-licensing",
+          "building-codes"
         ]
       },
       {
         "group": "AC Repair",
         "pages": [
+          "ac-repair",
           "ac-unit-not-turning-on",
           "warranty-coverage-for-ac-repair",
-          "ac-repair",
+          "capacitor-testing",
+          "contactor-inspection",
+          "expansion-valve",
           "capacitor-failure",
           "contactor-failure",
           "ac-short-cycling",
           "ac-not-turning-on",
           "unusual-ac-noises",
-          "ac-odors",
-          "expansion-valve"
+          "ac-odors"
         ]
       },
       {
         "group": "AC Installation",
         "pages": [
+          "ac-installation",
           "new-construction-ac-installation",
           "permit",
           "contractor-ac-installation-warranty",
           "ahri-certified-ac-equipment",
-          "ac-installation",
           "line-set",
           "ac-disconnect-box",
           "system-commissioning",
-          "hvac-permits",
-          "ahri-matched-system"
+          "ahri-matched-system",
+          "hvac-permits"
         ]
       },
       {
         "group": "AC Maintenance",
         "pages": [
+          "ac-maintenance",
           "manufacturers-ac-system-warranty",
           "extended-labor-warranty",
           "leak-detection",
           "ac-manufacturer-warranty",
-          "ac-maintenance",
+          "reduced-ac-system-lifespan",
           "ac-tune-up",
           "coil-cleaning",
+          "thermostat-calibration",
           "static-pressure-testing",
           "ac-leak-detection",
-          "air-conditioner-lifespan",
+          "manufacturer-warranty-requirements",
           "hvac-maintenance-plans",
-          "manufacturer-warranty-requirements"
+          "air-conditioner-lifespan"
+        ]
+      },
+      {
+        "group": "Commercial Refrigeration",
+        "pages": [
+          "commercial-refrigeration-repair",
+          "walk-in-cooler",
+          "walk-in-freezer",
+          "reach-in-refrigerator",
+          "ice-machine",
+          "defrost-system",
+          "food-safety-temperature-requirements",
+          "hfc-phasedown",
+          "emergency-refrigeration-repair"
         ]
       },
       {
@@ -185,7 +229,11 @@
           "air-flow-optimization",
           "noise-reduction",
           "ac-inspection",
-          "cac1819909"
+          "cac1819909",
+          "ac-system-performance-test",
+          "temperature-differential-test",
+          "psychrometric-testing",
+          "noise-assessment"
         ]
       },
       {
@@ -204,47 +252,6 @@
         "group": "Reviews",
         "pages": [
           "poulin-cooling-ac-and-refrigeration-reviews"
-        ]
-      },
-      {
-        "group": "Controls",
-        "pages": [
-          "programmable-thermostat",
-          "thermostats",
-          "thermostat-calibration"
-        ]
-      },
-      {
-        "group": "Who We Serve",
-        "pages": [
-          "comfort",
-          "homeowners",
-          "commercial-property-managers",
-          "landlords",
-          "new-construction-builders"
-        ]
-      },
-      {
-        "group": "Standards & Certifications",
-        "pages": [
-          "building-codes",
-          "nate-certification",
-          "epa-section-608-certification",
-          "hvac-licensing"
-        ]
-      },
-      {
-        "group": "Commercial Refrigeration",
-        "pages": [
-          "commercial-refrigeration-repair",
-          "walk-in-cooler",
-          "walk-in-freezer",
-          "reach-in-refrigerator",
-          "ice-machine",
-          "defrost-system",
-          "food-safety-temperature-requirements",
-          "emergency-refrigeration-repair",
-          "hfc-phasedown"
         ]
       }
     ]
