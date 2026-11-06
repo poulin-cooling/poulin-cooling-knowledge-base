@@ -24,3 +24,4 @@ footer { margin-top:2.5rem; color:var(--muted); font-size:.85rem; }
   text-align:left; font-size:.95rem; }
 .article-meta { color:var(--muted); font-size:.85rem; margin:.25rem 0 1rem; }
 .byline { margin:.25rem 0 1rem; }
+iframe.map { display:block; margin:1rem 0; }
