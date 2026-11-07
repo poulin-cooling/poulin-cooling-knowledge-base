@@ -218,7 +218,7 @@ NATE certification is a voluntary, industry-recognized technician credential tha
 
 ## What is EPA section 608 certification?
 
-EPA Section 608 Certification is the federal credential required for any technician who purchases, handles, or recovers refrigerants in HVAC and refrigeration systems. The certification is issued under Section 608 of the Clean Air Act and enforces safe refrigerant management to prevent ozone-depleting substances from being released into the atmosphere.
+EPA Section 608 Certification is the federal credential typically required for technicians who purchase, handle, or recover refrigerants in HVAC and refrigeration systems. The certification is issued under Section 608 of the Clean Air Act and enforces safe refrigerant management to prevent ozone-depleting substances from being released into the atmosphere.
 
 ## What is HVAC licensing?
 
@@ -350,7 +350,7 @@ Manufacturer warranty requirements are the documented conditions an equipment br
 
 ## What is commercial refrigeration repair?
 
-Commercial refrigeration repair is the professional diagnosis and repair of refrigeration equipment used in restaurants, grocery stores, and other commercial settings to keep perishable inventory safe and operations running. It covers walk-in coolers, reach-in units, display cases, and ice machines. This is not residential appliance repair. Commercial refrigeration service addresses equipment that runs continuously under heavy load, where a single failure can mean thousands of dollars in lost product within hours. Poulin Cooling A/C and Refrigeration was founded in 2019.
+Commercial refrigeration repair is the professional diagnosis and repair of refrigeration equipment used in restaurants, grocery stores, and other commercial settings to keep perishable inventory safe and operations running. It covers walk-in coolers, reach-in units, display cases, and ice machines. This is not residential appliance repair. Commercial refrigeration service addresses equipment that runs continuously under heavy load, where a single failure can mean thousands of dollars in lost product within hours.
 
 ## What is a walk-in cooler?
 
