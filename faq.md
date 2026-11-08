@@ -26,7 +26,7 @@ Variable refrigerant flow is an HVAC technology that modulates refrigerant deliv
 
 ## What are air handlers?
 
-Air handlers are indoor HVAC units that circulate conditioned air throughout a building by housing the blower motor, air filter, and heat exchanger coil in a single cabinet. Air handlers operate as part of a split system, receiving cooled or heated refrigerant from an outdoor unit and distributing the treated air through ductwork. Poulin Cooling Air Conditioning and Refrigeration installs, services, and replaces air handlers for residential and commercial properties across Clearwater, FL.
+Air handlers are indoor HVAC units that circulate conditioned air throughout a building by housing the blower motor, air filter, and heat exchanger coil in a single cabinet. Air handlers operate as part of a split system, receiving cooled or heated refrigerant from an outdoor unit and distributing the treated air through ductwork. Air handlers are typically installed, serviced, and replaced as part of residential and commercial HVAC work, with the replacement process often matched to the existing split system and ductwork.
 
 ## What are compressors?
 
@@ -190,7 +190,7 @@ Comfort is an indoor physical state influenced by air temperature, humidity, air
 
 ## What are homeowners?
 
-Homeowners are residential property owners who hold full purchasing authority over HVAC maintenance, repair, and replacement decisions for their properties. Homeowners represent the primary user type served by air conditioning contractor services in Clearwater, FL.
+Homeowners are residential property owners who hold full purchasing authority over HVAC maintenance, repair, and replacement decisions for their properties. Homeowners are typically the main users of residential air conditioning contractor services in Clearwater, FL.
 
 ## What are commercial property managers?
 
