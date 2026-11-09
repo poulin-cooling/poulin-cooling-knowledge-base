@@ -69,6 +69,7 @@
       {
         "group": "Controls",
         "pages": [
+          "thermostat-settings-optimization",
           "programmable-thermostat",
           "thermostats"
         ]
@@ -233,7 +234,12 @@
           "ac-system-performance-test",
           "temperature-differential-test",
           "psychrometric-testing",
-          "noise-assessment"
+          "component-lubrication",
+          "noise-assessment",
+          "hvac-industry-standards",
+          "service-records",
+          "air-pressure-gauge",
+          "lubrication-of-moving-parts"
         ]
       },
       {
