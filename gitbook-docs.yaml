@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: "Poulin Cooling A/C and Refrigeration Knowledge Base"
+  structure:
+    - type: space
+      key: knowledge-base
+      title: "Poulin Cooling A/C and Refrigeration Knowledge Base"
+      path: knowledge-base
+      default: true
+      content:
+        directory: ./gitbook
