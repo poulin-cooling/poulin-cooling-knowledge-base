@@ -21,3 +21,7 @@
 ## AC Maintenance
 
 * [Manufacturer Warranty Requirements](manufacturer-warranty-requirements.md)
+
+## More Topics
+
+* [Equipment Sizing](equipment-sizing.md)
