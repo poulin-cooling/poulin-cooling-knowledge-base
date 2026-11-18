@@ -56,12 +56,16 @@ Yes, coolant leaks can occur in AC systems when refrigerant escapes through conn
 
 ### Related entities
 
-- [ac unit replacement](doc:ac-unit-replacement) — parent entity (links up the chain — PRIMARY up-link)
+- [ac unit replacement](doc:ac-unit-replacement)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ac not cooling](doc:ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](doc:ac-not-cooling)
 
-- [frozen evaporator coil](doc:frozen-evaporator-coil) — sibling entity (same sub-cluster)
+- [frozen evaporator coil](doc:frozen-evaporator-coil)
 
-- [clogged drain lines](doc:clogged-drain-lines) — sibling entity (same sub-cluster)
+- [clogged drain lines](doc:clogged-drain-lines)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
