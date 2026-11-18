@@ -64,10 +64,14 @@ Cooling efficiency (known as cooling effectiveness or SEER rating in residential
 
 ### Related entities
 
-- [thermostats](doc:thermostats) — parent entity (links up the chain — PRIMARY up-link)
+- [thermostats](doc:thermostats)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [system diagnostics](doc:system-diagnostics) — sibling entity (same sub-cluster)
+- [system diagnostics](doc:system-diagnostics)
 
-- [hvac system energy management](doc:hvac-system-energy-management) — sibling entity (same sub-cluster)
+- [hvac system energy management](doc:hvac-system-energy-management)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
