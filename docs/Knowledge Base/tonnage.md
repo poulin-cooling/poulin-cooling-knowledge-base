@@ -58,10 +58,14 @@ Tonnage is the unit of measurement that defines an air conditioning system's coo
 
 ### Related entities
 
-- [btu](doc:btu) — parent entity (links up the chain — PRIMARY up-link)
+- [btu](doc:btu)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [seer rating](doc:seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](doc:seer-rating)
 
-- [load calculation](doc:load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](doc:load-calculation)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
