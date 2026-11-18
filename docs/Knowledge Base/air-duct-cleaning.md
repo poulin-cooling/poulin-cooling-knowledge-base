@@ -60,10 +60,14 @@ Air duct cleaning is the mechanical removal of dust, debris, and contaminants fr
 
 ### Related entities
 
-- [duct sealing](doc:duct-sealing) — parent entity (links up the chain — PRIMARY up-link)
+- [duct sealing](doc:duct-sealing)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [dehumidifier](doc:dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](doc:dehumidifier)
 
-- [hepa filter](doc:hepa-filter) — sibling entity (same sub-cluster)
+- [hepa filter](doc:hepa-filter)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
