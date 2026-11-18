@@ -60,12 +60,16 @@ Airflow is the movement of air through an HVAC system, characterized by volume (
 
 ### Related entities
 
-- [blower motors](doc:blower-motors) — parent entity (links up the chain — PRIMARY up-link)
+- [blower motors](doc:blower-motors)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ductwork](doc:ductwork) — sibling entity (same sub-cluster)
+- [ductwork](doc:ductwork)
 
-- [ventilation](doc:ventilation) — sibling entity (same sub-cluster)
+- [ventilation](doc:ventilation)
 
-- [zoning systems](doc:zoning-systems) — sibling entity (same sub-cluster)
+- [zoning systems](doc:zoning-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
