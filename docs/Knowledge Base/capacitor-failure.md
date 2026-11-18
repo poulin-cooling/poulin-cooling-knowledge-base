@@ -55,8 +55,12 @@ Equipment type determines where a technician looks first. Recognizing the system
 
 ### Related entities
 
-- [AC repair](doc:ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](doc:ac-repair)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [contactor failure](doc:contactor-failure) — sibling entity (same sub-cluster)
+- [contactor failure](doc:contactor-failure)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
