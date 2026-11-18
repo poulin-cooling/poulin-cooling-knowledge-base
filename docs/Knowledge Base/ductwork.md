@@ -60,10 +60,14 @@ Ductwork is a system of conduits that delivers and removes conditioned air throu
 
 ### Related entities
 
-- [airflow](doc:airflow) — parent entity (links up the chain — PRIMARY up-link)
+- [airflow](doc:airflow)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ventilation](doc:ventilation) — sibling entity (same sub-cluster)
+- [ventilation](doc:ventilation)
 
-- [zoning systems](doc:zoning-systems) — sibling entity (same sub-cluster)
+- [zoning systems](doc:zoning-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
