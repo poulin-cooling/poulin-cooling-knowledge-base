@@ -58,12 +58,16 @@ AC short cycling applies to any split-system or packaged air conditioner, includ
 
 ### Related entities
 
-- [AC repair](doc:ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](doc:ac-repair)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [humidity control](doc:humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](doc:humidity-control)
 
-- [poor indoor air quality](doc:poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](doc:poor-indoor-air-quality)
 
-- [dirty air filter](doc:dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](doc:dirty-air-filter)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
