@@ -57,10 +57,14 @@ For homeowners who want to calibrate a home thermostat between professional visi
 
 ### Related entities
 
-- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](doc:ac-maintenance)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ac tune-up](doc:ac-tune-up) — sibling entity (same sub-cluster)
+- [ac tune-up](doc:ac-tune-up)
 
-- [coil cleaning](doc:coil-cleaning) — sibling entity (same sub-cluster)
+- [coil cleaning](doc:coil-cleaning)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
