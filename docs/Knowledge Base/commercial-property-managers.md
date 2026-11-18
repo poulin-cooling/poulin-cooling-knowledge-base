@@ -70,10 +70,14 @@ Commercial property managers apply HVAC contractor services across 5 primary bui
 
 ### Related entities
 
-- [homeowners](doc:homeowners) — parent entity (links up the chain — PRIMARY up-link)
+- [homeowners](doc:homeowners)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [landlords](doc:landlords) — sibling entity (same sub-cluster)
+- [landlords](doc:landlords)
 
-- [new construction builders](doc:new-construction-builders) — sibling entity (same sub-cluster)
+- [new construction builders](doc:new-construction-builders)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
