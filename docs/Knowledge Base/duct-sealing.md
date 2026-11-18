@@ -51,12 +51,16 @@ Plenum joints, where the main trunk connects to the air handler cabinet, experie
 
 ### Related entities
 
-- [ductwork](doc:ductwork) — parent entity (links up the chain — PRIMARY up-link)
+- [ductwork](doc:ductwork)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [air duct cleaning](doc:air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](doc:air-duct-cleaning)
 
-- [dehumidifier](doc:dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](doc:dehumidifier)
 
-- [hepa filter](doc:hepa-filter) — sibling entity (same sub-cluster)
+- [hepa filter](doc:hepa-filter)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
