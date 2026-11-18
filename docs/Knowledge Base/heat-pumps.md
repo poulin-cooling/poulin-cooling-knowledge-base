@@ -50,8 +50,12 @@ Heat pumps are HVAC systems that transfer heat between indoor and outdoor enviro
 
 ### Related entities
 
-- [ductless mini split systems](doc:ductless-mini-split-systems) — parent entity (links up the chain — PRIMARY up-link)
+- [ductless mini split systems](doc:ductless-mini-split-systems)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [air handlers](doc:air-handlers) — sibling entity (same sub-cluster)
+- [air handlers](doc:air-handlers)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
