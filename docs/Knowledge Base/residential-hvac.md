@@ -48,12 +48,16 @@ Residential HVAC applies to single-family homes, condominiums, townhomes, and sm
 
 ### Related entities
 
-- [central air conditioning systems](doc:central-air-conditioning-systems) — parent entity (links up the chain — PRIMARY up-link)
+- [central air conditioning systems](doc:central-air-conditioning-systems)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [indoor air quality solutions](doc:indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](doc:indoor-air-quality-solutions)
 
-- [thermostats](doc:thermostats) — sibling entity (same sub-cluster)
+- [thermostats](doc:thermostats)
 
-- [energy efficiency](doc:energy-efficiency) — sibling entity (same sub-cluster)
+- [energy efficiency](doc:energy-efficiency)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
