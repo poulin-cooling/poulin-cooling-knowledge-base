@@ -67,6 +67,10 @@ Building codes protect property owners from these failure modes when a licensed 
 
 ### Related entities
 
-- [new construction builders](doc:new-construction-builders) — parent entity (links up the chain — PRIMARY up-link)
+- [new construction builders](doc:new-construction-builders)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
