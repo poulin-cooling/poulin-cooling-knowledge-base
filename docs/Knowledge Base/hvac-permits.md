@@ -69,8 +69,12 @@ Timeline depends on the issuing authority's current workload and whether the app
 
 ### Related entities
 
-- [AC installation](doc:ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](doc:ac-installation)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [building codes](doc:building-codes) — sibling entity (same sub-cluster)
+- [building codes](doc:building-codes)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
