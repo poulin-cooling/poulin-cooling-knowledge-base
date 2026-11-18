@@ -76,10 +76,14 @@ Manufacturer warranty terms vary by manufacturer, model, and state law, and loca
 
 ### Related entities
 
-- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](doc:ac-maintenance)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [building codes](doc:building-codes) — sibling entity (same sub-cluster)
+- [building codes](doc:building-codes)
 
-- [hvac permits](doc:hvac-permits) — sibling entity (same sub-cluster)
+- [hvac permits](doc:hvac-permits)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
