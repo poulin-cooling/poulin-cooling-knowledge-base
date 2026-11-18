@@ -61,8 +61,12 @@ The licensed contractor holds the legal accountability for work performed on a p
 
 ### Related entities
 
-- [epa section 608 certification](doc:epa-section-608-certification) — parent entity (links up the chain — PRIMARY up-link)
+- [epa section 608 certification](doc:epa-section-608-certification)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [nate certification](doc:nate-certification) — sibling entity (same sub-cluster)
+- [nate certification](doc:nate-certification)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
