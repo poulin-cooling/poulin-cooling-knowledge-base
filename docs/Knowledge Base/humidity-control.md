@@ -65,12 +65,16 @@ Yes, AC systems can control humidity. Poulin Cooling A/C and Refrigeration expla
 
 ### Related entities
 
-- [ventilation](doc:ventilation) — parent entity (links up the chain — PRIMARY up-link)
+- [ventilation](doc:ventilation)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [poor indoor air quality](doc:poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](doc:poor-indoor-air-quality)
 
-- [dirty air filter](doc:dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](doc:dirty-air-filter)
 
-- [ac not cooling](doc:ac-not-cooling) — sibling entity (same sub-cluster)
+- [ac not cooling](doc:ac-not-cooling)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
