@@ -68,10 +68,14 @@ Poulin Cooling A/C and Refrigeration performs load calculations for residential 
 
 ### Related entities
 
-- [tonnage](doc:tonnage) — parent entity (links up the chain — PRIMARY up-link)
+- [tonnage](doc:tonnage)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [seer rating](doc:seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](doc:seer-rating)
 
-- [btu](doc:btu) — sibling entity (same sub-cluster)
+- [btu](doc:btu)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
