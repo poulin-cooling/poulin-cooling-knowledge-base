@@ -52,6 +52,10 @@ AC repair cost depends on the specific component that failed, the refrigerant ty
 
 ### Related entities
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [central air conditioning systems](doc:central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](doc:central-air-conditioning-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
