@@ -76,10 +76,14 @@ BTU (British Thermal Unit) is the standard unit of heat energy used to measure h
 
 ### Related entities
 
-- [seer rating](doc:seer-rating) — parent entity (links up the chain — PRIMARY up-link)
+- [seer rating](doc:seer-rating)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [tonnage](doc:tonnage) — sibling entity (same sub-cluster)
+- [tonnage](doc:tonnage)
 
-- [load calculation](doc:load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](doc:load-calculation)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
