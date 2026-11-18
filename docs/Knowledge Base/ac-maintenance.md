@@ -50,6 +50,10 @@ Annual AC maintenance in Clearwater carries more weight than in cooler climates.
 
 ### Related entities
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ac repair](doc:ac-repair) — sibling entity (same sub-cluster)
+- [ac repair](doc:ac-repair)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
