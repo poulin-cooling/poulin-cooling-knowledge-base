@@ -63,6 +63,10 @@ Poulin Cooling A/C and Refrigeration provides air conditioning installation, rep
 
 ### Related entities
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ductless mini split systems](doc:ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](doc:ductless-mini-split-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
