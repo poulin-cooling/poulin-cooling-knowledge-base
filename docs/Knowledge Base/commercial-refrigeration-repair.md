@@ -61,8 +61,12 @@ Restaurant refrigeration service is the most common application. Commercial cool
 
 ### Related entities
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — parent entity (links up the chain — PRIMARY up-link)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [central air conditioning systems](doc:central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](doc:central-air-conditioning-systems)
 
-- [ac repair](doc:ac-repair) — sibling entity (same sub-cluster)
+- [ac repair](doc:ac-repair)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
