@@ -58,10 +58,14 @@ Variable refrigerant flow is not suited for every application. Buildings with sh
 
 ### Related entities
 
-- [heat pumps](doc:heat-pumps) — parent entity (links up the chain — PRIMARY up-link)
+- [heat pumps](doc:heat-pumps)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ductless mini split systems](doc:ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](doc:ductless-mini-split-systems)
 
-- [air handlers](doc:air-handlers) — sibling entity (same sub-cluster)
+- [air handlers](doc:air-handlers)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
