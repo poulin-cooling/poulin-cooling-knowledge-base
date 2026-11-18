@@ -55,4 +55,8 @@ Clearwater's climate creates year-round demand for air conditioning contractor s
 
 ### Related entities
 
-- [central air conditioning systems](doc:central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](doc:central-air-conditioning-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
