@@ -65,8 +65,12 @@ Hiring a technician without active NATE certification increases the risk of inco
 
 ### Related entities
 
-- [hvac system energy management](doc:hvac-system-energy-management) — parent entity (links up the chain — PRIMARY up-link)
+- [hvac system energy management](doc:hvac-system-energy-management)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [hvac licensing](doc:hvac-licensing) — sibling entity (same sub-cluster)
+- [hvac licensing](doc:hvac-licensing)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
