@@ -50,12 +50,16 @@ Clearwater's UV exposure and salt air accelerate insulation degradation on exter
 
 ### Related entities
 
-- [AC installation](doc:ac-installation) — parent entity (links up the chain — PRIMARY up-link)
+- [AC installation](doc:ac-installation)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ductless mini split systems](doc:ductless-mini-split-systems) — sibling entity (same sub-cluster)
+- [ductless mini split systems](doc:ductless-mini-split-systems)
 
-- [heat pumps](doc:heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](doc:heat-pumps)
 
-- [variable refrigerant flow](doc:variable-refrigerant-flow) — sibling entity (same sub-cluster)
+- [variable refrigerant flow](doc:variable-refrigerant-flow)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
