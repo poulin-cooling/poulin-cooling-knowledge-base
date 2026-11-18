@@ -62,10 +62,14 @@ New construction refers to building residential or commercial properties from th
 
 ### Related entities
 
-- [landlords](doc:landlords) — parent entity (links up the chain — PRIMARY up-link)
+- [landlords](doc:landlords)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [homeowners](doc:homeowners) — sibling entity (same sub-cluster)
+- [homeowners](doc:homeowners)
 
-- [commercial property managers](doc:commercial-property-managers) — sibling entity (same sub-cluster)
+- [commercial property managers](doc:commercial-property-managers)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
