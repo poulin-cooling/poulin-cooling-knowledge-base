@@ -37,12 +37,16 @@ Walk-in coolers appear in restaurants, grocery stores, convenience stores, hotel
 
 ### Related entities
 
-- [commercial refrigeration repair](doc:commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](doc:commercial-refrigeration-repair)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [walk-in freezer](doc:walk-in-freezer) — sibling entity (same sub-cluster)
+- [walk-in freezer](doc:walk-in-freezer)
 
-- [reach-in refrigerator](doc:reach-in-refrigerator) — sibling entity (same sub-cluster)
+- [reach-in refrigerator](doc:reach-in-refrigerator)
 
-- [ice machine](doc:ice-machine) — sibling entity (same sub-cluster)
+- [ice machine](doc:ice-machine)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
