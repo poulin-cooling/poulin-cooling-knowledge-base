@@ -73,8 +73,12 @@ Poulin Cooling A/C and Refrigeration does not publish specific pricing for ductl
 
 ### Related entities
 
-- [residential hvac](doc:residential-hvac) — parent entity (links up the chain — PRIMARY up-link)
+- [residential hvac](doc:residential-hvac)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [central air conditioning systems](doc:central-air-conditioning-systems) — sibling entity (same sub-cluster)
+- [central air conditioning systems](doc:central-air-conditioning-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
