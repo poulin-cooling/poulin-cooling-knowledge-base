@@ -60,12 +60,16 @@ A thermostat is a temperature control device that automatically regulates HVAC s
 
 ### Related entities
 
-- [programmable thermostat](doc:programmable-thermostat) — parent entity (links up the chain — PRIMARY up-link)
+- [programmable thermostat](doc:programmable-thermostat)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [residential hvac](doc:residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](doc:residential-hvac)
 
-- [indoor air quality solutions](doc:indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](doc:indoor-air-quality-solutions)
 
-- [energy efficiency](doc:energy-efficiency) — sibling entity (same sub-cluster)
+- [energy efficiency](doc:energy-efficiency)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
