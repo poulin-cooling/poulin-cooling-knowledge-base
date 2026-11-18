@@ -49,10 +49,14 @@ Clearwater's climate profile, characterized by high relative humidity and a cool
 
 ### Related entities
 
-- [building codes](doc:building-codes) — parent entity (links up the chain — PRIMARY up-link)
+- [building codes](doc:building-codes)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [cooling efficiency](doc:cooling-efficiency) — sibling entity (same sub-cluster)
+- [cooling efficiency](doc:cooling-efficiency)
 
-- [system diagnostics](doc:system-diagnostics) — sibling entity (same sub-cluster)
+- [system diagnostics](doc:system-diagnostics)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
