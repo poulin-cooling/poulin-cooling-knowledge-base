@@ -63,8 +63,12 @@ EPA Section 608 Certification applies to every stationary refrigerant-containing
 
 ### Related entities
 
-- [nate certification](doc:nate-certification) — parent entity (links up the chain — PRIMARY up-link)
+- [nate certification](doc:nate-certification)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [hvac licensing](doc:hvac-licensing) — sibling entity (same sub-cluster)
+- [hvac licensing](doc:hvac-licensing)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
