@@ -51,8 +51,12 @@ Clearwater's climate accelerates the conditions that cause refrigerant leaks. Hi
 
 ### Related entities
 
-- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](doc:ac-maintenance)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [static pressure testing](doc:static-pressure-testing) — sibling entity (same sub-cluster)
+- [static pressure testing](doc:static-pressure-testing)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
