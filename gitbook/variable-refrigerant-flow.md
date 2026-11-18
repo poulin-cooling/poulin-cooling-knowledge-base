@@ -1,7 +1,5 @@
 # Variable Refrigerant Flow: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Variable refrigerant flow in Clearwater
 
 Variable refrigerant flow represents an HVAC technology that adjusts refrigerant delivery from one outdoor condensing unit to multiple indoor zones. The system changes its output to match the exact thermal load present in each zone instead of cycling on and off at a fixed output level. Capacity-modulation range differs according to manufacturer and product family. Contact [Poulin Cooling](https://maps.app.goo.gl/NM6dKbGcA5bTKouS7) to determine whether a specific variable refrigerant flow system receives support in Clearwater, FL. Variable refrigerant flow constitutes one form of [heat pump technology](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps). It follows the same refrigerant-cycle principles and extends those principles to simultaneous multi-zone operation.
@@ -66,4 +64,4 @@ Variable refrigerant flow does not fit every application. Buildings whose refrig
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

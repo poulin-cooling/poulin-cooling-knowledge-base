@@ -1,7 +1,5 @@
 # System Diagnostics: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## System diagnostics in Clearwater
 
 System diagnostics identifies faults in an AC system through performance measurements, component inspection, and data analysis. The procedure examines refrigerant pressure, airflow volume, electrical continuity, and thermostat calibration within established parameters. In Clearwater, FL, this approach for residential and commercial HVAC equipment isolates problems before they develop into complete system failures. [Poulin Cooling A/C](https://maps.app.goo.gl/ee1BGndRK9bjCFzZA) manages scheduling and service details for the area.
@@ -62,4 +60,4 @@ Local scheduling and service details are available from [Poulin Cooling A/C and 
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

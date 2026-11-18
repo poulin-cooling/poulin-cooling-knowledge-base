@@ -1,7 +1,5 @@
 # Emergency Refrigeration Repair: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Emergency refrigeration repair in Clearwater
 
 Emergency refrigeration repair consists of immediate diagnosis and repair of commercial refrigeration equipment when a breakdown places perishable goods in immediate danger of spoilage. This service forms one category of Emergency Refrigeration Service. It differs from planned maintenance visits and routine inspections. Examples include a walk-in cooler stopping during peak dinner service or a reach-in unit failing overnight. These situations define the purpose of the service.
@@ -82,4 +80,4 @@ Businesses that follow a consistent service schedule experience fewer emergency 
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

@@ -1,7 +1,5 @@
 # Thermostats: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Thermostats in Clearwater
 
 Thermostats regulate temperature automatically by directing HVAC equipment within an operating span of -10°F to 120°F. The device links directly to air conditioning and heating units, transmitting commands that activate or deactivate operation according to the chosen target temperature. HVAC technicians normally install and maintain thermostats. An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can help select the right model and perform diagnostics on standard system configurations.
@@ -70,4 +68,4 @@ A thermostat is a temperature control device that automatically regulates HVAC s
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

@@ -1,7 +1,5 @@
 # Contactor Inspection: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Contactor inspection in Clearwater
 
 Contactor inspection, known as a Contactor Check, consists of a visual and electrical assessment of the contactor located inside an air conditioning system. This electromechanical switch connects and disconnects power to the compressor and condenser fan motor during every system cycle. Contactor inspection counts as one form of [electrical inspection](system-diagnostics.md) and falls under the larger heading of AC system diagnostics. A technician who performs contactor inspection checks contact surface condition, measures voltage drop and coil resistance, confirms electrical continuity, and verifies connection tightness. The process yields one of three documented results: Pass, Fail, or Repair Recommended. [Poulin Cooling A/C](https://maps.app.goo.gl/r16w55MAiL3RMFda6) performs contactor inspection throughout Clearwater and the surrounding communities of Pinellas County.
@@ -76,4 +74,4 @@ Florida systems operate year-round. This operating pattern gives AC contactor in
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

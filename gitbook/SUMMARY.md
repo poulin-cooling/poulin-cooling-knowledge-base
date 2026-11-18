@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [About this guide](about-this-guide.md)
 
 ## Systems & Equipment
 
+* [Florida AC Contractor License](florida-ac-contractor-license.md)
 * [Variable Refrigerant Flow](variable-refrigerant-flow.md)
 
 ## Indoor Air Quality
@@ -28,7 +30,9 @@
 
 ## AC Maintenance
 
+* [Leak Detection](leak-detection.md)
 * [Manufacturer Warranty Requirements](manufacturer-warranty-requirements.md)
+* [Air Conditioner Lifespan](air-conditioner-lifespan.md)
 
 ## Commercial Refrigeration
 
@@ -36,4 +40,5 @@
 
 ## More Topics
 
+* [Aging HVAC Equipment](aging-hvac-equipment.md)
 * [Equipment Sizing](equipment-sizing.md)

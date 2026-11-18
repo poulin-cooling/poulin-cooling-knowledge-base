@@ -1,7 +1,5 @@
 # Dirty Air Filter: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Dirty air filter in Clearwater
 
 A dirty air filter describes filter media clogged with dust, debris, and airborne particles that restrict airflow inside an HVAC system. Filter media color ranges from gray to black according to the level of particle buildup, which ranges from moderate to heavy. Dirty air filters rank among the most common sources of lower HVAC efficiency, higher energy consumption, and poorer indoor air quality in Clearwater homes and commercial buildings. Technicians check and replace dirty or clogged filters during residential and commercial HVAC maintenance visits in Clearwater, FL. Appointment and service-area details come from [Poulin Cooling A/C and Refrigeration](https://maps.app.goo.gl/7avRF2ZVVjxutbqW7).
@@ -60,4 +58,4 @@ A dirty air filter is a clogged filter media condition caused by accumulated dus
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

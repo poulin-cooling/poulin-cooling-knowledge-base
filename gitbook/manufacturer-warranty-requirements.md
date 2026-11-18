@@ -1,7 +1,5 @@
 # Manufacturer Warranty Requirements: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Manufacturer warranty requirements in Clearwater
 
 Manufacturer warranty requirements consist of the documented conditions an equipment brand sets to maintain parts warranty coverage after installation. These conditions appear in the written warranty supplied with the equipment. Warranty terms differ according to manufacturer, model, application, installation date, ownership status, and state law. Product registration can qualify an owner for extended coverage, yet failure to register does not automatically remove all basic warranty protection. Owners need to follow the written warranty supplied with the specific equipment and keep installation and maintenance records.
@@ -84,4 +82,4 @@ Manufacturer warranty terms differ by manufacturer, model, and state law, and lo
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

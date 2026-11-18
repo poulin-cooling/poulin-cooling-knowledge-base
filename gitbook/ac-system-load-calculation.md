@@ -1,7 +1,5 @@
 # AC System Load Calculation: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## AC system load calculation in Clearwater
 
 Cooling Load Calculation determines the exact cooling capacity an AC system must deliver to a specific space. The process quantifies heat gain and heat loss in BTUs per hour from every surface, opening, occupant, and appliance inside the building. Square footage, window area, insulation quality, ceiling height, local climate data, internal heat sources, and occupancy patterns all enter the computation. The end result is one BTU/h value. That single number tells the installer the equipment capacity the space requires. Without this figure a contractor can only guess. An incorrect guess increases homeowner operating costs for the entire service life of the equipment. Scheduling and service questions for the area go through [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/hKN0Hwb3cHI).
@@ -82,4 +80,4 @@ Load calculations such as a Manual J report form part of a proper air conditioni
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.

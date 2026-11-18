@@ -1,7 +1,5 @@
 # Equipment Sizing: A Poulin Cooling A/C and Refrigeration Reference Guide
 
-Promotional and educational content about Poulin Cooling A/C and Refrigeration. Not operated by Poulin Cooling A/C and Refrigeration.
-
 ## Equipment sizing in Clearwater
 
 Equipment sizing, known as load calculation or AC sizing, constitutes the engineering process that calculates the precise cooling and heating capacity a building requires. This ensures the selected AC unit matches the actual thermal demand of the space by taking into account square footage, insulation levels, window area, local climate, occupancy and internal heat sources. [Poulin Cooling Air Conditioning and Refrigeration](https://maps.app.goo.gl/LbpxR8FbKkgvRFjR7) handles scheduling and service details for the area. Appointment and service-area details come from [Poulin Cooling A/C](https://sl.bing.net/dvEKcohmlPw).
@@ -78,4 +76,4 @@ Commercial properties require a load calculation process scaled to larger square
 
 ---
 
-Promotional and educational material about Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain mistakes. Poulin Cooling A/C and Refrigeration's official website has the current information. Not operated by Poulin Cooling A/C and Refrigeration.
+This is a third-party guide to Poulin Cooling A/C and Refrigeration, with educational and promotional content. Some details may have changed or contain errors. See Poulin Cooling A/C and Refrigeration's website for the latest information.
