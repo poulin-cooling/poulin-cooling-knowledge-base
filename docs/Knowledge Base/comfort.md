@@ -57,12 +57,16 @@ Comfort is an indoor physical state influenced by air temperature, humidity, air
 
 ### Related entities
 
-- [high energy bills](doc:high-energy-bills) — parent entity (links up the chain — PRIMARY up-link)
+- [high energy bills](doc:high-energy-bills)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [residential hvac](doc:residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](doc:residential-hvac)
 
-- [indoor air quality solutions](doc:indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](doc:indoor-air-quality-solutions)
 
-- [thermostats](doc:thermostats) — sibling entity (same sub-cluster)
+- [thermostats](doc:thermostats)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
