@@ -49,8 +49,12 @@ Air handlers serve residential, light commercial, and refrigeration applications
 
 ### Related entities
 
-- [variable refrigerant flow](doc:variable-refrigerant-flow) — parent entity (links up the chain — PRIMARY up-link)
+- [variable refrigerant flow](doc:variable-refrigerant-flow)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [heat pumps](doc:heat-pumps) — sibling entity (same sub-cluster)
+- [heat pumps](doc:heat-pumps)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
