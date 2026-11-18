@@ -39,10 +39,14 @@ Coil cleaning applies to any split-system air conditioner, heat pump, or package
 
 ### Related entities
 
-- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](doc:ac-maintenance)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [ac tune-up](doc:ac-tune-up) — sibling entity (same sub-cluster)
+- [ac tune-up](doc:ac-tune-up)
 
-- [thermostat calibration](doc:thermostat-calibration) — sibling entity (same sub-cluster)
+- [thermostat calibration](doc:thermostat-calibration)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
