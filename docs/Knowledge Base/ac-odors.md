@@ -56,8 +56,12 @@ Homeowners who notice any air conditioner odor beyond a brief dusty smell at the
 
 ### Related entities
 
-- [AC repair](doc:ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [AC repair](doc:ac-repair)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [unusual ac noises](doc:unusual-ac-noises) — sibling entity (same sub-cluster)
+- [unusual ac noises](doc:unusual-ac-noises)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
