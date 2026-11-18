@@ -69,12 +69,16 @@ A high energy bill is a financial condition in which monthly electricity or gas 
 
 ### Related entities
 
-- [electrical malfunctions](doc:electrical-malfunctions) — parent entity (links up the chain — PRIMARY up-link)
+- [electrical malfunctions](doc:electrical-malfunctions)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [humidity control](doc:humidity-control) — sibling entity (same sub-cluster)
+- [humidity control](doc:humidity-control)
 
-- [poor indoor air quality](doc:poor-indoor-air-quality) — sibling entity (same sub-cluster)
+- [poor indoor air quality](doc:poor-indoor-air-quality)
 
-- [dirty air filter](doc:dirty-air-filter) — sibling entity (same sub-cluster)
+- [dirty air filter](doc:dirty-air-filter)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
