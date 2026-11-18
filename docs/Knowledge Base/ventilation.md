@@ -81,12 +81,16 @@ Ventilation is the intentional introduction and removal of air from a space, mea
 
 ### Related entities
 
-- [air duct cleaning](doc:air-duct-cleaning) — parent entity (links up the chain — PRIMARY up-link)
+- [air duct cleaning](doc:air-duct-cleaning)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [airflow](doc:airflow) — sibling entity (same sub-cluster)
+- [airflow](doc:airflow)
 
-- [ductwork](doc:ductwork) — sibling entity (same sub-cluster)
+- [ductwork](doc:ductwork)
 
-- [zoning systems](doc:zoning-systems) — sibling entity (same sub-cluster)
+- [zoning systems](doc:zoning-systems)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
