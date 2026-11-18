@@ -53,12 +53,16 @@ The food safe holding temperature standard applies during transport and display,
 
 ### Related entities
 
-- [commercial refrigeration repair](doc:commercial-refrigeration-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [commercial refrigeration repair](doc:commercial-refrigeration-repair)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [building codes](doc:building-codes) — sibling entity (same sub-cluster)
+- [building codes](doc:building-codes)
 
-- [hvac permits](doc:hvac-permits) — sibling entity (same sub-cluster)
+- [hvac permits](doc:hvac-permits)
 
-- [manufacturer warranty requirements](doc:manufacturer-warranty-requirements) — sibling entity (same sub-cluster)
+- [manufacturer warranty requirements](doc:manufacturer-warranty-requirements)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
