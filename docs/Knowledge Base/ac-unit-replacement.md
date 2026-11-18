@@ -49,12 +49,16 @@ The context provided by Poulin Cooling A/C and Refrigeration does not contain sp
 
 ### Related entities
 
-- [emergency ac repair](doc:emergency-ac-repair) — parent entity (links up the chain — PRIMARY up-link)
+- [emergency ac repair](doc:emergency-ac-repair)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [residential hvac](doc:residential-hvac) — sibling entity (same sub-cluster)
+- [residential hvac](doc:residential-hvac)
 
-- [indoor air quality solutions](doc:indoor-air-quality-solutions) — sibling entity (same sub-cluster)
+- [indoor air quality solutions](doc:indoor-air-quality-solutions)
 
-- [thermostats](doc:thermostats) — sibling entity (same sub-cluster)
+- [thermostats](doc:thermostats)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
