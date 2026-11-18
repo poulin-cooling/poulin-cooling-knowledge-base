@@ -61,12 +61,16 @@ Rising utility bills on a system with no change in usage patterns indicate decli
 
 ### Related entities
 
-- [AC maintenance](doc:ac-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [AC maintenance](doc:ac-maintenance)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [seer rating](doc:seer-rating) — sibling entity (same sub-cluster)
+- [seer rating](doc:seer-rating)
 
-- [btu](doc:btu) — sibling entity (same sub-cluster)
+- [btu](doc:btu)
 
-- [tonnage](doc:tonnage) — sibling entity (same sub-cluster)
+- [tonnage](doc:tonnage)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
