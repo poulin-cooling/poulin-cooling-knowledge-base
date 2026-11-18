@@ -272,6 +272,12 @@
         "pages": [
           "poulin-cooling-ac-and-refrigeration-reviews"
         ]
+      },
+      {
+        "group": "About",
+        "pages": [
+          "about-this-guide"
+        ]
       }
     ]
   },
