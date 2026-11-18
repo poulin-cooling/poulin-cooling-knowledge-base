@@ -65,12 +65,16 @@ SEER rating — Seasonal Energy Efficiency Ratio — is the numerical standard m
 
 ### Related entities
 
-- [energy efficiency](doc:energy-efficiency) — parent entity (links up the chain — PRIMARY up-link)
+- [energy efficiency](doc:energy-efficiency)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [btu](doc:btu) — sibling entity (same sub-cluster)
+- [btu](doc:btu)
 
-- [tonnage](doc:tonnage) — sibling entity (same sub-cluster)
+- [tonnage](doc:tonnage)
 
-- [load calculation](doc:load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](doc:load-calculation)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
