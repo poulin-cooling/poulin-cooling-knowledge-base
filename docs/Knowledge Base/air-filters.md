@@ -64,6 +64,10 @@ Air filters are devices that remove particulate matter from an HVAC air stream, 
 
 ### Related entities
 
-- [uv lights](doc:uv-lights) — parent entity (links up the chain — PRIMARY up-link)
+- [uv lights](doc:uv-lights)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
