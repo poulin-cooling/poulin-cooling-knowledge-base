@@ -60,12 +60,16 @@ AC not cooling occurs when an air conditioner runs but fails to lower indoor tem
 
 ### Related entities
 
-- [preventative maintenance](doc:preventative-maintenance) — parent entity (links up the chain — PRIMARY up-link)
+- [preventative maintenance](doc:preventative-maintenance)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [coolant leak](doc:coolant-leak) — sibling entity (same sub-cluster)
+- [coolant leak](doc:coolant-leak)
 
-- [frozen evaporator coil](doc:frozen-evaporator-coil) — sibling entity (same sub-cluster)
+- [frozen evaporator coil](doc:frozen-evaporator-coil)
 
-- [clogged drain lines](doc:clogged-drain-lines) — sibling entity (same sub-cluster)
+- [clogged drain lines](doc:clogged-drain-lines)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
