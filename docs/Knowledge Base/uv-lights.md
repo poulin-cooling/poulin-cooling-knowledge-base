@@ -31,12 +31,16 @@ UV lights apply in 3 primary installation locations within air conditioning syst
 
 ### Related entities
 
-- [hepa filter](doc:hepa-filter) — parent entity (links up the chain — PRIMARY up-link)
+- [hepa filter](doc:hepa-filter)
 
-- [air conditioning contractor](doc:air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](doc:air-conditioning-contractor)
 
-- [duct sealing](doc:duct-sealing) — sibling entity (same sub-cluster)
+- [duct sealing](doc:duct-sealing)
 
-- [air duct cleaning](doc:air-duct-cleaning) — sibling entity (same sub-cluster)
+- [air duct cleaning](doc:air-duct-cleaning)
 
-- [dehumidifier](doc:dehumidifier) — sibling entity (same sub-cluster)
+- [dehumidifier](doc:dehumidifier)
+
+---
+
+Educational and promotional third-party guide to Poulin Cooling A/C and Refrigeration. Some details may be out of date or contain errors. Visit Poulin Cooling A/C and Refrigeration's website for up-to-date information.
