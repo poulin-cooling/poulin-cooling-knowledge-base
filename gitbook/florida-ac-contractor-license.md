@@ -6,7 +6,7 @@ A Florida AC Contractor License, known as a CAC License Florida, gives a contrac
 
 ### What the Florida AC contractor license is
 
-The Florida AC Contractor License serves as the state credential that allows a contractor to sign contracts for and carry out air conditioning system work anywhere in Florida. Two main license categories operate under this system: the CAC (Certified AC Contractor) license, which remains valid throughout the state, and the RAC (Registered AC Contractor) license, which remains valid only inside the local jurisdiction that granted it. The Florida HVAC Contractor License operates under the identical regulatory framework and the same issuing body. [Air conditioning contractors](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) in Florida who hold CAC status can usually operate statewide, while an RAC registration stays limited to the jurisdiction of the issuing local authority.
+The Florida AC Contractor License serves as the state credential that allows a contractor to sign contracts for and carry out air conditioning system work anywhere in Florida. Two main license categories operate under this system: the CAC (Certified AC Contractor) license, which remains valid throughout the state, and the RAC (Registered AC Contractor) license, which remains valid only inside the local jurisdiction that granted it. The Florida HVAC Contractor License operates under the identical regulatory framework and the same issuing body. [Air conditioning contractors](air-conditioning-contractor.md) in Florida who hold CAC status can usually operate statewide, while an RAC registration stays limited to the jurisdiction of the issuing local authority.
 
 ### Measurable attributes of the Florida CAC license
 
@@ -40,11 +40,11 @@ Unlicensed AC work refers to any air conditioning installation, repair, or repla
 
 ### Where the Florida AC contractor license applies in Clearwater
 
-The FL AC License governs all air conditioning contracting performed inside Florida. A CAC license extends to every county and municipality in the state, which includes Clearwater and the surrounding Pinellas County area. Local jurisdictions may impose additional permit fees or inspection rules beyond the state license. They cannot replace the state requirement. A statewide CAC license normally covers Clearwater and the remainder of Pinellas County, which places installation, repair, and replacement work under state licensing rules even though local building departments may still demand their own permits and inspections. [Air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) services frequently require coordination with local building officials despite possession of the state license.
+The FL AC License governs all air conditioning contracting performed inside Florida. A CAC license extends to every county and municipality in the state, which includes Clearwater and the surrounding Pinellas County area. Local jurisdictions may impose additional permit fees or inspection rules beyond the state license. They cannot replace the state requirement. A statewide CAC license normally covers Clearwater and the remainder of Pinellas County, which places installation, repair, and replacement work under state licensing rules even though local building departments may still demand their own permits and inspections. [Air conditioning contractor](air-conditioning-contractor.md) services frequently require coordination with local building officials despite possession of the state license.
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [fl certified air conditioning contractor license](https://poulincoolingacandrefrigeration.mintlify.app/fl-certified-air-conditioning-contractor-license)
 

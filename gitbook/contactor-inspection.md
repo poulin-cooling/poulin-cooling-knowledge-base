@@ -56,7 +56,7 @@ Contactor neglect—leaving a worn contactor in service after it exceeds its mea
 
 Contactor inspection differs from contactor replacement. Inspection constitutes the diagnostic step that decides whether replacement is necessary. Replacement constitutes the corrective action taken after a Fail or Repair Recommended result. A No-Fault Status, in which every measured value passes, leaves the contactor in service with no further action except documentation.
 
-Contactor bypass consists of a temporary field procedure in which a technician manually jumps the contactor terminals to determine whether the compressor operates. Technicians employ bypass solely as a diagnostic step to isolate a suspected contactor fault. Bypass never serves as a repair. The procedure disables the safety switching function and must be removed before the system returns to normal operation. Contactor failure represents the end-state condition that inspection seeks to identify in advance. A licensed [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) evaluates all measured values in combination instead of basing decisions on any single reading alone. [Poulin Cooling A/C and Refrigeration](https://share.google/AHW8YUATKU9vSMJoi) includes contactor inspection within its maintenance and diagnostic services offered in Clearwater.
+Contactor bypass consists of a temporary field procedure in which a technician manually jumps the contactor terminals to determine whether the compressor operates. Technicians employ bypass solely as a diagnostic step to isolate a suspected contactor fault. Bypass never serves as a repair. The procedure disables the safety switching function and must be removed before the system returns to normal operation. Contactor failure represents the end-state condition that inspection seeks to identify in advance. A licensed [air conditioning contractor](air-conditioning-contractor.md) evaluates all measured values in combination instead of basing decisions on any single reading alone. [Poulin Cooling A/C and Refrigeration](https://share.google/AHW8YUATKU9vSMJoi) includes contactor inspection within its maintenance and diagnostic services offered in Clearwater.
 
 ### AC contactor inspection in Florida's climate
 
@@ -64,7 +64,7 @@ Florida systems operate year-round. This operating pattern gives AC contactor in
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [system diagnostics](system-diagnostics.md)
 

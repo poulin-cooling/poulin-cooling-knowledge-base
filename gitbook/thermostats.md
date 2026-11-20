@@ -2,7 +2,7 @@
 
 ## Thermostats in Clearwater
 
-Thermostats regulate temperature automatically by directing HVAC equipment within an operating span of -10°F to 120°F. The device links directly to air conditioning and heating units, transmitting commands that activate or deactivate operation according to the chosen target temperature. HVAC technicians normally install and maintain thermostats. An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can help select the right model and perform diagnostics on standard system configurations.
+Thermostats regulate temperature automatically by directing HVAC equipment within an operating span of -10°F to 120°F. The device links directly to air conditioning and heating units, transmitting commands that activate or deactivate operation according to the chosen target temperature. HVAC technicians normally install and maintain thermostats. An [air conditioning contractor](air-conditioning-contractor.md) can help select the right model and perform diagnostics on standard system configurations.
 
 ### What thermostats are and how they work
 
@@ -58,7 +58,7 @@ A thermostat is a temperature control device that automatically regulates HVAC s
 
 - [programmable thermostat](https://poulincoolingacandrefrigeration.mintlify.app/programmable-thermostat)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 

@@ -28,7 +28,7 @@ Variable refrigerant flow design, sizing, and commissioning remain specific to e
 
 Variable refrigerant flow counts as one form of HVAC technology built from three core component parts: the outdoor condensing unit, the indoor air handling units, and the refrigerant piping network. Each component carries out a separate function inside the system. The outdoor condensing unit contains the inverter-driven compressor and governs total refrigerant output. The indoor [air handlers](https://poulincoolingacandrefrigeration.mintlify.app/air-handlers) deliver conditioned air inside each zone and transmit demand signals back to the outdoor unit. The refrigerant piping network transports refrigerant between the outdoor unit and all indoor units to form the circulatory backbone of the system.
 
-Variable refrigerant flow receives the designations VRF system or Variable Refrigerant Volume system. These terms appear interchangeably inside manufacturer documentation and installation specifications. The technology appears inside air conditioning systems that serve commercial office buildings, hotels, multi-family residential properties, and large single-family homes in Clearwater. An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) holding VRF-specific training must perform system design, refrigerant circuit sizing, and commissioning. Errors in piping length or branch controller placement lower system efficiency and lifespan directly.
+Variable refrigerant flow receives the designations VRF system or Variable Refrigerant Volume system. These terms appear interchangeably inside manufacturer documentation and installation specifications. The technology appears inside air conditioning systems that serve commercial office buildings, hotels, multi-family residential properties, and large single-family homes in Clearwater. An [air conditioning contractor](air-conditioning-contractor.md) holding VRF-specific training must perform system design, refrigerant circuit sizing, and commissioning. Errors in piping length or branch controller placement lower system efficiency and lifespan directly.
 
 ### Common problems and signs of variable refrigerant flow failure
 
@@ -56,7 +56,7 @@ Variable refrigerant flow does not fit every application. Buildings whose refrig
 
 - [heat pumps](https://poulincoolingacandrefrigeration.mintlify.app/heat-pumps)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [ductless mini split systems](https://poulincoolingacandrefrigeration.mintlify.app/ductless-mini-split-systems)
 

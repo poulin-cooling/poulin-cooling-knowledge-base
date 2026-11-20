@@ -14,7 +14,7 @@ A dirty air filter presents two primary measurable attributes that separate the 
 
 ### How a dirty air filter relates to the broader HVAC system
 
-A dirty air filter reduces HVAC efficiency because it limits the volume of air the system can move in each cycle. The limited airflow requires the blower motor to operate longer and under heavier load, which raises energy consumption and mechanical wear. A dirty air filter forms one state inside the larger group of air filter conditions that includes clean air filter and new air filter as opposite states. The connection between a dirty air filter and [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) remains direct: once saturated, the filter stops capturing new contaminants and releases previously trapped particles back into the airstream. Restricted airflow from a dirty filter interferes with [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) because the evaporator coil no longer receives the correct air volume required to remove indoor moisture. In Clearwater's humid subtropical climate, this moisture imbalance speeds mold growth on the evaporator coil and inside the ductwork. Dirty air filters normally require a full system check because the combined effects on airflow, humidity control, and the evaporator coil can increase rapidly. An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can evaluate these issues during maintenance.
+A dirty air filter reduces HVAC efficiency because it limits the volume of air the system can move in each cycle. The limited airflow requires the blower motor to operate longer and under heavier load, which raises energy consumption and mechanical wear. A dirty air filter forms one state inside the larger group of air filter conditions that includes clean air filter and new air filter as opposite states. The connection between a dirty air filter and [poor indoor air quality](https://poulincoolingacandrefrigeration.mintlify.app/poor-indoor-air-quality) remains direct: once saturated, the filter stops capturing new contaminants and releases previously trapped particles back into the airstream. Restricted airflow from a dirty filter interferes with [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control) because the evaporator coil no longer receives the correct air volume required to remove indoor moisture. In Clearwater's humid subtropical climate, this moisture imbalance speeds mold growth on the evaporator coil and inside the ductwork. Dirty air filters normally require a full system check because the combined effects on airflow, humidity control, and the evaporator coil can increase rapidly. An [air conditioning contractor](air-conditioning-contractor.md) can evaluate these issues during maintenance.
 
 ### Common signs of a dirty air filter
 
@@ -48,7 +48,7 @@ A dirty air filter is a clogged filter media condition caused by accumulated dus
 
 - [air filters](https://poulincoolingacandrefrigeration.mintlify.app/air-filters)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [humidity control](https://poulincoolingacandrefrigeration.mintlify.app/humidity-control)
 

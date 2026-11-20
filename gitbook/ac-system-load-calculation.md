@@ -66,11 +66,11 @@ AC System Load Calculation applies to every project that sizes a cooling system 
 
 - **Energy audits:** Energy audits apply a retrospective Cooling Load Analysis to establish whether an existing system is oversized or undersized relative to the actual building load, which shapes the audit recommendations.
 
-Load calculations such as a Manual J report form part of a proper air conditioning installation and supply a documented basis for the sizing decision. Proper load calculations such as a Manual J report give homeowners a verifiable basis for the sizing decision instead of a number taken from a square-footage chart, especially when the report accompanies the equipment proposal. An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can provide one. [Poulin Cooling](https://maps.app.goo.gl/f9mBTXFtCGAocBgZA) holds a Google rating of 5.0 and provides emergency service calls 7:00am-10:00pm; after-hours emergency services available.
+Load calculations such as a Manual J report form part of a proper air conditioning installation and supply a documented basis for the sizing decision. Proper load calculations such as a Manual J report give homeowners a verifiable basis for the sizing decision instead of a number taken from a square-footage chart, especially when the report accompanies the equipment proposal. An [air conditioning contractor](air-conditioning-contractor.md) can provide one. [Poulin Cooling](https://maps.app.goo.gl/f9mBTXFtCGAocBgZA) holds a Google rating of 5.0 and provides emergency service calls 7:00am-10:00pm; after-hours emergency services available.
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [system diagnostics](system-diagnostics.md)
 

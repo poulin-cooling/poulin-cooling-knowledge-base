@@ -12,7 +12,7 @@ Manufacturer warranty documents address three areas in common: equipment registr
 
 Registration secures an extended coverage period where a manufacturer provides one. Installation performed by a licensed contractor establishes that the system was set up according to specifications. Maintenance records demonstrate the equipment received the care the manufacturer specified. The manufacturer decides which of these items serves as a claim requirement through its written warranty.
 
-An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) who holds a license and maintains familiarity with manufacturer documentation performs installation and establishes the maintenance schedule that preserves the warranty.
+An [air conditioning contractor](air-conditioning-contractor.md) who holds a license and maintains familiarity with manufacturer documentation performs installation and establishes the maintenance schedule that preserves the warranty.
 
 ### Measurable attributes of HVAC warranty requirements
 
@@ -74,7 +74,7 @@ Manufacturer warranty terms differ by manufacturer, model, and state law, and lo
 
 - [AC maintenance](https://poulincoolingacandrefrigeration.mintlify.app/ac-maintenance)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [building codes](https://poulincoolingacandrefrigeration.mintlify.app/building-codes)
 

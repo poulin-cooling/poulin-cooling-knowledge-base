@@ -40,7 +40,7 @@ Emergency cooler repair becomes required when a unit displays distinct, measurab
 
 ### How emergency refrigeration repair relates to the broader service system
 
-Emergency refrigeration repair occupies a defined place inside a larger service network that includes both commercial and residential climate control. It links directly to the [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) function because technicians who handle cooling systems generally hold refrigerant-handling credentials required for commercial refrigeration tasks. The diagnostic steps, refrigerant recovery procedures, and electrical troubleshooting show substantial overlap between the disciplines.
+Emergency refrigeration repair occupies a defined place inside a larger service network that includes both commercial and residential climate control. It links directly to the [air conditioning contractor](air-conditioning-contractor.md) function because technicians who handle cooling systems generally hold refrigerant-handling credentials required for commercial refrigeration tasks. The diagnostic steps, refrigerant recovery procedures, and electrical troubleshooting show substantial overlap between the disciplines.
 
 Urgent refrigeration service remains separate from emergency AC repair although both address cooling-system failures. AC repair concerns occupant comfort. Refrigeration repair concerns food safety and inventory protection. These differences determine the stakes and required speed of response.
 
@@ -70,7 +70,7 @@ Businesses that follow a consistent service schedule experience fewer emergency 
 
 - [commercial refrigeration repair](https://poulincoolingacandrefrigeration.mintlify.app/commercial-refrigeration-repair)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
 

@@ -16,7 +16,7 @@ Leak detection remains separate from **Leak Repair**, which performs the actual 
 
 Refrigerant leak detection relies on four primary Detection Methods: electronic detection, UV dye tracing, nitrogen pressure testing, and soap-bubble inspection. Electronic detection employs a calibrated sensor that reads refrigerant concentration in parts per million (ppm). Modern instruments register losses as small as 0.1 oz per year. UV dye tracing adds a fluorescent compound to the refrigerant circuit; the technician then examines every joint with a UV lamp so that any dye escaping through a breach becomes visible. Nitrogen pressure testing isolates the circuit, fills it with dry nitrogen, and watches for pressure drop across an interval of 15 to 30 minutes. This step confirms whether a breach exists before refrigerant enters the system. Soap-bubble inspection remains the simplest approach and works on large, accessible fittings where bubbles appear at the leak site.
 
-Each method offers a different Detection Range. Electronic sensors cover a sweep radius of roughly 1 to 2 meters per pass and suit tracing line sets inside wall cavities. UV dye reaches any surface the dye has circulated through and therefore covers the entire refrigerant circuit. Nitrogen testing evaluates the whole sealed system at one time but requires a follow-up visual pass to locate the breach. An [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) chooses the method according to system type, refrigerant charge size and line-set accessibility.
+Each method offers a different Detection Range. Electronic sensors cover a sweep radius of roughly 1 to 2 meters per pass and suit tracing line sets inside wall cavities. UV dye reaches any surface the dye has circulated through and therefore covers the entire refrigerant circuit. Nitrogen testing evaluates the whole sealed system at one time but requires a follow-up visual pass to locate the breach. An [air conditioning contractor](air-conditioning-contractor.md) chooses the method according to system type, refrigerant charge size and line-set accessibility.
 
 ### Measurable attributes of leak detection accuracy and time
 
@@ -38,7 +38,7 @@ New construction projects require a leak detection pass after the line set is ru
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [system diagnostics](system-diagnostics.md)
 

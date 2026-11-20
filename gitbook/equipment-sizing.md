@@ -32,7 +32,7 @@ Equipment sizing produces specific, measurable values that drive every downstrea
 
 ### How equipment sizing relates to AC installation and unit selection
 
-Equipment sizing determines AC unit selection for both residential and commercial cooling systems. The load calculation result is the specification the [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) uses to choose a unit with the correct capacity, SEER rating, and refrigerant circuit for the building. No other step in the installation process can substitute for it.
+Equipment sizing determines AC unit selection for both residential and commercial cooling systems. The load calculation result is the specification the [air conditioning contractor](air-conditioning-contractor.md) uses to choose a unit with the correct capacity, SEER rating, and refrigerant circuit for the building. No other step in the installation process can substitute for it.
 
 Proper equipment sizing for AC installation sets the duct layout requirements. Existing ductwork is not always compatible with a new unit. If it was designed for a different capacity, the contractor must evaluate whether it can handle the new system's airflow before installation proceeds. Skipping that evaluation creates a common source of comfort complaints even after a brand-new installation.
 
@@ -70,7 +70,7 @@ Commercial properties require a load calculation process scaled to larger square
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [load calculation](https://poulincoolingacandrefrigeration.mintlify.app/load-calculation)
 

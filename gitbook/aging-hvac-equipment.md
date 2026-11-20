@@ -22,7 +22,7 @@ Aging HVAC equipment displays several attributes that technicians and engineers 
 
 - **Operating condition:** Operating condition indicates whether the system runs continuously, intermittently, or not at all. Unpredictable cycling or inability to reach the thermostat setting marks a late-stage aging indicator.
 
-A licensed [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) can assess all five attributes during one diagnostic visit and provide a precise location of the system on the aging curve.
+A licensed [air conditioning contractor](air-conditioning-contractor.md) can assess all five attributes during one diagnostic visit and provide a precise location of the system on the aging curve.
 
 ### Problems with aging HVAC equipment
 
@@ -46,7 +46,7 @@ Aging HVAC equipment applies to any residential or light-commercial building equ
 
 ### Related entities
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [system diagnostics](system-diagnostics.md)
 

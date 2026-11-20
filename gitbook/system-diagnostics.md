@@ -10,7 +10,7 @@ System diagnostics follows a structured troubleshooting sequence that records sp
 
 A complete diagnostic evaluation consists of three parts. **Performance testing** records operating pressures, temperature differentials, and electrical draw while the system runs under load. **Component inspection** checks the compressor, condenser coil, evaporator coil, blower motor, and capacitors for signs of wear or failure. **Data analysis** compares the recorded measurements to determine which component falls outside its rated specification.
 
-System diagnostics serves as a troubleshooting process for HVAC equipment. It forms one step inside [air conditioning service and maintenance](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor) and occurs before any repair or replacement decision. The procedure differs from system installation and preventive maintenance, both of which proceed on the assumption that the equipment operates inside normal parameters.
+System diagnostics serves as a troubleshooting process for HVAC equipment. It forms one step inside [air conditioning service and maintenance](air-conditioning-contractor.md) and occurs before any repair or replacement decision. The procedure differs from system installation and preventive maintenance, both of which proceed on the assumption that the equipment operates inside normal parameters.
 
 ### Measurable attributes of system diagnostics
 
@@ -52,7 +52,7 @@ Local scheduling and service details are available from [Poulin Cooling A/C and 
 
 - [manual j](https://poulincoolingacandrefrigeration.mintlify.app/manual-j)
 
-- [air conditioning contractor](https://poulincoolingacandrefrigeration.mintlify.app/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [cooling efficiency](https://poulincoolingacandrefrigeration.mintlify.app/cooling-efficiency)
 
