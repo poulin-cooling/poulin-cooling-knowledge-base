@@ -8,6 +8,8 @@ Browse the knowledge base articles below.
 
 * [HVAC System Efficiency Assessment](doc:hvac-system-efficiency-assessment)
 * [Drain Line Clearing](doc:drain-line-clearing)
+* [Service Records](doc:service-records)
+* [Landlords](doc:landlords)
 * [Static Pressure Testing](doc:static-pressure-testing)
 * [About this guide](doc:about-this-guide)
 
