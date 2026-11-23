@@ -28,7 +28,7 @@ AC electrical wiring connects directly to the AC unit as one component within th
 
 ### Proper AC electrical wiring for new installations
 
-Proper AC electrical wiring for a new installation begins with calculation of the unit's minimum circuit ampacity and maximum overcurrent protection rating from the equipment nameplate, followed by selection of the correct wire gauge and breaker size. A dedicated circuit from the main panel to a weatherproof disconnect box near the outdoor unit represents standard practice, with the disconnect sized to allow safe service isolation. Requirements can vary and should be confirmed with the local building authority for outdoor and attic environments. [Central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation) and [new construction AC installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation) typically both require the electrical rough-in to be completed and inspected before the equipment is set, so the wiring work is generally coordinated with the mechanical installation schedule. Conductor material selection matters here: copper conductors at termination points resist the oxidation that causes loose connections over time, which is why copper is specified even when aluminum feeders are used for longer panel runs. Completing the installation typically depends on properly made [electrical connections](https://poulincoolingacandrefrigeration.mintlify.app/electrical-connections) at every lug and terminal.
+Proper AC electrical wiring for a new installation begins with calculation of the unit's minimum circuit ampacity and maximum overcurrent protection rating from the equipment nameplate, followed by selection of the correct wire gauge and breaker size. A dedicated circuit from the main panel to a weatherproof disconnect box near the outdoor unit represents standard practice, with the disconnect sized to allow safe service isolation. Requirements can vary and should be confirmed with the local building authority for outdoor and attic environments. [Central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation) and [new construction AC installation](new-construction-ac-installation.md) typically both require the electrical rough-in to be completed and inspected before the equipment is set, so the wiring work is generally coordinated with the mechanical installation schedule. Conductor material selection matters here: copper conductors at termination points resist the oxidation that causes loose connections over time, which is why copper is specified even when aluminum feeders are used for longer panel runs. Completing the installation typically depends on properly made [electrical connections](https://poulincoolingacandrefrigeration.mintlify.app/electrical-connections) at every lug and terminal.
 
 ### Common problems and signs of faulty AC electrical wiring
 
@@ -46,7 +46,7 @@ AC electrical wiring applies in every setting where a vapor-compression cooling 
 
 - [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation)
 
-- [new construction ac installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation)
+- [new construction ac installation](new-construction-ac-installation.md)
 
 ---
 

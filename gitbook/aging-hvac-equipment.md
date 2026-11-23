@@ -38,7 +38,7 @@ Aging HVAC equipment energy costs increase as efficiency falls. A system rated b
 
 Aging HVAC equipment replacement moves a property from a degraded unit to a new AC installation. The measurable differences appear across every performance attribute. A new high-efficiency HVAC system carries a SEER rating of 16 to 20 or higher, while legacy units commonly sit below 14 SEER. Repair frequency decreases markedly during the initial years of operation. Operating condition changes from intermittent to steady and dependable. The compressor, condenser coil, evaporator coil, capacitor and refrigerant lines arrive as factory-new components rated for a complete additional service life.
 
-In new construction projects throughout the Clearwater area, [new construction AC installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation) begins the service clock at zero with equipment correctly sized to the building’s calculated load. For existing residences replacing an old HVAC system, [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation) requires load calculation, equipment selection, and correct refrigerant line sizing to prevent recurrence of the efficiency shortfalls found in the prior unit. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/dQi8K7rjZ9g) holds a 5.0 Google rating and provides Emergency service calls 7:00am-10:00pm; after-hours emergency services available. The company serves the Clearwater, FL area and selects replacement equipment according to the actual cooling load of the home rather than the tonnage of the existing unit.
+In new construction projects throughout the Clearwater area, [new construction AC installation](new-construction-ac-installation.md) begins the service clock at zero with equipment correctly sized to the building’s calculated load. For existing residences replacing an old HVAC system, [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation) requires load calculation, equipment selection, and correct refrigerant line sizing to prevent recurrence of the efficiency shortfalls found in the prior unit. [Poulin Cooling A/C and Refrigeration](https://sl.bing.net/dQi8K7rjZ9g) holds a 5.0 Google rating and provides Emergency service calls 7:00am-10:00pm; after-hours emergency services available. The company serves the Clearwater, FL area and selects replacement equipment according to the actual cooling load of the home rather than the tonnage of the existing unit.
 
 ### Where aging HVAC equipment applies
 
@@ -52,7 +52,7 @@ Aging HVAC equipment applies to any residential or light-commercial building equ
 
 - [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation)
 
-- [new construction ac installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation)
+- [new construction ac installation](new-construction-ac-installation.md)
 
 ---
 

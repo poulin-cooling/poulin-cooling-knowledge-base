@@ -40,7 +40,7 @@ Effective noise reduction applies in both residential and commercial settings al
 
 - [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation)
 
-- [new construction ac installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation)
+- [new construction ac installation](new-construction-ac-installation.md)
 
 ---
 

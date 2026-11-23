@@ -32,7 +32,7 @@ The calculation standard that governs how these inputs combine is ACCA Manual J.
 
 AC System Load Calculation forms a required step in proper AC system sizing and equipment selection. The load calculation supplies the upstream data that supports every later decision. A contractor who sizes equipment by square footage alone follows a practice known as rule-of-thumb sizing. That approach can produce a result off by 30 percent or more in either direction. Oversized systems short-cycle. Short-cycling occurs when the system satisfies the thermostat before it runs long enough to remove moisture from the air, leaving the space cool but clammy. An undersized system runs continuously yet never reaches setpoint on the hottest days.
 
-Cooling Load Analysis supplies the foundation for Manual J’s companion documents. Manual S governs equipment selection from the BTU/h output, and Manual D governs duct sizing from the airflow the equipment must deliver. All three documents require an accurate load number. [New construction AC installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation) normally completes all three calculations (Manual J, Manual S and Manual D) before the first piece of ductwork is cut, since later changes after the slab is poured become expensive. In existing buildings the same calculation guides replacement decisions and reveals whether the original system received correct sizing.
+Cooling Load Analysis supplies the foundation for Manual J’s companion documents. Manual S governs equipment selection from the BTU/h output, and Manual D governs duct sizing from the airflow the equipment must deliver. All three documents require an accurate load number. [New construction AC installation](new-construction-ac-installation.md) normally completes all three calculations (Manual J, Manual S and Manual D) before the first piece of ductwork is cut, since later changes after the slab is poured become expensive. In existing buildings the same calculation guides replacement decisions and reveals whether the original system received correct sizing.
 
 A system that behaves unexpectedly after installation often leads to [system diagnostics](system-diagnostics.md) that trace the root cause to an incorrect load calculation performed years earlier instead of a mechanical failure in the equipment.
 
@@ -76,7 +76,7 @@ Load calculations such as a Manual J report form part of a proper air conditioni
 
 - [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation)
 
-- [new construction ac installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation)
+- [new construction ac installation](new-construction-ac-installation.md)
 
 ---
 

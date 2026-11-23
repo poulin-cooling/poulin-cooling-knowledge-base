@@ -34,7 +34,7 @@ The inspection outcome—Pass, Fail, or Repair Recommended—serves as the singl
 
 Contactor inspection occurs on the AC unit's outdoor condensing section. The contactor is positioned between the disconnect and both the compressor and condenser fan motor. Every cooling cycle starts and stops at the contactor. The compressor requires the contactor to close before it can start, and the system requires the contactor to open before it can shut down cleanly. Because the contactor performs the highest number of cycles of any electrical component in a residential [central air conditioning](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation) system, its condition directly influences compressor longevity and overall system reliability. Many [AC repair](https://poulincoolingacandrefrigeration.mintlify.app/ac-repair) calls originate from contactor issues first identified during inspection.
 
-Contactor inspection functions as a focused procedure within full system diagnostics. Both procedures qualify as electrical inspections, yet system diagnostics examines the complete refrigerant circuit, airflow path, and controls while a contactor check limits attention to this single switching component. On [new construction AC installations](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation), technicians perform a baseline contactor inspection at startup. The baseline documents initial contact integrity and coil resistance before the unit begins regular service and supplies the reference point for every later evaluation.
+Contactor inspection functions as a focused procedure within full system diagnostics. Both procedures qualify as electrical inspections, yet system diagnostics examines the complete refrigerant circuit, airflow path, and controls while a contactor check limits attention to this single switching component. On [new construction AC installations](new-construction-ac-installation.md), technicians perform a baseline contactor inspection at startup. The baseline documents initial contact integrity and coil resistance before the unit begins regular service and supplies the reference point for every later evaluation.
 
 ### Signs that indicate a contactor inspection is needed
 
@@ -70,7 +70,7 @@ Florida systems operate year-round. This operating pattern gives AC contactor in
 
 - [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation)
 
-- [new construction ac installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation)
+- [new construction ac installation](new-construction-ac-installation.md)
 
 ---
 

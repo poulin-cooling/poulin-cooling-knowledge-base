@@ -34,7 +34,7 @@ System Integrity describes the state in which the refrigerant circuit holds its 
 
 Leak detection applies to every sealed refrigerant circuit, including split-system residential AC, packaged rooftop units, ductless mini-split systems, heat pumps and commercial refrigeration equipment. The detection method changes with the application: a residential split system receives an electronic detector sweep plus UV lamp inspection, while a commercial refrigeration rack that contains multiple circuits and large refrigerant charges receives nitrogen testing before refrigerant is introduced. The refrigerant volume in a commercial rack makes a dye-based pass take significantly longer.
 
-New construction projects require a leak detection pass after the line set is run and brazed but before the system is commissioned, because brazed joints remain the most common source of installation-related breaches. [New construction AC installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation) follows this sequence: pressure test, leak confirmation, evacuation and then refrigerant charge. Leak detection on new construction covers both residential and commercial systems and occurs in areas such as Clearwater, Belleair, Largo, Dunedin, Safety Harbor, and Indian Rocks Beach.
+New construction projects require a leak detection pass after the line set is run and brazed but before the system is commissioned, because brazed joints remain the most common source of installation-related breaches. [New construction AC installation](new-construction-ac-installation.md) follows this sequence: pressure test, leak confirmation, evacuation and then refrigerant charge. Leak detection on new construction covers both residential and commercial systems and occurs in areas such as Clearwater, Belleair, Largo, Dunedin, Safety Harbor, and Indian Rocks Beach.
 
 ### Related entities
 
@@ -44,7 +44,7 @@ New construction projects require a leak detection pass after the line set is ru
 
 - [central air conditioning installation](https://poulincoolingacandrefrigeration.mintlify.app/central-air-conditioning-installation)
 
-- [new construction ac installation](https://poulincoolingacandrefrigeration.mintlify.app/new-construction-ac-installation)
+- [new construction ac installation](new-construction-ac-installation.md)
 
 ---
 

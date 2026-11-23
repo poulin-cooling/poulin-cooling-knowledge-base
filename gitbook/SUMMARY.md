@@ -11,6 +11,7 @@
 
 * [Florida AC Contractor License](florida-ac-contractor-license.md)
 * [Variable Refrigerant Flow](variable-refrigerant-flow.md)
+* [Blower Motors](blower-motors.md)
 
 ## Indoor Air Quality
 
@@ -32,11 +33,17 @@
 ## AC Repair
 
 * [Contactor Inspection](contactor-inspection.md)
+* [Capacitor Failure](capacitor-failure.md)
+
+## AC Installation
+
+* [New Construction AC Installation](new-construction-ac-installation.md)
 
 ## AC Maintenance
 
 * [Extended Labor Warranty](extended-labor-warranty.md)
 * [Leak Detection](leak-detection.md)
+* [Coil Cleaning](coil-cleaning.md)
 * [Manufacturer Warranty Requirements](manufacturer-warranty-requirements.md)
 * [Air Conditioner Lifespan](air-conditioner-lifespan.md)
 
@@ -46,6 +53,7 @@
 
 ## More Topics
 
+* [Package Unit Air Conditioner](package-unit-air-conditioner.md)
 * [Aging HVAC Equipment](aging-hvac-equipment.md)
 * [Equipment Sizing](equipment-sizing.md)
 * [Noise Reduction](noise-reduction.md)
