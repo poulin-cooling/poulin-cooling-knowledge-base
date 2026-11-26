@@ -18,9 +18,12 @@ Browse the knowledge base articles below.
 * [Walk-In Freezer](doc:walk-in-freezer)
 * [Landlords](doc:landlords)
 * [Uneven Cooling](doc:uneven-cooling)
+* [High Energy Bills](doc:high-energy-bills)
 * [Programmable Thermostat](doc:programmable-thermostat)
 * [Static Pressure Testing](doc:static-pressure-testing)
+* [AC Leak Detection](doc:ac-leak-detection)
 * [Comfort](doc:comfort)
+* [Poulin Cooling A/C and Refrigeration service area in Belleair Beach, FL](doc:serving-belleair-beach-fl)
 * [About this guide](doc:about-this-guide)
 
 ---
