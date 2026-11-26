@@ -44,7 +44,7 @@ Emergency refrigeration repair occupies a defined place inside a larger service 
 
 Urgent refrigeration service remains separate from emergency AC repair although both address cooling-system failures. AC repair concerns occupant comfort. Refrigeration repair concerns food safety and inventory protection. These differences determine the stakes and required speed of response.
 
-Refrigeration breakdown service connects to [residential HVAC](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) through shared technician knowledge of the refrigerant cycle. Commercial refrigeration, however, operates at higher pressures, uses different refrigerants, and runs continuously instead of on a seasonal basis. Reliable [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) in commercial kitchens require refrigeration systems to remain functional. Failed units increase surrounding humidity and temperature, which alters conditions throughout the space.
+Refrigeration breakdown service connects to [residential HVAC](residential-hvac.md) through shared technician knowledge of the refrigerant cycle. Commercial refrigeration, however, operates at higher pressures, uses different refrigerants, and runs continuously instead of on a seasonal basis. Reliable [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) in commercial kitchens require refrigeration systems to remain functional. Failed units increase surrounding humidity and temperature, which alters conditions throughout the space.
 
 ### Where emergency refrigeration repair applies
 
@@ -72,7 +72,7 @@ Businesses that follow a consistent service schedule experience fewer emergency 
 
 - [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
+- [residential hvac](residential-hvac.md)
 
 - [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 

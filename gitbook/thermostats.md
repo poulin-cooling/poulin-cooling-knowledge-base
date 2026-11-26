@@ -24,7 +24,7 @@ A [programmable thermostat](https://poulincoolingacandrefrigeration.mintlify.app
 
 ### How thermostats connect to the broader HVAC system
 
-Thermostats occupy the control layer inside a full HVAC system and serve as the central command point for all heating and cooling cycles. The device joins air conditioning equipment through low-voltage wiring, normally 24V, that delivers signals to the air handler, condenser, and heat source. Within [residential HVAC](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac) systems the thermostat forms one element alongside ductwork, air handlers, condensers, and filtration components.
+Thermostats occupy the control layer inside a full HVAC system and serve as the central command point for all heating and cooling cycles. The device joins air conditioning equipment through low-voltage wiring, normally 24V, that delivers signals to the air handler, condenser, and heat source. Within [residential HVAC](residential-hvac.md) systems the thermostat forms one element alongside ductwork, air handlers, condensers, and filtration components.
 
 Thermostat location influences overall system precision. Placement near a heat source, outside wall, or supply vent causes the sensor to detect a temperature that does not reflect average room conditions, leading to short-cycling or extended run times. Correct positioning places the unit on an interior wall, 5 feet above the floor, and clear of direct sunlight and air currents. Thermostat operation connects with [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions) since the frequency of system runtime determines how often air moves through filters and dehumidification components.
 
@@ -60,7 +60,7 @@ A thermostat is a temperature control device that automatically regulates HVAC s
 
 - [air conditioning contractor](air-conditioning-contractor.md)
 
-- [residential hvac](https://poulincoolingacandrefrigeration.mintlify.app/residential-hvac)
+- [residential hvac](residential-hvac.md)
 
 - [indoor air quality solutions](https://poulincoolingacandrefrigeration.mintlify.app/indoor-air-quality-solutions)
 

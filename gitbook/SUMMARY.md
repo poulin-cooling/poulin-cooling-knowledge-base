@@ -12,6 +12,7 @@
 * [Florida AC Contractor License](florida-ac-contractor-license.md)
 * [Variable Refrigerant Flow](variable-refrigerant-flow.md)
 * [Blower Motors](blower-motors.md)
+* [Residential HVAC](residential-hvac.md)
 
 ## Indoor Air Quality
 
@@ -53,7 +54,9 @@
 
 ## More Topics
 
+* [Multi-Zone Mini-Split System](multi-zone-mini-split-system.md)
 * [Package Unit Air Conditioner](package-unit-air-conditioner.md)
 * [Aging HVAC Equipment](aging-hvac-equipment.md)
 * [Equipment Sizing](equipment-sizing.md)
 * [Noise Reduction](noise-reduction.md)
+* [Psychrometric Testing](psychrometric-testing.md)
